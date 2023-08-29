@@ -1,6 +1,6 @@
 ---
 layout: assignment
-permalink: Assignments/IceBreaker
+permalink: Participation/IceBreaker
 title: "CIE100: Common Intellectual Experience - Ice Breaker Reflection"
 excerpt: "CIE100: Common Intellectual Experience - Ice Breaker Reflection"
 
