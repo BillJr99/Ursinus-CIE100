@@ -206,11 +206,6 @@ schedule:
       - dtitle: "Participation: Ice Breaker Reflection Due"
         dlink: "Participation/IceBreaker"
         points: 10
-    readings:
-      - rtitle: "Center for Writing and Speaking: Reading to Write"
-        rlink: "https://www.ursinus.edu/live/files/4030-reading-to-write-ppt-001"
-      - rtitle: "Center for Writing and Speaking: Reading to Write Worksheet"
-        rlink: "https://www.ursinus.edu/live/files/4031-reading-to-write-worksheet-002"
   - week: "1"
     date: "0"
     title: "Allegory of the Cave, Feminist Manifesto, the Matrix, and Katie Merz's Live the Questions (The Smokestack)"
@@ -224,6 +219,10 @@ schedule:
         rlink: false
       - rtitle: "Katie Merz - Live the Questions (Smokestack)"
         rlink: "https://www.ursinus.edu/live/profiles/5345-katie-merz-live-the-questions/_ingredients/templates/berman-2018/exhibition"
+      - rtitle: "Center for Writing and Speaking: Reading to Write"
+        rlink: "https://www.ursinus.edu/live/files/4030-reading-to-write-ppt-001"
+      - rtitle: "Center for Writing and Speaking: Reading to Write Worksheet"
+        rlink: "https://www.ursinus.edu/live/files/4031-reading-to-write-worksheet-002"        
   - week: "1"
     date: "1"
     title: "Allegory of the Cave, Feminist Manifesto, the Matrix, and Katie Merz's Live the Questions (The Smokestack)"
