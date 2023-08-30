@@ -200,10 +200,9 @@ schedule:
     date: "1"
     title: "Allegory of the Cave, Feminist Manifesto, the Matrix, and Katie Merz's Live the Questions (The Smokestack)"
     deliverables:
-      - dtitle: "Writing: Essay 1 Handed Out"
-        dlink: "Assignments/Essay1"
-        points: 100
-        rubricpath: "_pages/Assignments/asmt-essay1.md"
+      - dtitle: "Participation: Pre-Assessment Handed Out"
+        dlink: "Participation/PreAssessment"
+        points: 10    
       - dtitle: "Participation: Ice Breaker Reflection Due"
         dlink: "Participation/IceBreaker"
         points: 10
@@ -216,9 +215,10 @@ schedule:
     date: "0"
     title: "Allegory of the Cave, Feminist Manifesto, the Matrix, and Katie Merz's Live the Questions (The Smokestack)"
     deliverables:
-      - dtitle: "Participation: Pre-Assessment Handed Out"
-        dlink: "Participation/PreAssessment"
-        points: 10
+      - dtitle: "Writing: Essay 1 Handed Out"
+        dlink: "Assignments/Essay1"
+        points: 100
+        rubricpath: "_pages/Assignments/asmt-essay1.md"
     readings:
       - rtitle: "Common Event: Community Drawing Project (9/6)"
         rlink: false
@@ -261,6 +261,10 @@ schedule:
   - week: "3"
     date: "0"
     title: "Sappho"
+    deliverables:
+      - dtitle: "Participation: Pre-Assessment Due"
+        dlink: "Participation/PreAssessment"
+        points: 10    
     readings:
       - rtitle: "Sappho (poems 1-2; 4-5; 8-9; 12-15; 17; 20-21; 37-84; 87-88; 97-100)"
         rlink: false
@@ -271,10 +275,6 @@ schedule:
   - week: "3"
     date: "1"
     title: "Sappho"
-    deliverables:
-      - dtitle: "Participation: Pre-Assessment Due"
-        dlink: "Participation/PreAssessment"
-        points: 10
   - week: "4"
     date: "0"
     title: "Euthyphro"
