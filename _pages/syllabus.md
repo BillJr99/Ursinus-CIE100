@@ -266,7 +266,7 @@ schedule:
         rlink: false
       - rtitle: "Center for Writing and Speaking: Using Sources Peer Review Exercise"
         rlink: "https://www.ursinus.edu/live/files/4027-peer-review-sheet-spotlight-on-using-sources-008"
-      - rtitle: "Common Event: Difficult Discussions Workshop (9/20)"
+      - rtitle: "Common Event: Difficult Discussions Sep 20"
         rlink: false
   - week: "3"
     date: "1"

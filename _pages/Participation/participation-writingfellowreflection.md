@@ -1,6 +1,6 @@
 ---
 layout: assignment
-permalink: Assignments/WritingFellowReflection
+permalink: Participation/WritingFellowReflection
 title: "CIE100: Common Intellectual Experience - Writing Fellow Meeting Reflection"
 excerpt: "CIE100: Common Intellectual Experience - Writing Fellow Meeting Reflection"
 
