@@ -120,8 +120,10 @@ To be successful at this, we need first to read and re-read the text we’re wor
 > 
 > **Or** , introduce a problem encountered by individuals or society that your text offers a solution to/perspective on. **1-2 sentences.**
 
+{:start="2"}
 2. Introduce your text and suggest how it responds to what "they" say and/or sheds light on the above problem. This should include **1-3 sentences** that introduce(s) the text *as it relates to what they say about the issue/ problem.*
 
+{:start="3"}
 3. Thesis statement—what is the main claim or line of inquiry of your essay? How will you use your text to shed light on the problem introduced above? Why should the reader care about this? **1-2 sentences.**
 
 > Example: Most people happily open a gender reveal party invitation, squeal in delight, and excitedly imagine how fun it will be to buy a mini football jersey for a little baby boy or an adorable little doll for a little baby girl. While I fully understand the impulse to celebrate your new little boy or girl, I caution you against determining or imagining your child's life based on its gender, especially if it is a girl. From the moment, you exclaim, "It's a girl!" you run the risk of limiting your child's life. As Chimamanda Nigozie Adichie argues, gender is x, y, z…If we take her views seriously, we can see that this little party you have invited to me is not just a neutral celebration of a baby's life. Fortunately, Adichie offers several suggestions to counteract society's tendencies to shape girls in particular ways. In what follows, I explore the three most important to argue that…
@@ -136,14 +138,17 @@ To be successful at this, we need first to read and re-read the text we’re wor
 
 > Example: To understand what makes Adichie so instructive we have to consider X….
 
+{:start="4"}
 4. Give evidence for the assertion or point, as specific and detailed as possible. Include 2-3 quotes/paragraph to support your claims.
 
 > Example: Regardless of which suggestion we are reading, we see that Adichie calls attention to Y…For instance, she says, "Blah blah blah."
 
+{:start="5"}
 5. Explain how the evidence supports the assertion.
 
 > Example: This quote suggests that…
 
+{:start="6"}
 6. The beginning of each new paragraph should explicitly transition from the last.
 
 > Example: In addition to Z, Adichie also asserts that we must consider Q.
