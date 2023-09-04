@@ -116,47 +116,47 @@ To be successful at this, we need first to read and re-read the text we’re wor
 
 1. Introduce what "they" say about a particular problem or issue. \[[^2]\]
 
- By "they," I mean a view you previously held, something a specific person has said or implied, or views commonly held by members of society.
+>  By "they," I mean a view you previously held, something a specific person has said or implied, or views commonly held by members of society.
+> 
+> **Or** , introduce a problem encountered by individuals or society that your text offers a solution to/perspective on. **1-2 sentences.**
 
-**Or** , introduce a problem encountered by individuals or society that your text offers a solution to/perspective on. **1-2 sentences.**
+2. Introduce your text and suggest how it responds to what "they" say and/or sheds light on the above problem. This should include **1-3 sentences** that introduce(s) the text *as it relates to what they say about the issue/ problem.*
 
-1. Introduce your text and suggest how it responds to what "they" say and/or sheds light on the above problem. This should include **1-3 sentences** that introduce(s) the text *as it relates to what they say about the issue/ problem.*
+3. Thesis statement—what is the main claim or line of inquiry of your essay? How will you use your text to shed light on the problem introduced above? Why should the reader care about this? **1-2 sentences.**
 
-2. Thesis statement—what is the main claim or line of inquiry of your essay? How will you use your text to shed light on the problem introduced above? Why should the reader care about this? **1-2 sentences.**
-
-_Example:_ Most people happily open a gender reveal party invitation, squeal in delight, and excitedly imagine how fun it will be to buy a mini football jersey for a little baby boy or an adorable little doll for a little baby girl. While I fully understand the impulse to celebrate your new little boy or girl, I caution you against determining or imagining your child's life based on its gender, especially if it is a girl. From the moment, you exclaim, "It's a girl!" you run the risk of limiting your child's life. As Chimamanda Nigozie Adichie argues, gender is x, y, z…If we take her views seriously, we can see that this little party you have invited to me is not just a neutral celebration of a baby's life. Fortunately, Adichie offers several suggestions to counteract society's tendencies to shape girls in particular ways. In what follows, I explore the three most important to argue that…
+> Example: Most people happily open a gender reveal party invitation, squeal in delight, and excitedly imagine how fun it will be to buy a mini football jersey for a little baby boy or an adorable little doll for a little baby girl. While I fully understand the impulse to celebrate your new little boy or girl, I caution you against determining or imagining your child's life based on its gender, especially if it is a girl. From the moment, you exclaim, "It's a girl!" you run the risk of limiting your child's life. As Chimamanda Nigozie Adichie argues, gender is x, y, z…If we take her views seriously, we can see that this little party you have invited to me is not just a neutral celebration of a baby's life. Fortunately, Adichie offers several suggestions to counteract society's tendencies to shape girls in particular ways. In what follows, I explore the three most important to argue that…
 
 ### **Body** —your argument and evidence—presented in order to match your thesis statement and mirroring the outline you set up in your thesis.
 
 1. As a general rule, at least one paragraph for each main assertion (or piece of evidence) is recommended.
 
-1. The general structure for a paragraph is:
+2. The general structure for a paragraph is:
 
-1. Introduce a main theme/topic to be considered in this paragraph.
+3. Introduce a main theme/topic to be considered in this paragraph.
 
-Example: To understand what makes Adichie so instructive we have to consider X….
+> Example: To understand what makes Adichie so instructive we have to consider X….
 
-1. Give evidence for the assertion or point, as specific and detailed as possible. Include 2-3 quotes/paragraph to support your claims.
+4. Give evidence for the assertion or point, as specific and detailed as possible. Include 2-3 quotes/paragraph to support your claims.
 
-Example: Regardless of which suggestion we are reading, we see that Adichie calls attention to Y…For instance, she says, "Blah blah blah."
+> Example: Regardless of which suggestion we are reading, we see that Adichie calls attention to Y…For instance, she says, "Blah blah blah."
 
-1. Explain how the evidence supports the assertion.
+5. Explain how the evidence supports the assertion.
 
-Example: This quote suggests that…
+> Example: This quote suggests that…
 
-1. The beginning of each new paragraph should explicitly transition from the last.
+6. The beginning of each new paragraph should explicitly transition from the last.
 
-Example: In addition to Z, Adichie also asserts that we must consider Q.
+> Example: In addition to Z, Adichie also asserts that we must consider Q.
 
 ### **Conclusion**
 
 1. Restate the main thrust of your examination.
 
-1. Explain its importance—why should we care? What does your argument imply about other, related questions?
+2. Explain its importance—why should we care? What does your argument imply about other, related questions?
 
-1. Optional: Acknowledge any shortcomings with your argument, and/or suggest a further question or topic that you have thought of as a result of your work.
+3. Optional: Acknowledge any shortcomings with your argument, and/or suggest a further question or topic that you have thought of as a result of your work.
 
-Example: Through a close analysis of Adichie's Dear Ijeawele, we have seen that your very understandable impulse to hold a party celebrating the sex of your baby may ultimately have problematic consequences for your baby's life. Admittedly, one might argue that I am blowing this out of proportion, and maybe I am. Afterall, at time point, we are going ot know the sex of this baby, so it might make no difference whether that happens at 20 weeks or at 40 weeks. Perhaps we might conclude that you cannot have the party. Rather, as Adichie shows us, we can address these problems by ….
+> Example: Through a close analysis of Adichie's Dear Ijeawele, we have seen that your very understandable impulse to hold a party celebrating the sex of your baby may ultimately have problematic consequences for your baby's life. Admittedly, one might argue that I am blowing this out of proportion, and maybe I am. Afterall, at time point, we are going ot know the sex of this baby, so it might make no difference whether that happens at 20 weeks or at 40 weeks. Perhaps we might conclude that you cannot have the party. Rather, as Adichie shows us, we can address these problems by ….
 
 **This is a basic structure. It is meant to be a helpful guideline, not a hard and fast rule. If you are familiar with writing papers like this, then you may well have moved beyond this template.** 
 
