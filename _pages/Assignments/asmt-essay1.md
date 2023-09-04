@@ -74,11 +74,11 @@ The texts and works you will consider are:
 
 The following are the topic prompts from which you may choose for this essay:
 
-### Imagery for Effect
+### From Suggestions to Action: What Will I Do?
 
-Both the *Allegory of the Cave* and *The Matrix* use manipulated images of reality or illusion as a metaphor for power dynamics and human struggle.  Discuss in what ways they used this device for similar effect, and in what ways their underlying messages connect through edification and illumination of the human experience, and/or through pacification.  Discuss the divergence in their use of distorted reality.  
+Imagine that you were writing a manifesto similar to Adichie's *Dear Ijeawele* that is directed to the prisoners of the *Allegory of the Cave*, and/or to your incoming classmates.  What social constructs would you challenge within the cave and/or at college?  Discuss how Socrates, the Matrix, the Smokestack, and Adichie would stand up to social constructs with which they disagree.
 
-**Our task:** Consider the ways in which the authors use the same literary devices and metaphors to tell the same type of story, or do they have diverging morals.  How do they use imagery to better connect the reader to their morals?
+**Our task:** Discuss strategies for changing broad social constructs and norms in the voice of the *Allegory of the Cave*, *Dear Ijeawele*, *Live the Questions*, and *The Matrix*, citing references and quotes from these relevant texts to support your interpretation.  Are suggestions in a manifesto sufficient to effect change, and if not, what would these authors suggest to put their texts into action?  
 
 ### Gender Caves (From the CIE Working Group)
 
