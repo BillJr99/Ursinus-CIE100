@@ -436,7 +436,7 @@ schedule:
     title: "Select Your Quest: Coded Bias"
     readings:
       - rtitle: "Coded Bias"
-        rlink: false
+        rlink: "https://ursinuscollege.on.worldcat.org/oclc/1200171382"
       - rtitle: "Are We Automating Racism?"
         rlink: "https://www.youtube.com/watch?v=Ok5sKLXqynQ&list=PLJ8cMiYb3G5cOFj1VQf8ykNOI0ptuHybc&index=4"
   - week: "14"
