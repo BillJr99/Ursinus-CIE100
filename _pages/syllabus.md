@@ -260,20 +260,21 @@ schedule:
   - week: "3"
     date: "0"
     title: "Sappho"
-    deliverables:
-      - dtitle: "Participation: Pre-Assessment Due"
-        dlink: "Participation/PreAssessment"
-        points: 10    
     readings:
       - rtitle: "Sappho (poems 1-2; 4-5; 8-9; 12-15; 17; 20-21; 37-84; 87-88; 97-100)"
         rlink: false
-      - rtitle: "Center for Writing and Speaking: Using Sources Peer Review Exercise"
-        rlink: "https://www.ursinus.edu/live/files/4027-peer-review-sheet-spotlight-on-using-sources-008"
       - rtitle: "Common Event: Difficult Discussions Sep 20"
         rlink: false
   - week: "3"
     date: "1"
     title: "Sappho"
+    deliverables:
+      - dtitle: "Participation: Pre-Assessment Due"
+        dlink: "Participation/PreAssessment"
+        points: 10    
+    readings:
+      - rtitle: "Center for Writing and Speaking: Using Sources Peer Review Exercise"
+        rlink: "https://www.ursinus.edu/live/files/4027-peer-review-sheet-spotlight-on-using-sources-008"
   - week: "4"
     date: "0"
     title: "Euthyphro"
