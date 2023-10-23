@@ -405,7 +405,7 @@ schedule:
     date: "0"
     title: "God is Red"
     readings:
-      - rtitle: "Common Event: Presepolis (11/15)"
+      - rtitle: "Common Event: Persepolis (11/15)"
         rlink: false
       - rtitle: "Center for Writing and Speaking: Revising for Better Organization"
         rlink: "https://www.ursinus.edu/live/files/4039-revising-for-better-organization-ppt-007"
