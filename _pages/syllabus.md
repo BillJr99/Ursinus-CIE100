@@ -406,7 +406,7 @@ schedule:
     title: "God is Red"
     readings:
       - rtitle: "Common Event: Persepolis (11/15)"
-        rlink: false
+        rlink: "https://ursinuscollege.on.worldcat.org/oclc/216883958"
       - rtitle: "Center for Writing and Speaking: Revising for Better Organization"
         rlink: "https://www.ursinus.edu/live/files/4039-revising-for-better-organization-ppt-007"
       - rtitle: "Center for Writing and Speaking: Organization Revision Exercise"
