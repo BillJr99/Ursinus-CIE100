@@ -61,7 +61,7 @@ This paper is an opportunity to pursue how the CIE texts may have influenced you
 
 In our first two papers, we worked on integrating thought-provoking analysis of the texts into our essays, and how to build an insightful thesis statement. We will continue to apply and build on these skills, while now adding a focus on the content of the paragraphs and how they support the argument of our paper.
 
-##Writing Prompts (Choose one!)
+## Writing Prompts (Choose one!)
 
 ### CIE and the Four Questions (from the CIE Working Group)
 
