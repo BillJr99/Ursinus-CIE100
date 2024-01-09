@@ -431,7 +431,7 @@ schedule:
         rubricpath: "_pages/Assignments/asmt-essay3.md"
     readings:
       - rtitle: "In His Own Words: Ta-Nehisi Coates (supplemental recording)"
-        rlink: false
+        rlink: "https://ursinus.instructure.com/courses/2858/pages/between-the-world-and-me"
   - week: "14"
     date: "0"
     title: "Select Your Quest: Coded Bias"

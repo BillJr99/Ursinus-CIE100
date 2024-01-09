@@ -61,7 +61,7 @@ This paper is an opportunity to pursue how the CIE texts may have influenced you
 
 In our first two papers, we worked on integrating thought-provoking analysis of the texts into our essays, and how to build an insightful thesis statement. We will continue to apply and build on these skills, while now adding a focus on the content of the paragraphs and how they support the argument of our paper.
 
-##Writing Prompts (Choose one!)
+## Writing Prompts (Choose one!)
 
 ### CIE and the Four Questions (from the CIE Working Group)
 
@@ -75,7 +75,7 @@ The personal nature of this assignments means that we will devote some words to 
 
 Write a formal, thesis-driven proposal explaining why 2-3 readings from the CIE 100 syllabus should be retained and/or deleted for next year. To do so will require that we explain how the chosen text answers a specific CIE question (or sub-question) in an interesting way, _or_ that we explain how a text fails to do so. In other words, we will need to ground our argument in a larger thesis about the purpose of the course (see description of course and learning objectives in our syllabus) and the extent to which these particular readings accomplish that goal. So, although the course has many goals, for this particular paper we need to be very specific about which aspects of those goals the texts address and how.
 
-**Our task:** When considering the above prompt note that it is not simply enough to say we like/do not like a text. We must (a) explore a text's meaning and merits or lack thereof, (b) offer an intelligent critique grounded in a larger overarching thesis for texts we do not like and (c) discuss what aspects of the texts are especially powerful and how they connect to the particular aspects of the course we are exploring._
+**Our task:** When considering the above prompt note that it is not simply enough to say we like/do not like a text. We must (a) explore a text's meaning and merits or lack thereof, (b) offer an intelligent critique grounded in a larger overarching thesis for texts we do not like and (c) discuss what aspects of the texts are especially powerful and how they connect to the particular aspects of the course we are exploring.
 
 ### The Ursinus Questions and Biblical Teachings
 
