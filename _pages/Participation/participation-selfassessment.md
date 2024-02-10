@@ -2,7 +2,7 @@
 layout: assignment
 permalink: Participation/SelfAssessment
 title: "CIE100: Common Intellectual Experience - Participation Self-Assessment"
-excerpt: "CIE100: Common Intellectual Experience - Participation Self-Assessment"
+
 
 info:
   coursenum: CIE100

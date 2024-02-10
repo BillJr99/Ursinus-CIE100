@@ -2,7 +2,7 @@
 layout: syllabus
 permalink: /
 title: "CIE100: Common Intellectual Experience"
-excerpt: "CIE100: Common Intellectual Experience"
+
     
 info:
   course_number: CIE100

@@ -2,7 +2,7 @@
 layout: assignment
 permalink: Assignments/Essay2
 title: "CIE100: Common Intellectual Experience - Essay 2"
-excerpt: "CIE100: Common Intellectual Experience - Essay 2"
+
 
 info:
   coursenum: CIE100
