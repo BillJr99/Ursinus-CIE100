@@ -12,7 +12,7 @@ title: "CIE100"
 description: "Common Intellectual Experience"
 
 url                      : https://BillJr99.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/Ursinus-CIE100-Fall2023" # the subpath of your site, e.g. "/blog"
+baseurl                  : "/Ursinus-CIE100-Fall2024" # the subpath of your site, e.g. "/blog"
 
 # Reading Files
 include:
