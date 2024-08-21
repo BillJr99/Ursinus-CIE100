@@ -10,7 +10,7 @@ info:
   - section: "G"
   course_title: "Common Intellectual Experience"
   credit_hours: "4 Semester Hours"
-  course_homepage: "https://www.billmongan.com/Ursinus-CIE100-Fall2023/"
+  course_homepage: "https://www.billmongan.com/Ursinus-CIE100-Fall2024/"
   ical: files/CIE100.ics
   designation: "CIE"
   course_prerequisites: "None"
@@ -788,7 +788,7 @@ Subsequent absences will result in a grade reduction of 30% (per the class parti
     details about each event will be sent to all CIE students and
     faculty prior to the event.
 
-#### FALL 2023 CIE COMMON EVENTS SCHEDULE
+#### FALL 2024 CIE COMMON EVENTS SCHEDULE
 
 **Friday, August 23 11:45am-12:30pm -- Stacks on Stacks Collaborative Art Installation, Myrin Library**
 
