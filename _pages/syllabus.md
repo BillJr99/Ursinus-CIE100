@@ -193,7 +193,9 @@ schedule:
         dlink: "Participation/IceBreaker"
         points: 10
     readings:
-      - rtitle: "Common Event: Stacks on Stacks (8/23)"
+      - rtitle: "Common Event: Stacks on Stacks (8/23 11:45am in Myrin 2nd Floor)"
+        rlink: false
+      - rtitle: "First Class Meeting 8/23 10:15am in Olin 303"
         rlink: false
       - rtitle: "Allegory of the Cave"
         rlink: false
