@@ -296,6 +296,13 @@ schedule:
         dlink: "Participation/WritingFellowReflection"
         points: 10
         rubricpath: "_pages/Participation/participation-writingfellowreflection.md"
+    readings:
+      - rtitle: "CIE Workshop: Thesis Statements 11-11:30am in Bomberger Auditorium (Bring Your Paper)"
+        rlink: false
+      - rtitle: "Center for Writing and Speaking: Thesis Statements - What They Are and What to Avoid"
+        rlink: "https://www.ursinus.edu/live/files/4598-thesis-statements-and-what-to-avoid-revision"
+      - rtitle: "Center for Writing and Speaking: Generating a Thesis Statement Exercise"
+        rlink: "https://www.ursinus.edu/live/files/4597-generating-a-thesis-statement-worksheet"        
   - week: "4"
     date: "0"
     title: "Euthyphro"
@@ -330,11 +337,6 @@ schedule:
   - week: "5"
     date: "1"
     title: "Genesis"
-    readings:
-      - rtitle: "Center for Writing and Speaking: Thesis Statements - What They Are and What to Avoid"
-        rlink: "https://www.ursinus.edu/live/files/4598-thesis-statements-and-what-to-avoid-revision"
-      - rtitle: "Center for Writing and Speaking: Generating a Thesis Statement Exercise"
-        rlink: "https://www.ursinus.edu/live/files/4597-generating-a-thesis-statement-worksheet"
   - week: "5"
     date: "2"
     title: "Genesis"
