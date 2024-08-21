@@ -14,8 +14,8 @@ info:
   ical: files/CIE100.ics
   designation: "CIE"
   course_prerequisites: "None"
-  course_start_date: "2022/08/26"
-  course_end_date: "2022/12/10"
+  course_start_date: "2024/08/26"
+  course_end_date: "2024/12/10"
   course_description: "The first of a two-semester course introducing inquiry into the core questions of liberal education at Ursinus: What should matter to me? How should we live together? How can we understand the world? What will I do? The course will explore these questions through the study of influential primary texts. The first semester focuses on texts from antiquity up to the modern era. Four semester hours. (CIE)"
   welcome_message: "Welcome to CIE100!"
   class_meets_days:
