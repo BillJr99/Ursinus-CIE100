@@ -506,68 +506,69 @@ schedule:
 
 university:
   semester: "Fall"
-  academicyear: "2023-24"
+  academicyear: "2024-25"
   fall:
   - kname: "Add Deadline"
-    kdate: "2023/09/8"
+    kdate: "2024/09/6"
     kdisplay: true
   - kname: "Mid Semester Grades Posted"
-    kdate: "2023/10/13"
-    kdisplay: false    
+    kdate: "2024/10/11"
+    kdisplay: false
   - kname: "Drop with a W Deadline"
-    kdate: "2023/10/25"
-    kdisplay: true  
+    kdate: "2024/11/19"
+    kdisplay: true      
   - kname: "Reading Day"
-    kdate: "2023/12/9"
-    kdisplay: true     
+    kdate: "2024/12/10"
+    kdisplay: true
   - kname: "Finals Week Begins"
-    kdate: "2023/12/11"
+    kdate: "2024/12/11"
     kdisplay: false
   - kname: "Finals Week Ends"
-    kdate: "2023/12/16"
+    kdate: "2024/12/17"
     kdisplay: false
   spring:
   - kname: "Add Deadline"
-    kdate: "2024/01/30"
+    kdate: "2025/02/4"
     kdisplay: true
   - kname: "Mid Semester Grades Posted"
-    kdate: "2024/03/1"
-    kdisplay: false    
+    kdate: "2025/03/7"
+    kdisplay: false
   - kname: "Drop with a W Deadline"
-    kdate: "2024/03/20"
+    kdate: "2025/04/18"
     kdisplay: true    
+  - kname: "CoSA"
+    kdate: "2025/04/23"
+    kdisplay: true   
   - kname: "Reading Day"
-    kdate: "2024/05/2"
-    kdisplay: false    
+    kdate: "2025/05/8"
+    kdisplay: false
   - kname: "Finals Week Begins"
-    kdate: "2024/05/03"
+    kdate: "2025/05/09"
     kdisplay: false
   - kname: "Finals Week Ends"
-    kdate: "2024/05/09"
-    kdisplay: false       
+    kdate: "2025/05/15"
+    kdisplay: false    
   - kname: "Baccalaureate"
-    kdate: "2024/05/10"
+    kdate: "2025/05/16"
     kdisplay: false
   - kname: "Commencement"
-    kdate: "2024/05/11"
-    kdisplay: false 
+    kdate: "2025/05/17"
+    kdisplay: false    
   fallholidays:
-  - date: "2023/10/14"
-  - date: "2023/10/15"
-  - date: "2023/10/16"
-  - date: "2023/10/17"
-  - date: "2023/11/22"
-  - date: "2023/11/23"
-  - date: "2023/11/24"
-  - date: "2023/11/25"
-  - date: "2023/11/26"
+  - date: "2024/10/14"
+  - date: "2024/10/15"
+  - date: "2024/10/16"
+  - date: "2024/11/27"
+  - date: "2024/11/28"
+  - date: "2024/11/29" 
   springholidays:
-  - date: "2024/01/15"  
-  - date: "2024/03/4"  
-  - date: "2024/03/5"  
-  - date: "2024/03/6"  
-  - date: "2024/03/7"  
-  - date: "2024/03/8"  
+  - date: "2025/01/20"  
+  - date: "2025/01/21"
+  - date: "2025/03/10"  
+  - date: "2025/03/11"
+  - date: "2025/03/12" 
+  - date: "2025/03/13"
+  - date: "2025/03/14"  
   
 ---
 
