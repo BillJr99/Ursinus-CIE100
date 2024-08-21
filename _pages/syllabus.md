@@ -7,7 +7,7 @@ title: "CIE100: Common Intellectual Experience"
 info:
   course_number: CIE100
   course_sections: 
-  - section: "V"
+  - section: "G"
   course_title: "Common Intellectual Experience"
   credit_hours: "4 Semester Hours"
   course_homepage: "https://www.billmongan.com/Ursinus-CIE100-Fall2023/"
@@ -187,13 +187,13 @@ letter_grades:
 schedule:
   - week: "0"
     date: "0"
-    title: "Allegory of the Cave, Feminist Manifesto, the Matrix, and Katie Merz's Live the Questions (The Smokestack)"
+    title: "Allegory of the Cave, Feminist Manifesto, and Katie Merz's Live the Questions (The Smokestack)"
     deliverables:
       - dtitle: "Participation: Ice Breaker Reflection Handed Out"
         dlink: "Participation/IceBreaker"
         points: 10
     readings:
-      - rtitle: "Common Event: The Matrix (8/25)"
+      - rtitle: "Common Event: Stacks on Stacks (8/23)"
         rlink: false
       - rtitle: "Allegory of the Cave"
         rlink: false
@@ -201,41 +201,52 @@ schedule:
         rlink: false
   - week: "0"
     date: "1"
-    title: "Allegory of the Cave, Feminist Manifesto, the Matrix, and Katie Merz's Live the Questions (The Smokestack)"
+    title: "Allegory of the Cave, Feminist Manifesto, and Katie Merz's Live the Questions (The Smokestack)"
     deliverables:
       - dtitle: "Participation: Pre-Assessment Handed Out"
         dlink: "Participation/PreAssessment"
-        points: 10    
-      - dtitle: "Participation: Ice Breaker Reflection Due"
-        dlink: "Participation/IceBreaker"
         points: 10
-  - week: "1"
-    date: "0"
-    title: "Allegory of the Cave, Feminist Manifesto, the Matrix, and Katie Merz's Live the Questions (The Smokestack)"
+  - week: "0"
+    date: "2"
+    title: "Allegory of the Cave, Feminist Manifesto, and Katie Merz's Live the Questions (The Smokestack)"
     deliverables:
       - dtitle: "Writing: Essay 1 Handed Out"
         dlink: "Assignments/Essay1"
         points: 100
         rubricpath: "_pages/Assignments/asmt-essay1.md"
+      - dtitle: "Participation: Ice Breaker Reflection Due"
+        dlink: "Participation/IceBreaker"
+        points: 10
     readings:
-      - rtitle: "Common Event: Community Drawing Project (9/6)"
-        rlink: false
       - rtitle: "Katie Merz - Live the Questions (Smokestack)"
         rlink: "https://www.ursinus.edu/live/profiles/5345-katie-merz-live-the-questions/_ingredients/templates/berman-2018/exhibition"
       - rtitle: "Center for Writing and Speaking: Reading to Write"
         rlink: "https://www.ursinus.edu/live/files/4030-reading-to-write-ppt-001"
       - rtitle: "Center for Writing and Speaking: Reading to Write Worksheet"
-        rlink: "https://www.ursinus.edu/live/files/4031-reading-to-write-worksheet-002"        
+        rlink: "https://www.ursinus.edu/live/files/4031-reading-to-write-worksheet-002"
+  - week: "1"
+    date: "0"
+    title: "Allegory of the Cave, Feminist Manifesto, and Katie Merz's Live the Questions (The Smokestack)"
+    readings:
+      - rtitle: "Center for Writing and Speaking: Choosing and Formatting Quotations"
+        rlink: "https://www.ursinus.edu/live/files/4032-choosing-and-formatting-quotations-ppt-001"
+      - rtitle: "Common Event: Difficult Conversations Workshop (9/2)"
+        rlink: false
   - week: "1"
     date: "1"
-    title: "Allegory of the Cave, Feminist Manifesto, the Matrix, and Katie Merz's Live the Questions (The Smokestack)"
+    title: "Allegory of the Cave, Feminist Manifesto, and Katie Merz's Live the Questions (The Smokestack)"
     deliverables:
       - dtitle: "Participation: Thesis Statement and Outline for Essay 1 Due"
         dlink: false
         points: 10
+  - week: "1"
+    date: "2"
+    title: "Allegory of the Cave, Feminist Manifesto, and Katie Merz's Live the Questions (The Smokestack)"
+    deliverables:
+      - dtitle: "Participation: Pre-Assessment Due"
+        dlink: "Participation/PreAssessment"
+        points: 10
     readings:
-      - rtitle: "Center for Writing and Speaking: Choosing and Formatting Quotations"
-        rlink: "https://www.ursinus.edu/live/files/4032-choosing-and-formatting-quotations-ppt-001"
       - rtitle: "Center for Writing and Speaking: Introducing and Analyzing Quotations"
         rlink: "https://www.ursinus.edu/live/files/4021-introducing-and-analyzing-quotations-ppt-002"
   - week: "2"
@@ -260,38 +271,52 @@ schedule:
         dlink: "Participation/WritingFellowReflection"
         points: 10
         rubricpath: "_pages/Participation/participation-writingfellowreflection.md"
+  - week: "2"
+    date: "2"
+    title: "Lysistrata"
   - week: "3"
     date: "0"
     title: "Sappho"
     readings:
       - rtitle: "Sappho (poems 1-2; 4-5; 8-9; 12-15; 17; 20-21; 37-84; 87-88; 97-100)"
         rlink: false
-      - rtitle: "Common Event: Difficult Discussions Sep 20"
-        rlink: false
   - week: "3"
     date: "1"
     title: "Sappho"
-    deliverables:
-      - dtitle: "Participation: Pre-Assessment Due"
-        dlink: "Participation/PreAssessment"
-        points: 10    
     readings:
       - rtitle: "Center for Writing and Speaking: Using Sources Peer Review Exercise"
         rlink: "https://www.ursinus.edu/live/files/4027-peer-review-sheet-spotlight-on-using-sources-008"
+  - week: "3"
+    date: "2"
+    title: "Sappho"
+    deliverables:
+      - dtitle: "Participation: Writing Fellow Meeting Reflection 1 Due"
+        dlink: "Participation/WritingFellowReflection"
+        points: 10
+        rubricpath: "_pages/Participation/participation-writingfellowreflection.md"
   - week: "4"
     date: "0"
     title: "Euthyphro"
     readings:
       - rtitle: "Euthyphro"
         rlink: false
+      - rtitle: "Common Event: Apertures and Borderscapes at The Berman Museum of Art (9/23-10/11)"
+        rlink: false
   - week: "4"
     date: "1"
     title: "Euthyphro"
+  - week: "4"
+    date: "2"
+    title: "Euthyphro"
     deliverables:
-      - dtitle: "Participation: Writing Fellow Meeting Reflection 1 Due"
-        dlink: "Participation/WritingFellowReflection"
-        points: 10
-        rubricpath: "_pages/Participation/participation-writingfellowreflection.md"
+      - dtitle: "Writing: Essay 1 Due"
+        dlink: "Assignments/Essay1"
+        points: 70
+        rubricpath: "_pages/Assignments/asmt-essay1.md"
+      - dtitle: "Writing: Essay 2 Handed Out"
+        dlink: "Assignments/Essay2"
+        points: 100
+        rubricpath: "_pages/Assignments/asmt-essay2.md"
   - week: "5"
     date: "0"
     title: "Genesis"
@@ -303,20 +328,14 @@ schedule:
   - week: "5"
     date: "1"
     title: "Genesis"
-    deliverables:
-      - dtitle: "Writing: Essay 1 Due"
-        dlink: "Assignments/Essay1"
-        points: 70
-        rubricpath: "_pages/Assignments/asmt-essay1.md"
-      - dtitle: "Writing: Essay 2 Handed Out"
-        dlink: "Assignments/Essay2"
-        points: 100
-        rubricpath: "_pages/Assignments/asmt-essay2.md"
     readings:
       - rtitle: "Center for Writing and Speaking: Thesis Statements - What They Are and What to Avoid"
         rlink: "https://www.ursinus.edu/live/files/4598-thesis-statements-and-what-to-avoid-revision"
       - rtitle: "Center for Writing and Speaking: Generating a Thesis Statement Exercise"
         rlink: "https://www.ursinus.edu/live/files/4597-generating-a-thesis-statement-worksheet"
+  - week: "5"
+    date: "2"
+    title: "Genesis"
   - week: "6"
     date: "0"
     title: "Confucius: Analects"
@@ -333,9 +352,33 @@ schedule:
     readings:
       - rtitle: "Center for Writing and Speaking: Strategies and Templates for Building a Strong Thesis Statement"
         rlink: "https://www.ursinus.edu/live/files/4036-strategies-and-templates-for-building-a-strong"
+  - week: "6"
+    date: "2"
+    title: "Confucius: Analects"
   - week: "7"
+    date: "2"
+    title: "Matthew 5-7 and Luke 10"
+    deliverables:
+      - dtitle: "Participation: Analysis Section for Essay 2 Due"
+        dlink: false
+        points: 10
+    readings:
+      - rtitle: "Matthew 5-7 (Sermon on the Mount)"
+        rlink: false
+      - rtitle: "Luke 10 (The Good Samaritan)"
+        rlink: false
+  - week: "8"
+    date: "0"
+    title: "Matthew 5-7 and Luke 10"
+    readings:
+      - rtitle: "Center for Writing and Speaking: Thesis Statement Review and Self-Evaluation"
+        rlink: "https://www.ursinus.edu/live/files/4599-thesis-statement-self-evaluation-reviseddocx"
+  - week: "8"
     date: "1"
     title: "Matthew 5-7 and Luke 10"
+  - week: "8"
+    date: "2"
+    title: "Darwin and Roughgarden"
     deliverables:
       - dtitle: "Writing: First Draft of Essay 2"
         dlink: "Assignments/Essay2"
@@ -345,26 +388,6 @@ schedule:
         dlink: "Participation/WritingFellowReflection"
         points: 10
         rubricpath: "_pages/Participation/participation-writingfellowreflection.md"
-    readings:
-      - rtitle: "Matthew 5-7 (Sermon on the Mount)"
-        rlink: false
-      - rtitle: "Luke 10 (The Good Samaritan)"
-        rlink: false
-      - rtitle: "Center for Writing and Speaking: Thesis Statement Review and Self-Evaluation"
-        rlink: "https://www.ursinus.edu/live/files/4599-thesis-statement-self-evaluation-reviseddocx"
-  - week: "8"
-    date: "0"
-    title: "Matthew 5-7 and Luke 10"
-    readings:
-      - rtitle: "Get Over Yourself - Self-Transcendence in the Book of Genesis (talk by Rabbi David Wolpe, 10/24)"
-        rlink: false
-  - week: "8"
-    date: "1"
-    title: "Darwin and Roughgarden"
-    deliverables:
-      - dtitle: "Participation: Analysis Section for Essay 2 Due"
-        dlink: false
-        points: 10
     readings:
       - rtitle: "On the Origin of Species"
         rlink: false
@@ -382,15 +405,26 @@ schedule:
     readings:
       - rtitle: "Evolution's Rainbow"
         rlink: false
-  - week: "10"
-    date: "0"
+  - week: "9"
+    date: "2"
     title: "Darwin and Roughgarden"
     deliverables:
       - dtitle: "Participation: Self-Assessment Handed Out"
         dlink: "Participation/SelfAssessment"
         points: 10
   - week: "10"
+    date: "0"
+    title: "Darwin and Roughgarden"
+  - week: "10"
     date: "1"
+    title: "Darwin and Roughgarden"
+    readings:
+      - rtitle: "Center for Writing and Speaking: Revising for Better Organization"
+        rlink: "https://www.ursinus.edu/live/files/4039-revising-for-better-organization-ppt-007"
+      - rtitle: "Common Event: Interfaith Panel (11/6)"
+        rlink: false
+  - week: "10"
+    date: "2"
     title: "God is Red"
     deliverables:
       - dtitle: "Writing: Essay 2 Due"
@@ -408,43 +442,57 @@ schedule:
     date: "0"
     title: "God is Red"
     readings:
-      - rtitle: "Common Event: Persepolis (11/15)"
-        rlink: "https://ursinuscollege.on.worldcat.org/oclc/216883958"
-      - rtitle: "Center for Writing and Speaking: Revising for Better Organization"
-        rlink: "https://www.ursinus.edu/live/files/4039-revising-for-better-organization-ppt-007"
       - rtitle: "Center for Writing and Speaking: Organization Revision Exercise"
         rlink: "https://www.ursinus.edu/live/files/4040-revising-for-organization-worksheet-008"
+  - week: "11"
+    date: "1"
+    title: "God is Red"
+  - week: "11"
+    date: "2"
+    title: "Persepolis and Between the World and Me"
+    readings:
+      - rtitle: "Persepolis"
+        rlink: "https://ursinuscollege.on.worldcat.org/oclc/216883958"
   - week: "12"
     date: "0"
-    title: "Between the World and Me"
-  - week: "13"
-    date: "0"
-    title: "Between the World and Me"
+    title: "Persepolis and Between the World and Me"
     deliverables:
       - dtitle: "Participation: Self-Assessment Due"
         dlink: "Participation/SelfAssessment"
         points: 10
-  - week: "13"
+  - week: "12"
     date: "1"
-    title: "Between the World and Me"
+    title: "Persepolis and Between the World and Me"
+    readings:
+      - rtitle: "In His Own Words: Ta-Nehisi Coates (supplemental recording)"
+        rlink: "https://ursinus.instructure.com/courses/2858/pages/between-the-world-and-me"
+  - week: "12"
+    date: "2"
+    title: "Persepolis and Between the World and Me"
+  - week: "13"
+    date: "0"
+    title: "Persepolis and Between the World and Me"
+  - week: "14"
+    date: "0"
+    title: "Persepolis and Between the World and Me"
+  - week: "14"
+    date: "1"
+    title: "Select Your Quest: Coded Bias"
     deliverables:
       - dtitle: "Writing: First Draft of Essay 3"
         dlink: "Assignments/Essay3"
         points: 30
         rubricpath: "_pages/Assignments/asmt-essay3.md"
     readings:
-      - rtitle: "In His Own Words: Ta-Nehisi Coates (supplemental recording)"
-        rlink: "https://ursinus.instructure.com/courses/2858/pages/between-the-world-and-me"
-  - week: "14"
-    date: "0"
-    title: "Select Your Quest: Coded Bias"
-    readings:
       - rtitle: "Coded Bias"
         rlink: "https://ursinuscollege.on.worldcat.org/oclc/1200171382"
       - rtitle: "Are We Automating Racism?"
         rlink: "https://www.youtube.com/watch?v=Ok5sKLXqynQ&list=PLJ8cMiYb3G5cOFj1VQf8ykNOI0ptuHybc&index=4"
   - week: "14"
-    date: "1"
+    date: "2"
+    title: "Select Your Quest: Coded Bias"
+  - week: "15"
+    date: "0"
     title: "Select Your Quest: Coded Bias"
     deliverables:
       - dtitle: "Writing: Essay 3"
@@ -521,63 +569,15 @@ university:
 
 ## The Common Intellectual Experience (CIE 100) \[[^1]\]
 
-The [Common Intellectual Experience](https://www.ursinus.edu/academics/common-intellectual-experience/) is a two-semester course for all
-first year students that brings academic inquiry to bear on the central
-questions of a liberal education: What should matter to me? How should
-we live together? How can we understand the world? What will I do?
-Students engage in conversation about a common set of works drawn from
-diverse historical contexts, cultures and beliefs, selected to prompt
-thoughtful examination of the central questions of the course. Through
-this conversation the course accomplishes its goals: to cultivate the
-self-knowledge necessary to live a considered, independent, and
-responsible life; and to establish an intellectual community enjoyed by
-students and faculty alike.
+The [Common Intellectual Experience](https://www.ursinus.edu/academics/common-intellectual-experience/) is a two-semester course for all first year students that brings academic inquiry to bear on the central questions of a liberal education: What should matter to me? How should we live together? How can we understand the world? What will I do? Students engage in conversation about a common set of works drawn from diverse historical contexts, cultures and beliefs, selected to prompt thoughtful examination of the central questions of the course. Through this conversation the course accomplishes its goals: to cultivate the self-knowledge necessary to live a considered, independent, and responsible life; and to establish an intellectual community enjoyed by students and faculty alike. 
 
-The course fosters the essential skills of critical reading, careful
-interpretation, effective discussion, clear writing, and the use of
-evidence to construct a compelling argument. Enrollment in CIE classes
-is limited to 16 students to provide an atmosphere conducive to
-intellectual challenge and discovery. The engagement of all students and
-faculty from all disciplines, the shared syllabus, and the occasional
-gathering of the entire class for common events allow students to
-confront as a community the enduring issues of our existence.
+The course fosters the essential skills of critical reading, careful interpretation, effective discussion, clear writing, and the use of evidence to construct a compelling argument. Enrollment in CIE classes is limited to 16 students to provide an atmosphere conducive to intellectual challenge and discovery. The engagement of all students and faculty from all disciplines, the shared syllabus, and the occasional gathering of the entire class for common events allow students to confront as a community the enduring issues of our existence. 
 
-In this course you should expect to encounter people of racial, ethnic,
-spiritual, economic, sexual, etc. backgrounds different from your own.
-Be prepared to voice your ideas and analysis in a respectful manner and
-support them with clear evidence. This is especially important in the
-current circumstances. Should circumstances require us to meet remotely,
-or to wear masks while in class, we will not be able to see each other
-clearly; accurately detect body language or facial expressions;
-or understand tone as easily. If you think that something is
-inappropriate, rude, or disrespectful, you have the right to
-say so. Some students may not feel comfortable addressing such problems
-head on. In that case, you should contact me to discuss the problem. Of
-course, students and even faculty with the best intentions may offend
-without meaning to, and it is important that we be constructive as we
-call attention to problems. We will work together as a class to resolve
-any disputes that may arise and restore a healthy learning
-environment.  
+In this course you should expect to encounter people of racial, ethnic, spiritual, economic, sexual, etc. backgrounds different from your own. Be prepared to voice your ideas and analysis in a respectful manner and support them with clear evidence. This is especially important in the current circumstances. Should circumstances require us to meet remotely, or to wear masks while in class, we will not be able to see each other clearly; accurately detect body language or facial expressions; or understand tone as easily. If you think that something is inappropriate, rude, or disrespectful, you have the right to say so. Some students may not feel comfortable addressing such problems head on. In that case, you should contact me to discuss the problem. Of course, students and even faculty with the best intentions may offend without meaning to, and it is important that we be constructive as we call attention to problems. We will work together as a class to resolve any disputes that may arise and restore a healthy learning environment.  
 
-CIE is a four-credit course that meets for three hours each week. The
-additional semester hour is accounted for by attendance at the required
-common events; the quantity of required reading---including reading
-prior to the start of the semester; and the focus on revision for each
-of the required papers.
+CIE is a four-credit course that meets for three hours each week. The additional semester hour is accounted for by attendance at the required common events; the quantity of required reading—including reading prior to the start of the semester; and the focus on revision for each of the required papers.
 
-If you encounter barriers to learning in this course, or if you are
-struggling to keep up with paper due dates, do not hesitate to discuss
-them with me. The Institute for Student Success also works with students
-who have any kind of disability---whether apparent or non-apparent;
-learning; emotional; physical; or cognitive---and need accommodations to
-increase their access to this learning environment. I encourage you to
-reach out to the Director of Disability and Access, Dr. Dee Singley to
-discuss supports and accommodations you may need. Dee's office is in the
-UCARE Suite in Myrin Library. You can schedule a meeting with Dee by
-using this link <https://dsingley.youcanbook.me/>; by emailing her at
-<dsingley@ursinus.edu>; or by calling her at 1-484-762-4329. Students
-can also review accessibility and disabilities services online at
-<https://ursinus.edu/offices/disability-and-access/>.
+If you encounter barriers to learning in this course, or if you are struggling to keep up with paper due dates, do not hesitate to discuss them with me. The Institute for Student Success also works with students who have any kind of disability—whether apparent or non-apparent; learning; emotional; physical; or cognitive—and need accommodations to increase their access to this learning environment. I encourage you to reach out to the Director of Disability and Access. Contact them via email **disabilityandaccess@ursinus.edu** as soon as possible to discuss academic accommodations and/or services. If you experience something that does not fall within the established bounds of "reasonable accommodations," see me as soon as possible so that we can create the conditions that help you produce your best work.
 
 ### **Demonstration of Learning Goals**
 
@@ -711,53 +711,60 @@ Subsequent absences will result in a grade reduction of 30% (per the class parti
 
 ### **Approximate Weekly Reading and Paper Assignment Schedule (see the formal schedule with exact dates above)**
 
-* Friday, August 25---Friday, Sept 08.: "Allegory of the Cave," Adichie,
+* Friday, August 23---Friday, Sept 6.: "Allegory of the Cave," Adichie,
 *Feminist Manifesto*, *The Matrix* and Katie Merz's *Live the Questions*
 (informally known as "The Smokestack")
 
-> **Common Event: *The Matrix* on Fri., Aug 25**
-> **Common Event: Community Drawing Project on Weds., Sep. 6**
+> **Common Event: *Stacks on Stacks* on Fri., Aug 23**
 
-* Monday, Sept. 11---Friday, Sept. 15: Aristophanes, *Lysistrata*
+> **Common Event: *Difficult Conversations Workshop* on Mon., Sep 2**
 
-> **09/14-18---First Draft of Essay #1**
+* Monday, Sept. 9---Friday, Sept. 13: Aristophanes, *Lysistrata*
 
-* Monday, Sept.18---Friday, Sept. 22: Sappho (poems 1--2, 4--5, 8--9,
+> **09/16-18---First Draft of Essay #1**
+
+* Monday, Sept. 16---Friday, Sept. 20: Sappho (poems 1--2, 4--5, 8--9,
 12--15, 17, 20--21, 37--84, 87--88, 97--100)
 
 > **Common Event: Difficult Discussions Workshop, Sep. 20**
 
-* Monday, Sept. 25---Friday, Sep. 29: Plato, *Euthyphro*
+* Monday, Sept. 23---Friday, Sep. 27: Plato, *Euthyphro*
 
-* Monday, Oct. 2---Friday, Oct. 6: *Genesis* chapters 1-22
+> **Common Event: *Enrique Bostleman, Apertures and Borderscapes at The Berman Museum of Art* between Sep. 23 - Oct. 11**
+
+* Monday, Sept. 30---Friday, Oct. 4: *Genesis* chapters 1-22
 
 > **Discussion w/ Robert Alter (supplemental recording)**
 
-* Monday, Oct 9---Friday, Oct. 13: Confucius, *Analects*
+> **09/30-10/2---Final Draft of Essay #1**
 
-* (Fall Break Oct. 14-17, Sat-Tues)
+* Monday, Oct 7---Friday, Oct. 11: Confucius, *Analects*
 
-> **10/18-20---First Draft of Essay #2**
+* (Fall Break Oct. 12-16, Sat-Wed)
 
-* Wednesday, Oct. 18---Tuesday, Oct. 24: Matthew 5-7 and Luke 10 ("Sermon
-on the Mount" and "The Good Samaritan")
+* Thursday, Oct. 17---Wednesday, Oct. 23: Matthew 5-7 and Luke 10 ("Sermon on the Mount" and "The Good Samaritan")
 
-> **Oct. 24: On October 24, in Olin Auditorium, at 7:30 P.M., Rabbi David Wolpe is visiting Ursinus to give a talk entitled, “Get Over Yourself: Self-Transcendence in the Book of Genesis.” It will focus on how biblical characters, particularly in Genesis, grow beyond their limitations.**
+* Thursday, Oct. 24---Wed, Nov. 6: Darwin and Roughgarden
 
-* Wednesday, Oct. 25---Tues, Nov. 7: Darwin and Roughgarden
+> **10/24-25---First Draft of Essay #2**
 
-* Wed, Nov. 8---Tues., Nov. 14: Deloria, *God is Red* (one week)
+* Thursday, Nov. 7---Wed., Nov. 13: Deloria, *God is Red* 
 
-* Wed, Nov. 15---Friday, Dec. 1: Coates, *Between the World and Me*
+> **Common Event: Interfaith Panel in Bomberger Auditorium on Wednesday November 6 12-1pm**
 
-> **Common Event: *Persepolis*** **on Wednesday, November 15**  
+> **11/7-8---Final Draft of Essay #2**
+
+* Thursday, Nov. 14---Monday, Dec. 2: *Perseoplis* and Coates, *Between the World and Me*
+
 > **In His Own Words: Ta-Nehisi Coates (supplemental recording)**
 
-* Thanksgiving Break Nov. 22-24
+* Thanksgiving Break Nov. 27-Dec. 1
 
-**12/01-12/05---First Draft of Essay #3**
+**12/02-12/04---First Draft of Essay #3**
 
-* Mon, Dec. 4---Friday, Dec. 8: **select your quest**
+* Tuesday, Dec. 3---Monday, Dec. 9: **select your quest**
+
+**12/09---Final Draft of Essay #3**
 
 ### Common Events 
 
@@ -778,23 +785,26 @@ on the Mount" and "The Good Samaritan")
 
 #### FALL 2023 CIE COMMON EVENTS SCHEDULE
 
-**Friday, August 25-- FILM SCREENING: The Matrix**
+**Friday, August 23 11:45am-12:30pm -- Stacks on Stacks Collaborative Art Installation, Myrin Library**
 
-**Wednesday, September 6 -- Community Drawing Project**
+Introduce project at the end of the Friday class (5-10 minutes)
 
-> 5-8 pm, Location TBD
->
-> After considering the public artwork, Live the Questions, students
-> will develop imagery and contribute to a large-scale
-> drawing/installation that reflects a common theme derived from "Live
-> the Questions" specifically for the class of 2027 and their CIE
-> faculty.
+All classes meet on designated floor of the library to complete the project
 
-**Common Event: Difficult Discussions Workshop, Sep. 20**
+After a brief in-class introduction to Nina Katchadourian’s Sorted Books Project, pairs of students and pairs of faculty will be assigned a specific section of the library and given a portion of time to survey, choose, and create a sequence of book titles that relate in a poetic or narrative way. Students will then copy the text from the spine/cover of the books onto stickers that will be installed in a "stack" on the endcap of the library aisles or "stacks". This project will introduce the concept of visually representing the output of a collective and provide a springboard for discussion of Katie Merz’s Live the Questions.
 
-**Wednesday, November 15 -- FILM SCREENING: Persepolis**
+**Monday, September 2 4:30pm and 7pm -- Difficult Conversations Workshop, Bomberger**
 
-> Time and location TBD
+Professors Sheryl Goodman and Meghan Brodie and students present a workshop that explores possible outcomes for moments in class discussion where tension arises due to the nature of the content. Time to be assigned.
+
+**September 23 through October 11 -- Enrique Bostleman, Apertures and Borderscapes at The Berman Museum of Art**
+
+Tours will be assigned during one of your class times
+Student tour guides form the Berman Museum will lead discussion of this photography exhibition
+
+**Wednesday, November 6, 12-1pm -- Interfaith Panel featuring Dr. Betty Wright-Riggens, Aziz Nathoo, and Bekah Starr in Bomberger Auditorium**
+
+Leaders from the office of Religious and Spiritual Life will discuss their respective faith traditions and how these traditions influence their approach to the Quest core curriculum questions; What should matter to me?,  How should we live together?, How can we understand the world?, What will I do?
 
 #### SUPPLEMENTAL RECORDINGS
 
@@ -802,26 +812,14 @@ on the Mount" and "The Good Samaritan")
 
 **Discussion / Robert Alter, Genesis translator**
 
-> Stream online anytime between Monday, Oct 2 and Friday, Oct. 6 
-> 
-> In 2021, Ursinus hosted Robert Alter, translator of Genesis, to speak
-> with us about his work. This virtual salon, titled "Bible Remix: A
-> Return to the Beginning (Genesis)," was an open discussion that engaged
-> the themes and texts of both semesters of the CIE. Dr. Alter gave a
-> brief talk positioning Genesis in relation to the overarching themes of
-> CIE. This was followed by a Q&A from faculty, staff, and students. We
-> recorded this unique event and will make it available to students this
-> semester as they read Alter's work for class. 
+> Stream online anytime between Monday, September 3 - Friday, October 4 
+> In 2022, Ursinus hosted Robert Alter, translator of Genesis, to speak with us about his work. This virtual salon, titled Bible Remix: A Return to the Beginning (Genesis),was an open discussion that engaged the themes and texts of both semesters of the CIE. Dr. Alter gave a brief talk positioning Genesis in relation to the overarching themes of CIE. This was followed by a Q&A from faculty, staff, and students. We recorded this unique event and will make it available to students this semester as they read Alter’s work for class. 
+ 
 
 **In His Own Words: Ta-Nehisi Coates**
 
-> Stream online anytime between Wednesday, November 15 and Friday, Dec 1 
-> 
-> "In His Own Words: Ta-Nehisi Coates" will include sections of Coates'
-> video interviews and speeches, in addition to readings of his work. The
-> goal is to give you a fuller sense of Coates' writing history, his
-> motivation and intent for writing, and his thoughts on *Between the
-> World and Me*. The recording will provide more context about the author
-> of *Between the World and Me* as you are reading his work. 
+> Stream online anytime between Thursday, November 14 and Monday, December 2 
+> In His Own Words: Ta-Nehisi Coates will include sections of Coates’ video interviews and speeches, in addition to readings of his work. The goal is to give you a fuller sense of Coates’ writing history, his motivation and intent for writing, and his thoughts on Between the World and Me. The recording will provide more context about the author of Between the World and Me as you are reading his work. 
+
 
 [^1]: This introduction is adapted from the common CIE 100 course syllabus as of the time of this writing.
