@@ -192,6 +192,7 @@ schedule:
       - dtitle: "Participation: Ice Breaker Reflection Handed Out"
         dlink: "Participation/IceBreaker"
         points: 10
+        submission_types: "written"
     readings:
       - rtitle: "Common Event: Stacks on Stacks (8/23 11:45am in Myrin 2nd Floor)"
         rlink: false
@@ -208,6 +209,7 @@ schedule:
       - dtitle: "Participation: Pre-Assessment Handed Out"
         dlink: "Participation/PreAssessment"
         points: 10
+        submission_types: "written"
   - week: "0"
     date: "2"
     title: "Allegory of the Cave, Feminist Manifesto, and Katie Merz's Live the Questions (The Smokestack)"
@@ -215,10 +217,12 @@ schedule:
       - dtitle: "Writing: Essay 1 Handed Out"
         dlink: "Assignments/Essay1"
         points: 100
+        submission_types: "written"
         rubricpath: "_pages/Assignments/asmt-essay1.md"
       - dtitle: "Participation: Ice Breaker Reflection Due"
         dlink: "Participation/IceBreaker"
         points: 10
+        submission_types: "written"
     readings:
       - rtitle: "Katie Merz - Live the Questions (Smokestack)"
         rlink: "https://www.ursinus.edu/live/profiles/5345-katie-merz-live-the-questions/_ingredients/templates/berman-2018/exhibition"
@@ -229,6 +233,11 @@ schedule:
   - week: "1"
     date: "0"
     title: "Allegory of the Cave, Feminist Manifesto, and Katie Merz's Live the Questions (The Smokestack)"
+    deliverables:
+      - dtitle: "Participation: Pre-Assessment Due"
+        dlink: "Participation/PreAssessment"
+        points: 10
+        submission_types: "written"
     readings:
       - rtitle: "Center for Writing and Speaking: Choosing and Formatting Quotations"
         rlink: "https://www.ursinus.edu/live/files/4032-choosing-and-formatting-quotations-ppt-001"
@@ -241,13 +250,15 @@ schedule:
       - dtitle: "Participation: Thesis Statement and Outline for Essay 1 Due"
         dlink: false
         points: 10
+        submission_types: "written"
   - week: "1"
     date: "2"
     title: "Allegory of the Cave, Feminist Manifesto, and Katie Merz's Live the Questions (The Smokestack)"
     deliverables:
-      - dtitle: "Participation: Pre-Assessment Due"
-        dlink: "Participation/PreAssessment"
+      - dtitle: "Participation: Lysistrata Writing Prompt Due"
+        dlink: "Participation/Lysistrata"
         points: 10
+        submission_types: "written"
     readings:
       - rtitle: "Center for Writing and Speaking: Introducing and Analyzing Quotations"
         rlink: "https://www.ursinus.edu/live/files/4021-introducing-and-analyzing-quotations-ppt-002"
@@ -258,6 +269,7 @@ schedule:
       - dtitle: "Participation: Introduction and Text Summary for Essay 1 Due"
         dlink: false
         points: 10
+        submission_types: "written"
     readings:
       - rtitle: "Lysistrata"
         rlink: false
@@ -268,14 +280,21 @@ schedule:
       - dtitle: "Writing: First Draft of Essay 1 Due"
         dlink: "Assignments/Essay1"
         points: 30
+        submission_types: "written"
         rubricpath: "_pages/Assignments/asmt-essay1.md"
       - dtitle: "Participation: Writing Fellow Meeting Reflection 1 Handed Out"
         dlink: "Participation/WritingFellowReflection"
         points: 10
+        submission_types: "written"
         rubricpath: "_pages/Participation/participation-writingfellowreflection.md"
   - week: "2"
     date: "2"
     title: "Lysistrata"
+    deliverables:
+      - dtitle: "Participation: Sappho Writing Prompt Due"
+        dlink: "Participation/Sappho"
+        points: 10
+        submission_types: "written"
   - week: "3"
     date: "0"
     title: "Sappho"
@@ -292,20 +311,26 @@ schedule:
     date: "2"
     title: "Sappho"
     deliverables:
-      - dtitle: "Participation: Writing Fellow Meeting Reflection 1 Due"
-        dlink: "Participation/WritingFellowReflection"
+      - dtitle: "Participation: Euthyphro Writing Prompt Due"
+        dlink: "Participation/Euthyphro"
         points: 10
-        rubricpath: "_pages/Participation/participation-writingfellowreflection.md"
+        submission_types: "written"
     readings:
       - rtitle: "CIE Workshop: Thesis Statements 11-11:30am in Bomberger Auditorium (Bring Your Paper)"
         rlink: false
       - rtitle: "Center for Writing and Speaking: Thesis Statements - What They Are and What to Avoid"
         rlink: "https://www.ursinus.edu/live/files/4598-thesis-statements-and-what-to-avoid-revision"
       - rtitle: "Center for Writing and Speaking: Generating a Thesis Statement Exercise"
-        rlink: "https://www.ursinus.edu/live/files/4597-generating-a-thesis-statement-worksheet"        
+        rlink: "https://www.ursinus.edu/live/files/4597-generating-a-thesis-statement-worksheet"
   - week: "4"
     date: "0"
     title: "Euthyphro"
+    deliverables:
+      - dtitle: "Participation: Writing Fellow Meeting Reflection 1 Due"
+        dlink: "Participation/WritingFellowReflection"
+        points: 10
+        submission_types: "written"
+        rubricpath: "_pages/Participation/participation-writingfellowreflection.md"
     readings:
       - rtitle: "Euthyphro"
         rlink: false
@@ -321,14 +346,21 @@ schedule:
       - dtitle: "Writing: Essay 1 Due"
         dlink: "Assignments/Essay1"
         points: 70
+        submission_types: "written"
         rubricpath: "_pages/Assignments/asmt-essay1.md"
       - dtitle: "Writing: Essay 2 Handed Out"
         dlink: "Assignments/Essay2"
         points: 100
+        submission_types: "written"
         rubricpath: "_pages/Assignments/asmt-essay2.md"
   - week: "5"
     date: "0"
     title: "Genesis"
+    deliverables:
+      - dtitle: "Participation: Genesis Writing Prompt Due"
+        dlink: "Participation/Genesis"
+        points: 10
+        submission_types: "written"
     readings:
       - rtitle: "Genesis chapters 1-22"
         rlink: false
@@ -340,6 +372,11 @@ schedule:
   - week: "5"
     date: "2"
     title: "Genesis"
+    deliverables:
+      - dtitle: "Participation: Confucius Writing Prompt Due"
+        dlink: "Participation/Confucius"
+        points: 10
+        submission_types: "written"
   - week: "6"
     date: "0"
     title: "Confucius: Analects"
@@ -353,12 +390,18 @@ schedule:
       - dtitle: "Participation: Thesis Statement and Outline for Essay 2 Due"
         dlink: false
         points: 10
+        submission_types: "written"
     readings:
       - rtitle: "Center for Writing and Speaking: Strategies and Templates for Building a Strong Thesis Statement"
         rlink: "https://www.ursinus.edu/live/files/4036-strategies-and-templates-for-building-a-strong"
   - week: "6"
     date: "2"
     title: "Confucius: Analects"
+    deliverables:
+      - dtitle: "Participation: Gospel Writing Prompt Due"
+        dlink: "Participation/Gospel"
+        points: 10
+        submission_types: "written"
   - week: "7"
     date: "2"
     title: "Matthew 5-7 and Luke 10"
@@ -366,6 +409,7 @@ schedule:
       - dtitle: "Participation: Analysis Section for Essay 2 Due"
         dlink: false
         points: 10
+        submission_types: "written"
     readings:
       - rtitle: "Matthew 5-7 (Sermon on the Mount)"
         rlink: false
@@ -380,6 +424,11 @@ schedule:
   - week: "8"
     date: "1"
     title: "Matthew 5-7 and Luke 10"
+    deliverables:
+      - dtitle: "Participation: Darwin Writing Prompt Due"
+        dlink: "Participation/Darwin"
+        points: 10
+        submission_types: "written"
   - week: "8"
     date: "2"
     title: "Darwin and Roughgarden"
@@ -387,10 +436,12 @@ schedule:
       - dtitle: "Writing: First Draft of Essay 2"
         dlink: "Assignments/Essay2"
         points: 30
+        submission_types: "written"
         rubricpath: "_pages/Assignments/asmt-essay2.md"
       - dtitle: "Participation: Writing Fellow Meeting Reflection 2 Handed Out"
         dlink: "Participation/WritingFellowReflection"
         points: 10
+        submission_types: "written"
         rubricpath: "_pages/Participation/participation-writingfellowreflection.md"
     readings:
       - rtitle: "On the Origin of Species"
@@ -405,6 +456,7 @@ schedule:
       - dtitle: "Participation: Writing Fellow Meeting Reflection 2 Due"
         dlink: "Participation/WritingFellowReflection"
         points: 10
+        submission_types: "written"
         rubricpath: "_pages/Participation/participation-writingfellowreflection.md"
     readings:
       - rtitle: "Evolution's Rainbow"
@@ -416,12 +468,22 @@ schedule:
       - dtitle: "Participation: Self-Assessment Handed Out"
         dlink: "Participation/SelfAssessment"
         points: 10
+        submission_types: "written"
+      - dtitle: "Participation: Roughgarden Writing Prompt Due"
+        dlink: "Participation/Roughgarden"
+        points: 10
+        submission_types: "written"
   - week: "10"
     date: "0"
     title: "Darwin and Roughgarden"
   - week: "10"
     date: "1"
     title: "Darwin and Roughgarden"
+    deliverables:
+      - dtitle: "Participation: God is Red Writing Prompt Due"
+        dlink: "Participation/GodIsRed"
+        points: 10
+        submission_types: "written"
     readings:
       - rtitle: "Center for Writing and Speaking: Revising for Better Organization"
         rlink: "https://www.ursinus.edu/live/files/4039-revising-for-better-organization-ppt-007"
@@ -434,10 +496,12 @@ schedule:
       - dtitle: "Writing: Essay 2 Due"
         dlink: "Assignments/Essay2"
         points: 70
+        submission_types: "written"
         rubricpath: "_pages/Assignments/asmt-essay2.md"
       - dtitle: "Writing: Essay 3 Handed Out"
         dlink: "Assignments/Essay3"
         points: 100
+        submission_types: "written"
         rubricpath: "_pages/Assignments/asmt-essay3.md"
     readings:
       - rtitle: "God is Red"
@@ -451,6 +515,11 @@ schedule:
   - week: "11"
     date: "1"
     title: "God is Red"
+    deliverables:
+      - dtitle: "Participation: Persepolis Writing Prompt Due"
+        dlink: "Participation/Persepolis"
+        points: 10
+        submission_types: "written"
   - week: "11"
     date: "2"
     title: "Persepolis and Between the World and Me"
@@ -461,12 +530,18 @@ schedule:
     date: "0"
     title: "Persepolis and Between the World and Me"
     deliverables:
-      - dtitle: "Participation: Self-Assessment Due"
-        dlink: "Participation/SelfAssessment"
+      - dtitle: "Participation: Coates Writing Prompt Due"
+        dlink: "Participation/Coates"
         points: 10
+        submission_types: "written"
   - week: "12"
     date: "1"
     title: "Persepolis and Between the World and Me"
+    deliverables:
+      - dtitle: "Participation: Outline and Sketch of Essay 3"
+        dlink: false
+        points: 10
+        submission_types: "written"
     readings:
       - rtitle: "In His Own Words: Ta-Nehisi Coates (supplemental recording)"
         rlink: "https://ursinus.instructure.com/courses/2858/pages/between-the-world-and-me"
@@ -476,6 +551,11 @@ schedule:
   - week: "13"
     date: "0"
     title: "Persepolis and Between the World and Me"
+    deliverables:
+      - dtitle: "Participation: Self-Assessment Due"
+        dlink: "Participation/SelfAssessment"
+        points: 10
+        submission_types: "written"
   - week: "14"
     date: "0"
     title: "Persepolis and Between the World and Me"
@@ -486,6 +566,7 @@ schedule:
       - dtitle: "Writing: First Draft of Essay 3"
         dlink: "Assignments/Essay3"
         points: 30
+        submission_types: "written"
         rubricpath: "_pages/Assignments/asmt-essay3.md"
     readings:
       - rtitle: "Coded Bias"
@@ -502,6 +583,7 @@ schedule:
       - dtitle: "Writing: Essay 3"
         dlink: "Assignments/Essay3"
         points: 70
+        submission_types: "written"
         rubricpath: "_pages/Assignments/asmt-essay3.md"
 
 university:
@@ -674,8 +756,7 @@ Reader, which should be purchased at the campus bookstore.*
     readings be provided in PDF format, instead of assigning and
     additional purchase through the bookstore.
 -   Films: *Persepolis*. Dirs. Marjane Satrapi and Vincent Paronnoud.
-    Sony Classics Pictures, 2007. Film; and *The Matrix*. Dirs. The
-    Wachowskis. Warner Brothers. 1999. Film
+    Sony Classics Pictures, 2007. Film
 
 The college recognizes that temporary financial hardships can impact
 students\' access to course materials, as well as their access to
@@ -717,7 +798,7 @@ Subsequent absences will result in a grade reduction of 30% (per the class parti
 ### **Approximate Weekly Reading and Paper Assignment Schedule (see the formal schedule with exact dates above)**
 
 * Friday, August 23---Friday, Sept 6.: "Allegory of the Cave," Adichie,
-*Feminist Manifesto*, *The Matrix* and Katie Merz's *Live the Questions*
+*Feminist Manifesto*, and Katie Merz's *Live the Questions*
 (informally known as "The Smokestack")
 
 > **Common Event: *Stacks on Stacks* on Fri., Aug 23**
