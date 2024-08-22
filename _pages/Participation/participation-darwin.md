@@ -7,6 +7,7 @@ title: "CIE100: Common Intellectual Experience - Darwin Writing Prompt"
 info:
   coursenum: CIE100
   points: 10
+  submission: "Submit a word processed or PDF document."
   goals:
     - To reflect upon the course texts in preparation for thoughtful discussion
     - To organize thoughts into a concise and cohesive response to a targeted question

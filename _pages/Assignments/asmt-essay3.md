@@ -7,6 +7,10 @@ title: "CIE100: Common Intellectual Experience - Essay 3"
 info:
   coursenum: CIE100
   points: 100
+  submission: "Submit a word processed or PDF document."
+  goals:
+    - To develop and support a thesis 
+    - To integrate disparate arguments into a cohesive narrative
   
   rubric:
     - weight: 25

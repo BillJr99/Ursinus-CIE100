@@ -7,6 +7,7 @@ title: "CIE100: Common Intellectual Experience - Participation Pre-Assessment"
 info:
   coursenum: CIE100
   points: 10
+  submission: "Submit a word processed or PDF document."
   
 tags:
   - participation

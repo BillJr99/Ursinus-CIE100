@@ -7,6 +7,9 @@ title: "CIE100: Common Intellectual Experience - Essay 2"
 info:
   coursenum: CIE100
   points: 100
+  submission: "Submit a word processed or PDF document."
+  goals:
+    - To synthesize multiple text sources into a comprehensive narrative discussion
 
   rubric:
     - weight: 25

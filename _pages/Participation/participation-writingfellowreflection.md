@@ -7,6 +7,7 @@ title: "CIE100: Common Intellectual Experience - Writing Fellow Meeting Reflecti
 info:
   coursenum: CIE100
   points: 10
+  submission: "Submit a word processed or PDF document."
   goals:
     - To reflect upon one's writing to improve structure and content
     - To develop strategies for persuasive writing and communication

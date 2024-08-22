@@ -7,6 +7,10 @@ title: "CIE100: Common Intellectual Experience - Essay 1"
 info:
   coursenum: CIE100
   points: 100
+  submission: "Submit a word processed or PDF document."
+  goals:
+    - To formulate a thesis statement
+    - To support a thesis with quotes from primary sources
 
   rubric:
     - weight: 25
