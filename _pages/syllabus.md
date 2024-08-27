@@ -798,6 +798,8 @@ Subsequent absences will result in a grade reduction of 30% (per the class parti
 
 ### **Approximate Weekly Reading and Paper Assignment Schedule (see the formal schedule with exact dates above)**
 
+Some of the following dates are subject to adjustment; for example, if the class works with a Writing Fellow, then some essay drafts may be due sooner than what is listed here.  Please see the official class schedule above for the exact due dates and schedule.
+
 * Friday, August 23---Friday, Sept 6.: "Allegory of the Cave," Adichie,
 *Feminist Manifesto*, and Katie Merz's *Live the Questions*
 (informally known as "The Smokestack")
