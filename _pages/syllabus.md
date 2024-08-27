@@ -380,6 +380,11 @@ schedule:
   - week: "6"
     date: "0"
     title: "Confucius: Analects"
+    deliverables:
+      - dtitle: "Participation: Thesis Statement and Outline for Essay 2 Due"
+        dlink: false
+        points: 10
+        submission_types: "written"
     readings:
       - rtitle: "Analects of Confucius"
         rlink: false
@@ -387,7 +392,7 @@ schedule:
     date: "1"
     title: "Confucius: Analects"
     deliverables:
-      - dtitle: "Participation: Thesis Statement and Outline for Essay 2 Due"
+      - dtitle: "Participation: Analysis Section for Essay 2 Due"
         dlink: false
         points: 10
         submission_types: "written"
@@ -406,10 +411,11 @@ schedule:
     date: "2"
     title: "Matthew 5-7 and Luke 10"
     deliverables:
-      - dtitle: "Participation: Analysis Section for Essay 2 Due"
-        dlink: false
-        points: 10
+      - dtitle: "Writing: First Draft of Essay 2"
+        dlink: "Assignments/Essay2"
+        points: 30
         submission_types: "written"
+        rubricpath: "_pages/Assignments/asmt-essay2.md"
     readings:
       - rtitle: "Matthew 5-7 (Sermon on the Mount)"
         rlink: false
@@ -433,11 +439,6 @@ schedule:
     date: "2"
     title: "Darwin and Roughgarden"
     deliverables:
-      - dtitle: "Writing: First Draft of Essay 2"
-        dlink: "Assignments/Essay2"
-        points: 30
-        submission_types: "written"
-        rubricpath: "_pages/Assignments/asmt-essay2.md"
       - dtitle: "Participation: Writing Fellow Meeting Reflection 2 Handed Out"
         dlink: "Participation/WritingFellowReflection"
         points: 10
