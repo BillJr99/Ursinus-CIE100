@@ -847,11 +847,11 @@ Subsequent absences will result in a grade reduction of 30% (per the class parti
 
 * Thanksgiving Break Nov. 27-Dec. 1
 
-**12/02-12/04---First Draft of Essay #3**
+> **12/02-12/04---First Draft of Essay #3**
 
 * Tuesday, Dec. 3---Monday, Dec. 9: **select your quest**
 
-**12/09---Final Draft of Essay #3**
+> **12/09---Final Draft of Essay #3**
 
 ### Common Events 
 
