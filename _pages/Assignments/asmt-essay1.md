@@ -71,8 +71,7 @@ The texts and works you will consider are:
 
 1. Allegory of the Cave
 2. Dear Ijeawele, or A Feminist Manifesto in Fifteen Suggestions
-3. The Matrix
-4. [Katie Merz: Live the Questions](https://www.ursinus.edu/live/profiles/5345-katie-merz-live-the-questions)
+3. [Katie Merz: Live the Questions](https://www.ursinus.edu/live/profiles/5345-katie-merz-live-the-questions)
 
 ## Writing Prompts 
 
@@ -80,9 +79,9 @@ The following are the topic prompts from which you may choose for this essay:
 
 ### From Suggestions to Action: What Will I Do?
 
-Imagine that you were writing a manifesto similar to Adichie's *Dear Ijeawele* that is directed to the prisoners of the *Allegory of the Cave*, and/or to your incoming classmates.  What social constructs would you challenge within the cave and/or at college?  Discuss how Socrates, the Matrix, the Smokestack, and Adichie would stand up to social constructs with which they disagree.
+Imagine that you were writing a manifesto similar to Adichie's *Dear Ijeawele* that is directed to the prisoners of the *Allegory of the Cave*, and/or to your incoming classmates.  What social constructs would you challenge within the cave and/or at college?  Discuss how Socrates, the Smokestack, and Adichie would stand up to social constructs with which they disagree.
 
-**Our task:** Discuss strategies for changing broad social constructs and norms in the voice of the *Allegory of the Cave*, *Dear Ijeawele*, *Live the Questions*, and *The Matrix*, citing references and quotes from these relevant texts to support your interpretation.  Are suggestions in a manifesto sufficient to effect change, and if not, what would these authors suggest to put their texts into action?  
+**Our task:** Discuss strategies for changing broad social constructs and norms in the voice of the *Allegory of the Cave*, *Dear Ijeawele*, and *Live the Questions*, citing references and quotes from these relevant texts to support your interpretation.  Are suggestions in a manifesto sufficient to effect change, and if not, what would these authors suggest to put their texts into action?  
 
 ### Gender Caves (From the CIE Working Group)
 
@@ -186,7 +185,7 @@ To be successful at this, we need first to read and re-read the text we’re wor
 Whichever option you choose, the following requirements need to be meet:
 
 * The essay should be 1200-1500 words
-* Minimum of 6 relevant quotes from A Feminist Manifesto, Allegory of the Cave, and the Matrix
+* Minimum of 6 relevant quotes from A Feminist Manifesto, and the Allegory of the Cave
 * The essay must be typed, double-spaced, in 12-point font 
 * Number the pages 
 * Do not include a cover page. 
