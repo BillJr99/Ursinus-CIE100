@@ -545,7 +545,7 @@ schedule:
         submission_types: "written"
     readings:
       - rtitle: "In His Own Words: Ta-Nehisi Coates (supplemental recording)"
-        rlink: "https://ursinus.instructure.com/courses/2858/pages/between-the-world-and-me"
+        rlink: "https://ursinus.instructure.com/courses/18519/pages/between-the-world-and-me-supplemental-recording?module_item_id=421026"
   - week: "12"
     date: "2"
     title: "Persepolis and Between the World and Me"
