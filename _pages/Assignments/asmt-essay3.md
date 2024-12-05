@@ -87,7 +87,7 @@ Earlier this semester, Rabbi David Wolpe visited Ursinus to give a talk entitled
 
 We also read several biblical passages, including the Sermon on the Mount, the Good Samaritan, and Genesis.  Reflecting upon these passages and Rabbi Wolpe's talk, discuss ways in which one's academic pursuits might be best placed for the good of humanity.  One could, for example, acquire a lifetime of knowledge, and then pass on before putting it to use.  Alternatively, one might seek to be known for some success or accomplishment as their "reward" for a lifetime of learning (akin to a billionaire becoming a philanthropist late in life).  
 
-**Our task:** Thinking about the Ursinus Questions, these biblical passages, and other texts of your choosing (including The Matrix), take a position on the purpose of education, and what obligations, if any, one should consider as a result of the gift of learning.
+**Our task:** Thinking about the Ursinus Questions, these biblical passages, and other texts of your choosing, take a position on the purpose of education, and what obligations, if any, one should consider as a result of the gift of learning.
 
 ### Coded Bias (Select Your Quest)
 
