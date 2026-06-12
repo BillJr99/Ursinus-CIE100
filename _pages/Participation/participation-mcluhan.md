@@ -1,7 +1,7 @@
 ---
 layout: assignment
-permalink: Participation/Coates
-title: "CIE100: Common Intellectual Experience - Between the World and Me Writing Prompt"
+permalink: Participation/McLuhan
+title: "CIE100: Common Intellectual Experience - McLuhan Writing Prompt"
 
 
 info:
@@ -22,6 +22,6 @@ In this writing prompt, you will consider the questions below and write a 1-2 pa
 
 ## Writing Prompt
 
-1. Coates writes to his son about the vulnerability of the body, insisting that racism is not an abstraction but something visited upon bodies. Choose a passage where the body itself carries the argument, and discuss how this embodiment changes the way we talk about justice compared to more abstract treatments.
+1. McLuhan claims that the medium is the message: that the form of a medium shapes us more deeply than any content it carries, and that the content distracts us from noticing. Restate this claim in your own words with a quotation, and discuss the strongest objection you can think of to it.
 
-2. Coates describes the Dream as a kind of sleep, comfortable and costly. What dream, in your own life, community, or country, might Coates challenge you to wake from? You may mark any portion of this response as private to the instructor if you prefer not to discuss it in class; the thinking matters more than the disclosure.
+2. Pick one medium you use daily and analyze its message apart from any content: what does it train your attention, your body, your sense of time, and your relationships to do? Where would a conversational AI fit in McLuhan's framework, and what might its message be, independent of anything it says?

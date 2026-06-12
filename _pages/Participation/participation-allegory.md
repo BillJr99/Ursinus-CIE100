@@ -1,7 +1,7 @@
 ---
 layout: assignment
-permalink: Participation/Coates
-title: "CIE100: Common Intellectual Experience - Between the World and Me Writing Prompt"
+permalink: Participation/Allegory
+title: "CIE100: Common Intellectual Experience - Allegory of the Cave Writing Prompt"
 
 
 info:
@@ -22,6 +22,6 @@ In this writing prompt, you will consider the questions below and write a 1-2 pa
 
 ## Writing Prompt
 
-1. Coates writes to his son about the vulnerability of the body, insisting that racism is not an abstraction but something visited upon bodies. Choose a passage where the body itself carries the argument, and discuss how this embodiment changes the way we talk about justice compared to more abstract treatments.
+1. Plato describes prisoners who mistake shadows for reality, and a freed prisoner whose eyes ache in the light of the sun. In your own words, what do the chains, the shadows, the fire, and the ascent each represent? Why do you think the freed prisoner returns to the cave, and what reception does Plato predict?
 
-2. Coates describes the Dream as a kind of sleep, comfortable and costly. What dream, in your own life, community, or country, might Coates challenge you to wake from? You may mark any portion of this response as private to the instructor if you prefer not to discuss it in class; the thinking matters more than the disclosure.
+2. Consider the personalized feeds you scroll every day. In what ways might recommendation algorithms project shadows on your wall, and who are the puppeteers carrying objects in front of the fire? Is leaving this cave possible in 2026, and would you actually want to? Bring one concrete example from your own feed (a recommended video, a trend, an ad) that you are prepared to discuss.

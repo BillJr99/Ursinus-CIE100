@@ -1,7 +1,7 @@
 ---
 layout: assignment
-permalink: Participation/Coates
-title: "CIE100: Common Intellectual Experience - Between the World and Me Writing Prompt"
+permalink: Participation/McPhee
+title: "CIE100: Common Intellectual Experience - McPhee Writing Prompt"
 
 
 info:
@@ -22,6 +22,6 @@ In this writing prompt, you will consider the questions below and write a 1-2 pa
 
 ## Writing Prompt
 
-1. Coates writes to his son about the vulnerability of the body, insisting that racism is not an abstraction but something visited upon bodies. Choose a passage where the body itself carries the argument, and discuss how this embodiment changes the way we talk about justice compared to more abstract treatments.
+1. What does McPhee suggest about the wisdom, and the hubris, of attempting to control nature? Choose a passage where the engineers' confidence and nature's indifference collide, and discuss whether McPhee is finally an admirer or a critic of these efforts, or something more complicated.
 
-2. Coates describes the Dream as a kind of sleep, comfortable and costly. What dream, in your own life, community, or country, might Coates challenge you to wake from? You may mark any portion of this response as private to the instructor if you prefer not to discuss it in class; the thinking matters more than the disclosure.
+2. The control of nature is not an abstraction here: the Perkiomen Creek flooding from Hurricane Ida in 2021 touched this region directly. Where in your own community has the control of nature succeeded, failed, or merely been postponed? What would McPhee notice about that place that its residents might not?

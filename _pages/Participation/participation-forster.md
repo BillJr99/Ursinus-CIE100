@@ -1,7 +1,7 @@
 ---
 layout: assignment
-permalink: Participation/Coates
-title: "CIE100: Common Intellectual Experience - Between the World and Me Writing Prompt"
+permalink: Participation/Forster
+title: "CIE100: Common Intellectual Experience - The Machine Stops Writing Prompt"
 
 
 info:
@@ -22,6 +22,6 @@ In this writing prompt, you will consider the questions below and write a 1-2 pa
 
 ## Writing Prompt
 
-1. Coates writes to his son about the vulnerability of the body, insisting that racism is not an abstraction but something visited upon bodies. Choose a passage where the body itself carries the argument, and discuss how this embodiment changes the way we talk about justice compared to more abstract treatments.
+1. Forster published this story in 1909, and yet it anticipates video calls, content feeds, and lives mediated entirely by machines. Which prediction unsettles you most, and why? Quote the passage. What has Vashti lost, and why does she not notice the loss?
 
-2. Coates describes the Dream as a kind of sleep, comfortable and costly. What dream, in your own life, community, or country, might Coates challenge you to wake from? You may mark any portion of this response as private to the instructor if you prefer not to discuss it in class; the thinking matters more than the disclosure.
+2. Kuno warns that the Machine stops. What is your Machine: the system whose silent functioning your daily life most depends upon? What would its stopping reveal about you, and is Forster's ending a warning, a hope, or both? You will have the option of a voluntary 24 hour fast from one application before our second discussion; if you attempt it, describe what you noticed.

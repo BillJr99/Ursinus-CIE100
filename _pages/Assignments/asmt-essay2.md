@@ -7,9 +7,12 @@ title: "CIE100: Common Intellectual Experience - Essay 2"
 info:
   coursenum: CIE100
   points: 100
-  submission: "Submit a word processed or PDF document."
+  submission: "Submit a word processed or PDF document through Canvas before the start of class on each due date."
   goals:
-    - To synthesize multiple text sources into a comprehensive narrative discussion
+    - To formulate a clear, arguable thesis statement about questions of justice, obligation, and community
+    - To support a thesis with carefully chosen quotes from primary sources
+    - To bring texts from different traditions and centuries into substantive conversation
+    - To engage substantively with the drafting and revision process
 
   rubric:
     - weight: 25
@@ -58,69 +61,28 @@ tags:
 
 ---
 
-## Purpose/Context \[[^1]\]
+In this second essay of 1200 to 1500 words, you will construct an argument that brings at least two of our recent texts into conversation: Sappho, the Islamic mystic poets, Plato's *Euthyphro*, and Coates' *Between the World and Me*. The essay takes up the second core question of the course, how should we live together, by asking what we owe to the people, traditions, and institutions that shape us.
 
-This paper is an opportunity to pursue one or two ideas about a CIE text in much greater depth and detail. We've read these texts on our own, discussed them in class, and now it's time to return to a text and dig deeper.
+## Prompt
 
-In our last paper, we worked on integrating carefully chosen references to the text and providing thought-provoking analysis to those references. We will continue to apply and build on these skills, while now adding a focus on developing a debatable, detailed, and insightful thesis that will govern the evidence throughout our paper.
+Choose **one** of the following options. Whichever option you choose, your essay must advance a specific, arguable thesis and support it with carefully selected quotations from the texts, cited in MLA format.
 
-## Writing Prompts (Choose one!)
+1. Euthyphro confidently prosecutes his own father in the name of piety, while Coates writes to his son about a Dream his country refuses to question. Construct an argument about when loyalty to inherited frameworks (family, faith, nation, or culture) should yield to questioning, engaging both texts. What does Socratic questioning look like when the stakes are as embodied as Coates insists they are?
 
-### Tradition vs Innovation (from the CIE Working Group)
+2. Sappho and the Islamic mystic poets write longing in the language of the body, and Coates writes fear and love through the body as well. Construct an argument about how embodiment shapes what we owe one another, engaging at least two of these texts. Does taking the body seriously change what justice or care requires?
 
-Choose a community you're a part of that engages in a tradition that you believe should be altered, eliminated or transformed. Community here can mean family, friends, religious or political group, etc., and can virtual as well (e.g., social media platforms). The key is that you must be someone who actively participates in this group (e.g., no choosing Twitter if you've never used the platform). The traditional should seem important – even integral – to the group. This means your opinion will be unpopular, but what do you think is at risk if you don't speak up and attempt to change the group's opinions and behavior?
+3. Apply the Socratic method of *Euthyphro* to a value at the center of *Between the World and Me*, such as the Dream, safety, or hope. Construct an argument about what that value turns out to mean when subjected to the kind of definitional pressure Socrates applies, and whether it survives the examination.
 
-**Our task:** Consider the above prompt by doing the following: (a) construct an argument for why and how you believe this tradition should be changed, with the goal of convincing members of the community to adopt your ideas, (b) think about how your proposed change helps answer the question "How should we live together?"
+## Scaffolded Deliverables
 
-### What is the purpose of ritual? (from the CIE Working Group)
-The communities in which we exist often have normalized behaviors that could be considered ritual and are used to communicate intent and purpose to others. For example, the donning of "business appropriate" clothing before going to work, or the use of certain words or idioms to indicate belonging, such as saying "jawn" or using the phrase "spill the tea". What is the purpose, if any, of these rituals and norms? Are they a necessary part of how we live together, or do they serve to create divisions between different communities?
+This essay is developed in three stages, and the stages together constitute the 100 points of this assignment. The thesis statement, quote list, and rough outline are worth 10 points; the complete first draft is worth 30 points; and the revised final draft is worth 60 points. You will meet with our Writing Fellow between the first and final drafts, and your final draft should respond substantively to the feedback you receive; cosmetic edits do not constitute revision.
 
-**Our task:** Consider the above prompt by doing the following: (a) construct an argument for the role of ritual in society, (b) consider whether societal rituals can be used to promote people to act against their own self-interests, or whether they help ensure people follow their desired path.
+1. **Thesis Statement, Quote List, and Rough Outline.** A one to two sentence working thesis, a list of four to six quotations (with page numbers) drawn from at least two texts, and a paragraph-level outline.
+2. **First Draft.** A complete draft of the full 1200 to 1500 words, not a partial sketch.
+3. **Final Draft.** The revised essay, accompanied by a brief (one paragraph) revision memo describing what you changed and why.
 
-### Aristophanes was a misogynist who wrote a feminist text (adapted from the CIE Working Group)
-On the surface, *Lysistrata* portrayed women as empowered to influence men and politics to end a war.  One could superficially conclude that the moral of the story was that Lysistrata, a feminist, organized and empowered themselves to effect social change.  Was the audience meant to conclude that they should listen to their wives more often?  Or, was this empowerment presented satirically?  Who was the intended audience, and what was intended as their takeaway message?
+## Submission Instructions
 
-**Our task:** Consider the above prompt by doing the following: (a) construct an argument regarding your agreement, or disagreement, with the statement in bold at the start of the essay prompt (and the subsequent description), (b) think about how our understanding of modern (e.g., Adiche) and ancient (e.g., Sappho) feminism can be used to shape our understanding of Medea and Euripides.
+Submit each deliverable through Canvas before the start of class on its due date, as listed on the course schedule. If you consulted a generative AI tool for a permitted purpose under the course policy, disclose that use in your Acknowledgements section; the writing itself must be entirely your own.
 
-**Writing Goals**
-
-- A thesis statement that is debatable, concise, clear, indicative of our essay's argument, detailed, specific, and insightful.
-- Lively, distinctive, original voice.
-- Carefully chosen, frequent, detailed references to the texts.
-- Thoughtful, provocative, creative, nuanced interpretations of your textual references.
-- Logical, coherent, easy to follow organization.
-- Clear, dynamic sentences; accurate, varied diction; lack of grammar and spelling mistakes.
-- One of the goals of CIE is to develop a process of writing that includes incorporating feedback and substantial revision. There needs to be substantive change between the first and final draft. Submitting a slightly edited, or unedited, version of the first draft does not reflect the development of a writing process.
-
-Our writing will be assessed based on how well we meet these goals.
-
-**Method and Advice**
-
-- Writing a thesis statement, or the governing argument or claim of your paper, is a process. The act of writing and thinking about your ideas will likely result in a change in your thesis over the course of writing and revising your paper. That's normal! It means you're on the right track to constructing a nuanced, debatable argument. Begin with a provisional, or "working," thesis statement as a starting point, with the expectation that it will need to be changed. As you draft and revise, take stock of whether your provisional thesis statement is still reflecting the main ideas and claims you're making throughout the paper, and how the thesis could be revised as your argument become clearer to you.
-
-- Keep this thesis statement checklist in mind as you draft and revise your argument:
-
-* Concise (one sentence, two max)
-* Clear (accessible enough to be understood early in the essay)
-* Specific (avoids vague generalities; shows what the essay is about)
-* Debatable (a person could reasonably disagree)
-* Interesting (unexpected; pushes beyond the obvious; insightful)
-
-- One way to check whether you're writing an **insightful argument** is to consider what your classmates' or my reaction might be to your claim. Will it make us think about the text in a new way that we might not have considered? If given your thesis statement and introductory paragraph, would we be interested to keep reading your paper to learn more about your ideas?
-
-**Submission Requirements:**
-
-Whichever option you choose, the following requirements need to be meet:
-
-- The essay should be 1200-1500 words
-- **Essay must include quotes from at least two of our CIE text**. One text must be from selected from Lysistrata, Sappho, Euthyphro, Genesis or Analects. The second text can be another from that list, or any of the previous texts we have covered in the course to date.
-- The essay must be typed, double-spaced, in 12-point font
-- Do not include a cover page.
-- Include your name on the document
-- Every essay should have an informative and interesting title. Titles such as "Essay 2", "CIE Essay on Education,", "Lysistrata Essay", etcetera, don't count.
-
-**Acknowledgements**
-
-[^1]: Essay prompts and instructions were adapted from an assignment by Prof. Gilman-Forlini.
-
-
+If collaboration with a buddy was permitted, did you work with a buddy on this assignment? If so, who? If not, do you certify that this submission represents your own original work? Please identify any and all portions of your submission that were not originally written by you.

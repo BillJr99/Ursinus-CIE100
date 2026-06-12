@@ -1,7 +1,7 @@
 ---
 layout: assignment
-permalink: Participation/Coates
-title: "CIE100: Common Intellectual Experience - Between the World and Me Writing Prompt"
+permalink: Participation/IslamicMysticPoetry
+title: "CIE100: Common Intellectual Experience - Islamic Mystic Poetry Writing Prompt"
 
 
 info:
@@ -22,6 +22,6 @@ In this writing prompt, you will consider the questions below and write a 1-2 pa
 
 ## Writing Prompt
 
-1. Coates writes to his son about the vulnerability of the body, insisting that racism is not an abstraction but something visited upon bodies. Choose a passage where the body itself carries the argument, and discuss how this embodiment changes the way we talk about justice compared to more abstract treatments.
+1. The mystic poets describe longing for the divine in the language of human love: separation, intoxication, the beloved. Choose one poem from the course booklet and discuss how the poet uses this imagery. What, precisely, is being longed for, and why might ordinary language be inadequate to express it?
 
-2. Coates describes the Dream as a kind of sleep, comfortable and costly. What dream, in your own life, community, or country, might Coates challenge you to wake from? You may mark any portion of this response as private to the instructor if you prefer not to discuss it in class; the thinking matters more than the disclosure.
+2. Rumi is among the best-selling poets in the United States, yet he is often quoted online with no reference to Islam at all. Find one popular Rumi quotation circulating on social media and compare it with the poems in our course booklet. What is gained, and what is lost, when a text is lifted out of its tradition? Who has the standing to decide?

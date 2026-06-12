@@ -1,7 +1,7 @@
 ---
 layout: assignment
-permalink: Participation/Coates
-title: "CIE100: Common Intellectual Experience - Between the World and Me Writing Prompt"
+permalink: Participation/Adichie
+title: "CIE100: Common Intellectual Experience - Dear Ijeawele Writing Prompt"
 
 
 info:
@@ -22,6 +22,6 @@ In this writing prompt, you will consider the questions below and write a 1-2 pa
 
 ## Writing Prompt
 
-1. Coates writes to his son about the vulnerability of the body, insisting that racism is not an abstraction but something visited upon bodies. Choose a passage where the body itself carries the argument, and discuss how this embodiment changes the way we talk about justice compared to more abstract treatments.
+1. Of Adichie's fifteen suggestions, which do you find most persuasive, and which would you push back on or complicate? Support both choices with quotations, and explain what assumptions about gender, culture, or childhood each suggestion rests upon.
 
-2. Coates describes the Dream as a kind of sleep, comfortable and costly. What dream, in your own life, community, or country, might Coates challenge you to wake from? You may mark any portion of this response as private to the instructor if you prefer not to discuss it in class; the thinking matters more than the disclosure.
+2. Find one example from your own media environment (an advertisement, an influencer post, a product, a song) that either confirms or complicates Adichie's claims about how gender expectations are taught. Describe it specifically, and connect it to a passage from the letter. Would Adichie's advice to Ijeawele need updating for a child growing up with today's algorithmic media, and if so, what sixteenth suggestion would you add?
