@@ -14,7 +14,7 @@ info:
   ical: files/CIE100.ics
   designation: "CIE"
   course_prerequisites: "None"
-  course_start_date: "2026/08/21"
+  course_start_date: "2026/08/24"
   course_end_date: "2026/12/08"
   course_description: "The first of a two-semester course introducing inquiry into the core questions of liberal education at Ursinus: What should matter to me? How should we live together? How can we understand the world? What will I do? The course will explore these questions through the study of influential primary texts. The first semester focuses on texts from antiquity up to the modern era. Four semester hours. (CIE)"
   welcome_message: "Welcome to CIE100!"
@@ -166,19 +166,6 @@ letter_grades:
 schedule:
   - week: "0"
     date: "0"
-    title: "First Class Meeting (All Sections Meet): Community Building and Course Introduction"
-    deliverables:
-      - dtitle: "Participation: Ice Breaker Reflection Handed Out"
-        dlink: "Participation/IceBreaker"
-        points: 10
-        submission_types: "written"
-    readings:
-      - rtitle: "All CIE sections meet Friday 8/21; location and time to be announced"
-        rlink: false
-      - rtitle: "Pre-semester reading: Plato, Allegory of the Cave (CIE Reader)"
-        rlink: false
-  - week: "1"
-    date: "0"
     title: "Plato, Allegory of the Cave: Shadows, Screens, and the Ascent"
     deliverables:
       - dtitle: "Participation: Ice Breaker Reflection Due"
@@ -190,11 +177,15 @@ schedule:
         points: 10
         submission_types: "written"
     readings:
+      - rtitle: "First Class Meeting: all CIE sections meet Friday, August 21 (community building and course introduction; location and time to be announced); the Ice Breaker Reflection is handed out there"
+        rlink: false
+      - rtitle: "Pre-semester reading: Plato, Allegory of the Cave (CIE Reader)"
+        rlink: false
       - rtitle: "Plato, Allegory of the Cave (CIE Reader)"
         rlink: false
       - rtitle: "Center for Writing and Speaking: Reading to Write"
         rlink: "https://www.ursinus.edu/live/files/4030-reading-to-write-ppt-001"
-  - week: "1"
+  - week: "0"
     date: "1"
     title: "Adichie, Dear Ijeawele: The First Seven Suggestions"
     deliverables:
@@ -205,7 +196,7 @@ schedule:
     readings:
       - rtitle: "Adichie, Dear Ijeawele, pp. 1-36 (first seven suggestions)"
         rlink: false
-  - week: "2"
+  - week: "1"
     date: "0"
     title: "Adichie, Dear Ijeawele: Suggestions Eight Through Fifteen"
     deliverables:
@@ -216,7 +207,7 @@ schedule:
     readings:
       - rtitle: "Adichie, Dear Ijeawele, pp. 36-end (suggestions 8-15)"
         rlink: false
-  - week: "2"
+  - week: "1"
     date: "1"
     title: "Essay 1 Workshop: Brainstorming, Sample Essays, and Thesis Construction"
     deliverables:
@@ -230,7 +221,7 @@ schedule:
         rlink: false
       - rtitle: "Center for Writing and Speaking: Choosing and Formatting Quotations"
         rlink: "https://www.ursinus.edu/live/files/4032-choosing-and-formatting-quotations-ppt-001"
-  - week: "3"
+  - week: "2"
     date: "0"
     title: "Katie Merz, Live the Questions (The Smokestack): Analyzing Visual Materials"
     deliverables:
@@ -241,7 +232,7 @@ schedule:
     readings:
       - rtitle: "Katie Merz, Live the Questions (Smokestack); class visits the installation"
         rlink: "https://www.ursinus.edu/live/profiles/5345-katie-merz-live-the-questions/_ingredients/templates/berman-2018/exhibition"
-  - week: "3"
+  - week: "2"
     date: "1"
     title: "Sappho: Fragments, Longing, and the Survival of Texts"
     deliverables:
@@ -252,7 +243,7 @@ schedule:
     readings:
       - rtitle: "Sappho, poems 1-2, 4-5, 8-9, 12-15, 17, 20-21, 37-84, 87-88, 97-100 (Barnard translation)"
         rlink: false
-  - week: "4"
+  - week: "3"
     date: "0"
     title: "Sappho, Continued: Reconstruction and Interpretation"
     deliverables:
@@ -263,7 +254,7 @@ schedule:
     readings:
       - rtitle: "Continue discussing Sappho"
         rlink: false
-  - week: "4"
+  - week: "3"
     date: "1"
     title: "Islamic Mystic Poetry: Longing for the Divine"
     deliverables:
@@ -274,13 +265,13 @@ schedule:
     readings:
       - rtitle: "Islamic Mystic Poetry (CIE Reader)"
         rlink: false
-  - week: "5"
+  - week: "4"
     date: "0"
     title: "Islamic Mystic Poetry, Continued: Translation, Tradition, and Context"
     readings:
       - rtitle: "Continue discussing Islamic Mystic Poetry"
         rlink: false
-  - week: "5"
+  - week: "4"
     date: "1"
     title: "Revision Workshop: From First Draft to Final Draft"
     readings:
@@ -288,7 +279,7 @@ schedule:
         rlink: false
       - rtitle: "Center for Writing and Speaking: Resources for Students"
         rlink: "https://www.ursinus.edu/offices/center-for-writing-and-speaking/resources-for-students-/"
-  - week: "6"
+  - week: "5"
     date: "0"
     title: "Plato, Euthyphro: What Is Piety?"
     deliverables:
@@ -303,13 +294,13 @@ schedule:
     readings:
       - rtitle: "Plato, Euthyphro (CIE Reader)"
         rlink: false
-  - week: "6"
+  - week: "5"
     date: "1"
     title: "Euthyphro, Continued: The Dilemma and Its Descendants"
     readings:
       - rtitle: "Continue discussing Euthyphro"
         rlink: false
-  - week: "7"
+  - week: "6"
     date: "0"
     title: "Coates, Between the World and Me, Part I: The Body and the Dream"
     deliverables:
@@ -325,19 +316,13 @@ schedule:
     readings:
       - rtitle: "Coates, Between the World and Me, pp. 1-71 (Part I)"
         rlink: false
-  - week: "7"
-    date: "1"
-    title: "APEX Day (No Classes)"
     readings:
       - rtitle: "APEX Day Thursday 10/8: no class meeting"
         rlink: false
-  - week: "8"
-    date: "0"
-    title: "Fall Break (No Classes)"
     readings:
       - rtitle: "Fall Break: no class meeting Tuesday 10/13"
         rlink: false
-  - week: "8"
+  - week: "7"
     date: "1"
     title: "Coates, Continued: Letters, Fear, and Love"
     deliverables:
@@ -348,13 +333,13 @@ schedule:
     readings:
       - rtitle: "Continue discussing Between the World and Me, Part I"
         rlink: false
-  - week: "9"
+  - week: "8"
     date: "0"
     title: "Coates, Between the World and Me, Part II: The Mecca"
     readings:
       - rtitle: "Coates, Between the World and Me, pp. 73-132 (Part II)"
         rlink: false
-  - week: "9"
+  - week: "8"
     date: "1"
     title: "Coates, Between the World and Me, Part III: Legacy and Hope"
     deliverables:
@@ -365,7 +350,7 @@ schedule:
     readings:
       - rtitle: "Coates, Between the World and Me, pp. 133-end (Part III)"
         rlink: false
-  - week: "10"
+  - week: "9"
     date: "0"
     title: "Genesis 1-11: Creation, Naming, and Babel"
     deliverables:
@@ -376,7 +361,7 @@ schedule:
     readings:
       - rtitle: "Genesis, chapters 1-11 (Alter translation)"
         rlink: false
-  - week: "10"
+  - week: "9"
     date: "1"
     title: "Genesis 12-22 and Revision Workshop"
     readings:
@@ -384,7 +369,7 @@ schedule:
         rlink: false
       - rtitle: "In class: revision workshop; bring your Essay 2 draft and Writing Fellow feedback"
         rlink: false
-  - week: "11"
+  - week: "10"
     date: "0"
     title: "Darwin: Descent with Modification"
     deliverables:
@@ -395,7 +380,7 @@ schedule:
     readings:
       - rtitle: "Darwin selections (CIE Reader)"
         rlink: false
-  - week: "11"
+  - week: "10"
     date: "1"
     title: "Darwin, Continued: Evolution Beyond Biology"
     deliverables:
@@ -406,7 +391,7 @@ schedule:
     readings:
       - rtitle: "Continue discussing Darwin"
         rlink: false
-  - week: "12"
+  - week: "11"
     date: "0"
     title: "McPhee: The Control of Nature"
     deliverables:
@@ -417,7 +402,7 @@ schedule:
     readings:
       - rtitle: "McPhee selections (CIE Reader)"
         rlink: false
-  - week: "12"
+  - week: "11"
     date: "1"
     title: "McPhee, Continued, and Essay 3 Brainstorming Workshop"
     deliverables:
@@ -429,7 +414,7 @@ schedule:
     readings:
       - rtitle: "Continue discussing McPhee; Essay 3 assignment sheet and brainstorming workshop"
         rlink: false
-  - week: "13"
+  - week: "12"
     date: "0"
     title: "Deloria: God Is Red and the Sacredness of Place"
     deliverables:
@@ -442,7 +427,7 @@ schedule:
         rlink: false
       - rtitle: "Note: the last day to withdraw with a W grade is Tuesday, November 17, 2026"
         rlink: false
-  - week: "13"
+  - week: "12"
     date: "1"
     title: "Deloria, Continued: Land, Time, and Acknowledgment"
     deliverables:
@@ -453,7 +438,7 @@ schedule:
     readings:
       - rtitle: "Continue discussing Deloria"
         rlink: false
-  - week: "14"
+  - week: "13"
     date: "0"
     title: "McLuhan: The Medium Is the Message"
     deliverables:
@@ -464,13 +449,10 @@ schedule:
     readings:
       - rtitle: "McLuhan selections (CIE Reader)"
         rlink: false
-  - week: "14"
-    date: "1"
-    title: "Thanksgiving Break (No Classes)"
     readings:
       - rtitle: "Thanksgiving Break Wednesday 11/25 through Friday 11/27: no class meeting"
         rlink: false
-  - week: "15"
+  - week: "14"
     date: "0"
     title: "McLuhan, Continued: Media as Environments"
     deliverables:
@@ -481,7 +463,7 @@ schedule:
     readings:
       - rtitle: "Continue discussing McLuhan"
         rlink: false
-  - week: "15"
+  - week: "14"
     date: "1"
     title: "Forster, The Machine Stops: Prophecy from 1909"
     deliverables:
@@ -492,7 +474,7 @@ schedule:
     readings:
       - rtitle: "Forster, The Machine Stops (CIE Reader)"
         rlink: false
-  - week: "16"
+  - week: "15"
     date: "0"
     title: "Forster, Continued, and Final Revision Workshop (Tuesday 12/8 Follows a Thursday Schedule)"
     deliverables:
