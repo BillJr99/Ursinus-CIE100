@@ -37,12 +37,12 @@ info:
       endtime: "2:45 PM"
       place: "Pfahler 208"
   midtermexam: 
-    - mdate: "N/A"
+    - mdate: "TBD"
       mstarttime: "N/A"
       mendtime: "N/A"
       mroom: "N/A"      
   finalexam: 
-    - fdate: "TBD (Essay 3 Final Draft due during finals week)"
+    - fdate: "TBD"
       fstarttime: "TBD"
       fendtime: "TBD"
       froom: "TBD"
@@ -72,15 +72,6 @@ instructors:
   office: "Pfahler Hall 101L"
   webpage_url: "http://www.billmongan.com"
   picture: /images/profile.png
-  officehours:
-  - day: "T"
-    starttime: "TBD"
-    endtime: "TBD"
-    location: "Pfahler 101L"  
-  - day: "R"
-    starttime: "TBD"
-    endtime: "TBD"
-    location: "Pfahler 101L"   
 - name: Vienna Gurev
   title: Writing Fellow
   email: vigurev@ursinus.edu
@@ -499,10 +490,10 @@ university:
   academicyear: "2026-27"
   fall:
   - kname: "Add Deadline"
-    kdate: "2026/09/04"
+    kdate: "2026/09/02"
     kdisplay: true
   - kname: "Mid Semester Grades Posted"
-    kdate: "2026/10/16"
+    kdate: "2026/10/09"
     kdisplay: false
   - kname: "Drop with a W Deadline"
     kdate: "2026/11/17"
@@ -516,6 +507,16 @@ university:
   - kname: "Finals Week Ends"
     kdate: "2026/12/16"
     kdisplay: false
+  spring: []
+  fallholidays:
+  - date: "2026/09/07"
+  - date: "2026/10/08"
+  - date: "2026/10/12"
+  - date: "2026/10/13"
+  - date: "2026/11/25"
+  - date: "2026/11/26"
+  - date: "2026/11/27"
+  springholidays: []
 
 ---
 
