@@ -18,7 +18,11 @@ tags:
 
 ---
 
-In this writing prompt, you will consider the questions below and write a 1-2 paragraph response that thoughtfully reflects upon them.  Provide your thoughts or opinions about the topic, along with a quote or two from the text that reinforces your point of view.  Consider also what a counter-argument or alternative viewpoint might be, and briefly discuss that as well.  Provide a quote that illustrates this alternative viewpoint, or a quote that might contradict this alternative viewpoint.
+In this writing prompt, you will consider the questions below and respond by writing a letter addressed to the author, equivalent in length to a 1-2 paragraph response. In the letter, respond to the reading in your own voice, quoting the text at least once in support of what you say, and raise one respectful counterargument, supported by a quote, that the author would have to answer. Submit your letter through Canvas before the start of class.
+
+UDL choice: this genre is the default for this reading, but you may swap in any of the four response genres (analytic, letter, dialogue, marginalia+aphorism) as long as the quote and counterargument requirements are met.
+
+Struggling with the reading itself? See the guide: [How to Read Hard Texts in CIE](../Assignments/readingguide.md).
 
 ## Writing Prompt
 

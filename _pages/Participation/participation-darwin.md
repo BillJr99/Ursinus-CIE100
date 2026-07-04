@@ -18,7 +18,11 @@ tags:
 
 ---
 
-In this writing prompt, you will consider the questions below and write a 1-2 paragraph response that thoughtfully reflects upon them.  Provide your thoughts or opinions about the topic, along with a quote or two from the text that reinforces your point of view.  Consider also what a counter-argument or alternative viewpoint might be, and briefly discuss that as well.  Provide a quote that illustrates this alternative viewpoint, or a quote that might contradict this alternative viewpoint.
+In this writing prompt, you will consider the questions below and respond by writing a short dialogue: 1-2 pages of script, equivalent in length to a 1-2 paragraph response, between yourself and a figure from, or behind, the text. Quote the text at least once within the exchange, and give the other voice a genuine counterargument, supported by a quote of its own, rather than an easy target. Submit your dialogue through Canvas before the start of class.
+
+UDL choice: this genre is the default for this reading, but you may swap in any of the four response genres (analytic, letter, dialogue, marginalia+aphorism) as long as the quote and counterargument requirements are met.
+
+Struggling with the reading itself? See the guide: [How to Read Hard Texts in CIE](../Assignments/readingguide.md).
 
 ## Writing Prompt
 
