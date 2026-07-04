@@ -35,6 +35,29 @@ Hard texts are not read once; they are read in passes, and each pass has a diffe
 2. **Pass two: close read with pencil (the main event).** Read the whole assignment with a pencil (or its digital equivalent) in hand. Mark passages that strike you, confuse you, or repeat; write questions in the margins; argue back. A page with no marks on it is a page you have not yet read. This is also where quote-harvesting happens (see below).
 3. **Pass three: return to the hardest paragraph (10-15 minutes).** After finishing, go back to the single paragraph that resisted you most and read it again slowly — aloud if it helps. Often it unlocks now that you know where the text was going. If it still resists, bring it to class: the hardest paragraph is usually where the best discussion lives.
 
+## Reading with the Four A's
+
+When a text resists you — or when you resist it — a fourth pass with four questions can break the standoff. Mark the text for:
+
+1. **What assumptions does the author hold?** Finding what the author takes for granted turns a frustrating text into a legible one, because the parts that seemed arbitrary usually follow from an assumption you had not yet spotted.
+2. **What do you agree with in the text?** Locating real agreement first keeps resistance from hardening into dismissal, and gives your later disagreement something solid to stand on.
+3. **What do you want to argue with?** Naming a specific objection to a specific passage converts a vague dislike into a discussable position — the difference between "I didn't like it" and a seminar contribution.
+4. **What parts do you aspire to?** Even a text you fight usually contains a sentence you wish you had written, and finding it keeps the reading generous enough to stay accurate.
+
+This is the protocol behind the [Four A's Reading Response](../Participation/participation-fouras.md) (/Participation/FourAs), where it becomes a submittable written response. Source: Gray, J., "Four 'A's Text Protocol," National School Reform Faculty (NSRF), [https://www.nsrfharmony.org/wp-content/uploads/2017/10/FourAsTextProtocol-N.pdf](https://www.nsrfharmony.org/wp-content/uploads/2017/10/FourAsTextProtocol-N.pdf).
+
+## Building the Argument: From Reading to Persuading
+
+Reading well is half the course; the other half is turning what you read into arguments. A compact playbook:
+
+- **A thesis worth having is arguable** (a reasonable person who has done the reading could disagree), **specific** (it names the texts and the relationship it claims between them), **provable** (it can be supported with quotable passages), and **consequential** (it answers "so what?"). A sentence everyone would nod at is a summary, not a thesis.
+- **Every piece of evidence needs its warrant.** The working unit of an essay paragraph is the chain claim → evidence → warrant: your assertion, the quotation that supports it, and — the step most often skipped — your own 2-3 sentences of reasoning showing *why* that quote supports *that* claim (adapted from Toulmin, S., *The Uses of Argument*, Cambridge University Press, 1958).
+- **Acknowledge and concede before you rebut.** The strongest essays plant a naysayer: they state the best objection fairly, concede what is genuinely right in it, and only then answer it (Graff, G. and Birkenstein, C., *"They Say / I Say": The Moves That Matter in Academic Writing*, W. W. Norton). An objection stated weakly convinces no one, including you.
+- **Signpost, and summarize others fairly.** Tell the reader where the argument is and where it is going, and state views you disagree with in language their holders would recognize as accurate — fair summary is both an ethical habit and a persuasive one.
+- **Know your registers of persuasion.** *Ethos* persuades through the credibility of the writer, earned here by accurate quotation and fair summary; *pathos* persuades through the reader's emotions, legitimate but never load-bearing in an academic essay; *logos* persuades through reasoning and evidence, and it is the primary register of CIE essays.
+
+Each move has a workshop mini-assignment where you practice it before drafting: the [Thesis Workshop](../Participation/participation-thesisworkshop.md) (/Participation/ThesisWorkshop), the [Evidence Workshop](../Participation/participation-evidenceworkshop.md) (/Participation/EvidenceWorkshop), and [Counterargument and Concession](../Participation/participation-counterargument.md) (/Participation/Counterargument). After the draft and your Writing Fellow conference, the [Draft Reflection: Four A's on Your Own Draft](../Participation/participation-draftfouras.md) (/Participation/DraftFourAs) is the post-conference companion that turns the conversation into a revision plan.
+
 ## Quote-Harvesting for the Commonplace Book
 
 During pass two, harvest as you go: when a sentence stops you, copy it into your commonplace book with its page number and one line about why it stopped you. Do this while reading, not afterward — quotes harvested in the moment come with your reaction attached, and those reactions become writing-prompt responses, essay evidence, and entries in [The Machine Question](../Participation/participation-machinequestion.md) (/Participation/MachineQuestion), the semester-long strand of your commonplace book, with almost no extra work. Aim for three to five harvested quotes per assignment; more is fine.
