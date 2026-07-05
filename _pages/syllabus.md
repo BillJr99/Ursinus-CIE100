@@ -177,7 +177,7 @@ schedule:
         points: 10
         submission_types: "written"
     readings:
-      - rtitle: "First Class Meeting: all CIE sections meet Friday, August 21 (community building and course introduction; location and time to be announced); the Ice Breaker Reflection is handed out there"
+      - rtitle: "First Class Meeting: all CIE sections meet Friday, August 21 (community building and course introduction; location and time to be announced); the Ice Breaker Reflection and the Allegory of the Cave writing prompt are handed out there (the Allegory prompt is also distributed with the pre-semester reading assignment)"
         rlink: false
       - rtitle: "Pre-semester reading: Plato, Allegory of the Cave (CIE Reader)"
         rlink: false
@@ -229,6 +229,10 @@ schedule:
         dlink: "Assignments/Essay1"
         points: 100
         submission_types: "written"
+      - dtitle: "Participation: Sappho Writing Prompt Handed Out"
+        dlink: "Participation/Sappho"
+        points: 10
+        submission_types: "written"
     readings:
       - rtitle: "Katie Merz, Live the Questions (Smokestack); class visits the installation"
         rlink: "https://www.ursinus.edu/live/profiles/5345-katie-merz-live-the-questions/_ingredients/templates/berman-2018/exhibition"
@@ -250,6 +254,10 @@ schedule:
       - dtitle: "Writing: Essay 1 First Draft Due"
         dlink: "Assignments/Essay1"
         points: 100
+        submission_types: "written"
+      - dtitle: "Participation: Islamic Mystic Poetry Writing Prompt Handed Out"
+        dlink: "Participation/IslamicMysticPoetry"
+        points: 10
         submission_types: "written"
     readings:
       - rtitle: "Continue discussing Sappho"
@@ -274,6 +282,11 @@ schedule:
   - week: "4"
     date: "1"
     title: "Revision Workshop: From First Draft to Final Draft"
+    deliverables:
+      - dtitle: "Participation: Euthyphro Writing Prompt Handed Out"
+        dlink: "Participation/Euthyphro"
+        points: 10
+        submission_types: "written"
     readings:
       - rtitle: "Bring your Essay 1 draft and Writing Fellow feedback to class"
         rlink: false
@@ -297,6 +310,11 @@ schedule:
   - week: "5"
     date: "1"
     title: "Euthyphro, Continued: The Dilemma and Its Descendants"
+    deliverables:
+      - dtitle: "Participation: Between the World and Me Writing Prompt Handed Out"
+        dlink: "Participation/Coates"
+        points: 10
+        submission_types: "written"
     readings:
       - rtitle: "Continue discussing Euthyphro"
         rlink: false
@@ -316,11 +334,9 @@ schedule:
     readings:
       - rtitle: "Coates, Between the World and Me, pp. 1-71 (Part I)"
         rlink: false
-    readings:
-      - rtitle: "APEX Day Thursday 10/8: no class meeting"
+      - rtitle: "Essay 2 Assignment Sheet and Sample Student Essays; in-class brainstorming workshop"
         rlink: false
-    readings:
-      - rtitle: "Fall Break: no class meeting Tuesday 10/13"
+      - rtitle: "Note: no class meeting Thursday 10/8 (APEX Day) or Tuesday 10/13 (Fall Break); class resumes Thursday 10/15"
         rlink: false
   - week: "7"
     date: "1"
@@ -347,6 +363,10 @@ schedule:
         dlink: "Assignments/Essay2"
         points: 100
         submission_types: "written"
+      - dtitle: "Participation: Genesis Writing Prompt Handed Out"
+        dlink: "Participation/Genesis"
+        points: 10
+        submission_types: "written"
     readings:
       - rtitle: "Coates, Between the World and Me, pp. 133-end (Part III)"
         rlink: false
@@ -364,6 +384,11 @@ schedule:
   - week: "9"
     date: "1"
     title: "Genesis 12-22 and Revision Workshop"
+    deliverables:
+      - dtitle: "Participation: Darwin Writing Prompt Handed Out"
+        dlink: "Participation/Darwin"
+        points: 10
+        submission_types: "written"
     readings:
       - rtitle: "Genesis, chapters 12-22 (Alter translation)"
         rlink: false
@@ -388,6 +413,10 @@ schedule:
         dlink: "Assignments/Essay2"
         points: 100
         submission_types: "written"
+      - dtitle: "Participation: McPhee Writing Prompt Handed Out"
+        dlink: "Participation/McPhee"
+        points: 10
+        submission_types: "written"
     readings:
       - rtitle: "Continue discussing Darwin"
         rlink: false
@@ -411,6 +440,10 @@ schedule:
         points: 100
         submission_types: "written"
         rubricpath: "_pages/Assignments/asmt-essay3.md"
+      - dtitle: "Participation: Deloria Writing Prompt Handed Out"
+        dlink: "Participation/Deloria"
+        points: 10
+        submission_types: "written"
     readings:
       - rtitle: "Continue discussing McPhee; Essay 3 assignment sheet and brainstorming workshop"
         rlink: false
@@ -434,6 +467,10 @@ schedule:
       - dtitle: "Writing: Essay 3 Thesis Statement, Quote List, and Rough Outline Due"
         dlink: "Assignments/Essay3"
         points: 100
+        submission_types: "written"
+      - dtitle: "Participation: McLuhan Writing Prompt Handed Out"
+        dlink: "Participation/McLuhan"
+        points: 10
         submission_types: "written"
     readings:
       - rtitle: "Continue discussing Deloria"
@@ -460,6 +497,10 @@ schedule:
         dlink: "Assignments/Essay3"
         points: 100
         submission_types: "written"
+      - dtitle: "Participation: The Machine Stops Writing Prompt Handed Out"
+        dlink: "Participation/Forster"
+        points: 10
+        submission_types: "written"
     readings:
       - rtitle: "Continue discussing McLuhan"
         rlink: false
@@ -469,6 +510,10 @@ schedule:
     deliverables:
       - dtitle: "Participation: The Machine Stops Writing Prompt Due"
         dlink: "Participation/Forster"
+        points: 10
+        submission_types: "written"
+      - dtitle: "Participation: Writing Fellow Reflection Handed Out"
+        dlink: "Participation/WritingFellowReflection"
         points: 10
         submission_types: "written"
     readings:
@@ -577,7 +622,26 @@ You may have four absences for any reason without penalty, without consequence t
 
 #### Papers (60%)
 
-Three formal essays anchor the semester, each developed through a scaffolded process: a thesis statement, quote list, and rough outline; a complete first draft reviewed by our Writing Fellow; and a substantially revised final draft. Within each paper's 20% of the course grade, the scaffold deliverables count 10%, the first draft 30%, and the final draft 60%, so that the revision process itself carries real weight. Papers 1 and 2 run 1200 to 1500 words, and Paper 3 runs 1500 to 1800 words. All assignments must be submitted through Canvas before the start of class on the due date.
+Three formal essays anchor the semester, each developed through a scaffolded process: a thesis statement, quote list, and rough outline; a complete first draft reviewed by our Writing Fellow; and a substantially revised final draft. Within each paper's 20% of the course grade, the scaffold deliverables count 10%, the first draft 30%, and the final draft 60%, so that the revision process itself carries real weight. Papers 1 and 2 run 1200 to 1500 words, and Paper 3 runs 1500 to 1800 words. All assignments must be submitted through Canvas by 10:59 PM Eastern Time on the due date, subject to the flexible submission policy stated above.
+
+#### Schedule of Essay Due Dates
+
+The scaffolded deliverables and drafts for each essay fall on the dates below (all times 10:59 PM Eastern, submitted through Canvas). The full day-by-day schedule, including readings and informal writing prompts, appears in the Schedule table below.
+
+| Assessment | Due Date |
+| --- | --- |
+| Essay 1 assignment sheet handed out | Thursday, September 3 |
+| Essay 1 thesis statement, quote list, and rough outline | Tuesday, September 8 |
+| Essay 1 first draft (for Writing Fellow review) | Tuesday, September 15 |
+| Essay 1 final draft | Tuesday, September 29 |
+| Essay 2 assignment sheet handed out | Tuesday, October 6 |
+| Essay 2 thesis statement, quote list, and rough outline | Thursday, October 15 |
+| Essay 2 first draft (for Writing Fellow review) | Thursday, October 22 |
+| Essay 2 final draft | Thursday, November 5 |
+| Essay 3 assignment sheet handed out | Thursday, November 12 |
+| Essay 3 thesis statement, quote list, and rough outline | Thursday, November 19 |
+| Essay 3 first draft (for Writing Fellow review) | Tuesday, December 1 |
+| Essay 3 final draft | During final exam week (date to be announced) |
 
 #### In-Class Participation (30%)
 
