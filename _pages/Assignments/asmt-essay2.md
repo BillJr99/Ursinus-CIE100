@@ -7,6 +7,10 @@ title: "CIE100: Common Intellectual Experience - Essay 2"
 info:
   coursenum: CIE100
   points: 100
+  purpose: "To bring texts from different traditions and centuries into genuine conversation about what we owe the people, faiths, and institutions that shape us."
+  tilt:
+    task: "Write a 1200-1500 word MLA essay advancing an arguable thesis that engages at least two of Sappho, the Islamic mystic poets, Euthyphro, and Coates, built through the draft-and-revision process."
+    criteria: "Assessed on your thesis, argument development, the synthesis of at least two texts, organization, and citations, with real weight on the revision itself; see the rubric below."
   submission: "Submit a word processed or PDF document through Canvas before the start of class on each due date."
   goals:
     - To formulate a clear, arguable thesis statement about questions of justice, obligation, and community
