@@ -7,6 +7,10 @@ title: "CIE100: Common Intellectual Experience - Essay 3"
 info:
   coursenum: CIE100
   points: 100
+  purpose: "To synthesize science, scripture, journalism, philosophy, and fiction into one argument about humanity's place in nature and technology's place in human life."
+  tilt:
+    task: "Write a 1500-1800 word MLA essay advancing an arguable thesis that engages at least two texts from the second half of the semester, built through the draft-and-revision process."
+    criteria: "Assessed on your thesis, argument development, synthesis across texts, organization, and citations, with real weight on the revision itself; see the rubric below."
   submission: "Submit a word processed or PDF document through Canvas; the final draft is due during final exam week (date TBA)."
   goals:
     - To formulate a clear, arguable thesis statement about humanity's place in nature and technology's place in human life

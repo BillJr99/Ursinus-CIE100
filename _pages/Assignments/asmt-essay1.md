@@ -7,6 +7,10 @@ title: "CIE100: Common Intellectual Experience - Essay 1"
 info:
   coursenum: CIE100
   points: 100
+  purpose: "To turn close reading into a specific, arguable claim by asking what it takes to see the world, and ourselves, more clearly."
+  tilt:
+    task: "Write a 1200-1500 word MLA essay that advances a contestable thesis on one of the prompts, grounded in close reading of Plato, Adichie, and/or Merz, and built through the draft-and-revision process."
+    criteria: "Assessed on your thesis, argument development, use and synthesis of textual evidence, organization, and citations, with real weight on the revision itself; see the rubric below."
   submission: "Submit a word processed or PDF document through Canvas before the start of class on each due date."
   goals:
     - To formulate a clear, arguable thesis statement
