@@ -28,4 +28,4 @@ Struggling with the reading itself? See the guide: [How to Read Hard Texts in CI
 
 1. Plato describes prisoners who mistake shadows for reality, and a freed prisoner whose eyes ache in the light of the sun. In your own words, what do the chains, the shadows, the fire, and the ascent each represent? Why do you think the freed prisoner returns to the cave, and what reception does Plato predict?
 
-2. Consider the personalized feeds you scroll every day. In what ways might recommendation algorithms project shadows on your wall, and who are the puppeteers carrying objects in front of the fire? Is leaving this cave possible in 2026, and would you actually want to? Bring one concrete example from your own feed (a recommended video, a trend, an ad) that you are prepared to discuss.
+2. Consider the personalized feeds you scroll every day. In what ways might recommendation algorithms project shadows on your wall, and who are the puppeteers carrying objects in front of the fire? Is leaving this cave possible today, and would you actually want to? Bring one concrete example from your own feed (a recommended video, a trend, an ad) that you are prepared to discuss.
