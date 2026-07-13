@@ -6,7 +6,7 @@ title: "CIE100: Common Intellectual Experience - The Machine Question"
 
 info:
   coursenum: CIE100
-  points: 0
+  points: 10
   submission: "No separate submission. Entries live in the Machine Question section of your commonplace book, which is reviewed at the midterm commonplace check and at the end of the semester."
   submission_types: written
   goals:
@@ -74,4 +74,4 @@ To restate the course policy explicitly: **this strand asks you to think *about*
 
 You may render your entries as prose, as annotated sketches, or as clipped-and-annotated artifacts (a printed screenshot, a taped-in headline, a photographed poster — annotated in your own hand or your own words). Whatever the format, each entry still needs its three parts: the quotation, the sighting, and your one connecting sentence.
 
-See also: [How to Read Hard Texts in CIE](../Assignments/readingguide.md) (/Assignments/ReadingGuide) for the three-pass reading strategy and quote-harvesting habits that feed this strand.
+See also: [How to Read Hard Texts in CIE](../Assignments/readingguide.md) (/Participation/PreparingForDiscussion#how-to-read-hard-texts-in-cie) for the three-pass reading strategy and quote-harvesting habits that feed this strand.

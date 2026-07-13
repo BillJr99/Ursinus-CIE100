@@ -176,6 +176,14 @@ schedule:
         dlink: "Participation/Allegory"
         points: 10
         submission_types: "written"
+      - dtitle: "Participation: Class Participation and Discussion Handed Out"
+        dlink: "Participation/PreparingForDiscussion"
+        points: 10
+        submission_types: "written"
+      - dtitle: "Participation: The Machine Question Handed Out"
+        dlink: "Participation/MachineQuestion"
+        points: 10
+        submission_types: "written"
     readings:
       - rtitle: "First Class Meeting: all CIE sections meet Friday, August 21 (community building and course introduction; location and time to be announced); the Ice Breaker Reflection and the Allegory of the Cave writing prompt are handed out there (the Allegory prompt is also distributed with the pre-semester reading assignment)"
         rlink: false
@@ -229,7 +237,8 @@ schedule:
         dlink: "Assignments/Essay1"
         points: 100
         submission_types: "written"
-      - dtitle: "Participation: Thesis Workshop Due (bring your working thesis to class)"
+        rubricpath: "_pages/Assignments/asmt-essay1.md"
+      - dtitle: "Participation: Thesis Workshop Due"
         dlink: "Participation/ThesisWorkshop"
         points: 10
         submission_types: "written"
@@ -259,7 +268,8 @@ schedule:
         dlink: "Assignments/Essay1"
         points: 100
         submission_types: "written"
-      - dtitle: "Participation: Evidence Workshop Due (MEAL paragraphs and the quote sandwich)"
+        rubricpath: "_pages/Assignments/asmt-essay1.md"
+      - dtitle: "Participation: Evidence Workshop Due"
         dlink: "Participation/EvidenceWorkshop"
         points: 10
         submission_types: "written"
@@ -291,7 +301,7 @@ schedule:
     date: "1"
     title: "Revision Workshop: From First Draft to Final Draft"
     deliverables:
-      - dtitle: "Participation: Draft Four A's Due (bring your post-conference revision plan)"
+      - dtitle: "Participation: Draft Four A's Due"
         dlink: "Participation/DraftFourAs"
         points: 10
         submission_types: "written"
@@ -312,6 +322,7 @@ schedule:
         dlink: "Assignments/Essay1"
         points: 100
         submission_types: "written"
+        rubricpath: "_pages/Assignments/asmt-essay1.md"
       - dtitle: "Participation: Euthyphro Writing Prompt Due"
         dlink: "Participation/Euthyphro"
         points: 10
@@ -358,6 +369,7 @@ schedule:
         dlink: "Assignments/Essay2"
         points: 100
         submission_types: "written"
+        rubricpath: "_pages/Assignments/asmt-essay2.md"
     readings:
       - rtitle: "Continue discussing Between the World and Me, Part I"
         rlink: false
@@ -375,6 +387,7 @@ schedule:
         dlink: "Assignments/Essay2"
         points: 100
         submission_types: "written"
+        rubricpath: "_pages/Assignments/asmt-essay2.md"
       - dtitle: "Participation: Counterargument and Concession Workshop Due"
         dlink: "Participation/Counterargument"
         points: 10
@@ -429,6 +442,7 @@ schedule:
         dlink: "Assignments/Essay2"
         points: 100
         submission_types: "written"
+        rubricpath: "_pages/Assignments/asmt-essay2.md"
       - dtitle: "Participation: McPhee Writing Prompt Handed Out"
         dlink: "Participation/McPhee"
         points: 10
@@ -484,6 +498,7 @@ schedule:
         dlink: "Assignments/Essay3"
         points: 100
         submission_types: "written"
+        rubricpath: "_pages/Assignments/asmt-essay3.md"
       - dtitle: "Participation: McLuhan Writing Prompt Handed Out"
         dlink: "Participation/McLuhan"
         points: 10
@@ -512,6 +527,7 @@ schedule:
         dlink: "Assignments/Essay3"
         points: 100
         submission_types: "written"
+        rubricpath: "_pages/Assignments/asmt-essay3.md"
       - dtitle: "Participation: The Machine Stops Writing Prompt Handed Out"
         dlink: "Participation/Forster"
         points: 10
@@ -540,6 +556,14 @@ schedule:
     deliverables:
       - dtitle: "Participation: Writing Fellow Reflection Due"
         dlink: "Participation/WritingFellowReflection"
+        points: 10
+        submission_types: "written"
+      - dtitle: "Participation: Class Participation and Discussion Due"
+        dlink: "Participation/PreparingForDiscussion"
+        points: 10
+        submission_types: "written"
+      - dtitle: "Participation: The Machine Question Due"
+        dlink: "Participation/MachineQuestion"
         points: 10
         submission_types: "written"
     readings:
@@ -683,7 +707,7 @@ A quiet day is not a penalty so much as an unearned half-point, and the goal is 
 | **Listening & building** | Talks past others or waits only to speak | Responds to the instructor but not to peers | Builds on classmates by name | Synthesizes across several voices and draws quieter classmates in |
 | **Intellectual risk** | Avoids taking positions | States safe or obvious positions | Takes a position and supports it | Ventures an unsettled idea, changes their mind in public, or argues a view they find hard |
 
-**Rotating discussion roles.** So that participation takes more than one form, we rotate four structured roles — **facilitator, evidence keeper, devil's advocate, and connector**. Each gives you a concrete job in the conversation and a different way to contribute; the [Discussion Roles](Participation/DiscussionRoles) page explains what each one does and how to prepare for it.
+**Rotating discussion roles.** So that participation takes more than one form, we rotate four structured roles — **facilitator, evidence keeper, devil's advocate, and connector**. Each gives you a concrete job in the conversation and a different way to contribute; the [Discussion Roles](Participation/PreparingForDiscussion#rotating-discussion-roles) page explains what each one does and how to prepare for it.
 
 #### Informal Writing (10%)
 
