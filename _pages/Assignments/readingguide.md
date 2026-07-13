@@ -62,11 +62,11 @@ Each move has a workshop mini-assignment where you practice it before drafting: 
 
 During pass two, harvest as you go: when a sentence stops you, copy it into your commonplace book with its page number and one line about why it stopped you. Do this while reading, not afterward — quotes harvested in the moment come with your reaction attached, and those reactions become writing-prompt responses, essay evidence, and entries in [The Machine Question](../Participation/participation-machinequestion.md) (/Participation/MachineQuestion), the semester-long strand of your commonplace book, with almost no extra work. Aim for three to five harvested quotes per assignment; more is fine.
 
-## Honest Time Budgets
+## Time Budgets
 
-Different genres read at radically different speeds, and pretending otherwise is how reading plans fail. These are honest estimates for a careful pass-two reading, per class assignment:
+Different genres read at radically different speeds, and pretending otherwise is how reading plans fail. These are estimates for a careful pass-two reading, per class assignment:
 
-| Text type | Our texts | Honest budget | Why |
+| Text type | Our texts | Budget | Why |
 |-----------|-----------|---------------|-----|
 | Poetry (fragments and lyric) | Sappho, Islamic mystic poetry | 1-1.5 hours for a few pages | Poems are short but dense; each one is read several times, and the white space is part of the text |
 | Epistle / letter | Adichie, Coates | 1.5-2.5 hours | Reads quickly but addresses *you*; the work is in pausing to answer back |
