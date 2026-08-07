@@ -166,7 +166,7 @@ letter_grades:
 schedule:
   - week: "0"
     date: "0"
-    title: "Plato, Allegory of the Cave: Shadows, Screens, and the Ascent"
+    title: "Plato, Allegory of the Cave: Close Reading Workshop (Shadows, Screens, and the Ascent)"
     deliverables:
       - dtitle: "Participation: Ice Breaker Reflection Due"
         dlink: "Participation/IceBreaker"
@@ -190,6 +190,8 @@ schedule:
       - rtitle: "Pre-semester reading: Plato, Allegory of the Cave (CIE Reader)"
         rlink: false
       - rtitle: "Plato, Allegory of the Cave (CIE Reader)"
+        rlink: false
+      - rtitle: "In class: close reading workshop — reading in passes, marking anchor passages, and annotating for discussion, using the Allegory of the Cave"
         rlink: false
       - rtitle: "Center for Writing and Speaking: Reading to Write"
         rlink: "https://www.ursinus.edu/live/files/4030-reading-to-write-ppt-001"
