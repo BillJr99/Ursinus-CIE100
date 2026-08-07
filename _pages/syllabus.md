@@ -604,6 +604,18 @@ university:
   - kname: "Finals Week Ends"
     kdate: "2026/12/16"
     kdisplay: false
+  - kname: "CIE Common Event: Read-a-thon (Reading as Resistance) - 11:30 AM to 12:30 PM on the opening day of classes; our section reads on the Library 3rd floor"
+    kdate: "2026/08/21"
+    kdisplay: false
+  - kname: "CIE Common Event: Sport and Humanity Hub - 1:30 to 2:30 PM (Wednesday common hours)"
+    kdate: "2026/09/23"
+    kdisplay: false
+  - kname: "CIE Common Event: Banned Books Panel - 1:30 to 2:30 PM in Bomberger Auditorium (Wednesday common hours)"
+    kdate: "2026/10/14"
+    kdisplay: false
+  - kname: "CIE Common Event: Rebecca Rutstein, Universal Nature at the Berman Museum of Art - class tour during the week of November 16 to 20, connecting to Deloria's God Is Red"
+    kdate: "2026/11/16"
+    kdisplay: false
   spring: []
   fallholidays:
   - date: "2026/09/07"
