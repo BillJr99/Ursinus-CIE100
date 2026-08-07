@@ -187,6 +187,8 @@ schedule:
     readings:
       - rtitle: "First Class Meeting: all CIE sections meet Friday, August 21 (community building and course introduction; location and time to be announced); the Ice Breaker Reflection and the Allegory of the Cave writing prompt are handed out there (the Allegory prompt is also distributed with the pre-semester reading assignment)"
         rlink: false
+      - rtitle: "CIE Common Event on Friday, August 21, 11:30 AM-12:30 PM (opening day of classes, before our regular Tuesday/Thursday meetings begin): the Read-a-thon, a college-wide sustained reading practice; our section reads together on the Library 3rd floor"
+        rlink: false
       - rtitle: "Pre-semester reading: Plato, Allegory of the Cave (CIE Reader)"
         rlink: false
       - rtitle: "Plato, Allegory of the Cave (CIE Reader)"
@@ -299,6 +301,8 @@ schedule:
     readings:
       - rtitle: "Continue discussing Islamic Mystic Poetry"
         rlink: false
+      - rtitle: "CIE Common Event this week: Sport and Humanity Hub, Wednesday, September 23, 1:30-2:30 PM (during Wednesday common hours)"
+        rlink: false
   - week: "4"
     date: "1"
     title: "Revision Workshop: From First Draft to Final Draft"
@@ -374,6 +378,8 @@ schedule:
         rubricpath: "_pages/Assignments/asmt-essay2.md"
     readings:
       - rtitle: "Continue discussing Between the World and Me, Part I"
+        rlink: false
+      - rtitle: "CIE Common Event: Banned Books Panel, Wednesday, October 14, 1:30-2:30 PM, Bomberger Auditorium (intellectual freedom and the fight against censorship, marking Banned Books Week)"
         rlink: false
   - week: "8"
     date: "0"
@@ -490,6 +496,8 @@ schedule:
     readings:
       - rtitle: "Deloria selections (CIE Reader)"
         rlink: false
+      - rtitle: "CIE Common Event this week (week of November 16-20) at the Berman Museum of Art: Rebecca Rutstein, Universal Nature (Center for Humanities in Action); CIE class tours connect the exhibition to Deloria's God Is Red"
+        rlink: "https://www.ursinus.edu/berman/exhibitions/"
       - rtitle: "Note: the last day to withdraw with a W grade is Tuesday, November 17, 2026"
         rlink: false
   - week: "12"
@@ -741,7 +749,14 @@ As the instructor of this course, I strive to provide an inclusive learning envi
 
 ### **Common Events**
 
-CIE Common Events are mandatory for all CIE students and faculty. Common events will be held during selected extended Wednesday afternoon Common hours, and specific details about each event will be sent to all CIE students and faculty prior to the event. Attendance at common events is part of the fourth credit hour of the course.
+CIE Common Events are mandatory for all CIE students and faculty, and attendance at them is part of the fourth credit hour of the course. Most events are held during the extended Wednesday afternoon Common hours (so they do not conflict with our Tuesday/Thursday meetings); the semester opens with an event on the first day of classes. Specific details about each event will be sent to all CIE students and faculty beforehand, and I will confirm times and locations as they are finalized. The Fall 2026 events are:
+
+| Event | Date and Time | Location |
+| --- | --- | --- |
+| **Read-a-thon** — a college-wide sustained reading practice to open the semester. Our section reads together on the Library 3rd floor. | Friday, August 21, 11:30 AM–12:30 PM (opening day, before regular classes begin) | Library, 3rd floor (our section) |
+| **Sport and Humanity Hub** | Wednesday, September 23, 1:30–2:30 PM | To be announced |
+| **Banned Books Panel** — a conversation on intellectual freedom and the fight against censorship, marking Banned Books Week. | Wednesday, October 14, 1:30–2:30 PM | Bomberger Auditorium |
+| **Rebecca Rutstein, *Universal Nature*** (Center for Humanities in Action) — a [Berman Museum](https://www.ursinus.edu/berman/exhibitions/) exhibition we tour as a class, connecting the work to Deloria's *God Is Red*. | Week of November 16–20 | The Berman Museum of Art |
 
 ### **Resources**
 
