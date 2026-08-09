@@ -19,43 +19,42 @@ info:
     - To engage substantively with the drafting and revision process
 
   rubric:
-    - weight: 25
-      description: Thesis Statement
-      preemerging: Lacks a clear thesis statement or the statement is irrelevant to the topic.
-      beginning: Thesis statement is present but lacks clarity or specificity.
-      progressing: Thesis statement is clear and specific but may lack depth or originality.
-      proficient: Thesis statement is clear, specific, original, and thought-provoking, guiding the reader's understanding of the essay's purpose.
     - weight: 20
-      description: Introduction and Conclusion
-      preemerging: Introduction lacks a hook or relevance to the topic, and conclusion does not summarize or provide closure.
-      beginning: Introduction and conclusion are present but lack connection to the thesis or main argument.
-      progressing: Introduction effectively introduces the topic, and conclusion summarizes the main points but may lack insight or reflection.
-      proficient: Introduction engages the reader with a strong hook and clear connection to the thesis, and conclusion provides insightful summary and reflection.
-    - weight: 25
-      description: Argument Development
-      preemerging: Arguments are underdeveloped or irrelevant, lacking evidence or logical reasoning.
-      beginning: Arguments are present but lack sufficient evidence or reasoning, making them weak or unconvincing.
-      progressing: Arguments are well-developed with some evidence and reasoning but may lack depth or complexity.
-      proficient: Arguments are thoroughly developed with strong evidence and logical reasoning, contributing to a persuasive and compelling essay.
+      description: "Thesis: A Claim Someone Could Reject"
+      preemerging: "No thesis, or a topic statement about Coates rather than an argument about him."
+      beginning: "A thesis is present but is one Coates himself states, or one no reader of the book would contest. The essay has nothing to defend."
+      progressing: "The thesis takes a position a serious reader could argue against, and is specific to particular passages rather than to the book in general."
+      proficient: "The thesis takes a position that a reader who has read the same book could genuinely hold otherwise, is sized to the essay, and engages the course's second core question - how should we live together - as a question rather than a slogan."
+    - weight: 20
+      description: "Counterargument and Concession"
+      preemerging: "No counterargument. The essay proceeds as though no reasonable person disagrees."
+      beginning: "A counterargument is mentioned and then dismissed, or built deliberately weak so it can be knocked down. The reader can see the opposing view has not been taken seriously."
+      progressing: "A real counterargument is stated in terms its holder would accept, and answered rather than waved away. The essay may concede too little, or concede so much that its own claim weakens."
+      proficient: "The essay steelmans the strongest objection - stating it well enough that someone who holds it would say yes, that is what I think - and then either answers it or concedes precisely what must be conceded and shows why the thesis survives anyway. The concession makes the argument stronger, not more apologetic."
+    - weight: 20
+      description: "Evidence That Survives the Objection"
+      preemerging: "Little or no textual evidence, or quotations that do not bear on the claim they follow."
+      beginning: "Evidence is present but selected only from passages that agree with you. Passages that complicate the claim are absent from the essay."
+      progressing: "Evidence is well chosen and analyzed, and the essay engages at least one passage that resists its own reading. The warrant is usually explicit."
+      proficient: "The essay chooses evidence that would still count for a skeptical reader, engages the passages that cut against it rather than avoiding them, and states in each case why the passage supports the claim. Quotation length is disciplined and the analysis does work the quotation cannot do alone."
     - weight: 10
-      description: Paper Organization
-      preemerging: Paper lacks clear organization, making it difficult to follow the flow of ideas.
-      beginning: Paper has some organization but lacks clear transitions or logical flow between paragraphs.
-      progressing: Paper is mostly well-organized with clear transitions but may have minor inconsistencies in flow.
-      proficient: Paper is excellently organized with clear transitions and logical flow, enhancing the reader's understanding and engagement.
+      description: "Structure and Movement"
+      preemerging: "Paragraphs appear in no discernible order; the counterargument, if present, is bolted on at the end."
+      beginning: "There is an order, but the reader reconstructs it. The counterargument sits in its own paragraph with no connection to what surrounds it."
+      progressing: "Each paragraph does one job, transitions connect rather than announce, and the counterargument is placed where it does the most work."
+      proficient: "The order of the paragraphs is itself an argument, the objection arrives at the point where the reader is most likely to raise it, and the conclusion says something the introduction could not have said."
     - weight: 10
-      description: Use of References and Proper Citations
-      preemerging: Lacks references or citations, or they are improperly formatted.
-      beginning: Includes some references and citations but with inconsistencies or errors in formatting.
-      progressing: Includes appropriate references and citations with minor errors or inconsistencies in formatting.
-      proficient: Includes appropriate references and citations, all properly formatted according to the relevant citation style.
-    - weight: 10
-      description: Synthesis of Materials into a Cohesive Argument
-      preemerging: Lacks synthesis of materials, resulting in a disjointed or fragmented argument.
-      beginning: Some synthesis of materials is present but lacks cohesion or connection to the main argument.
-      progressing: Materials are mostly synthesized into a cohesive argument but may lack depth or complexity.
-      proficient: Materials are expertly synthesized into a cohesive and complex argument, enhancing the overall quality and persuasiveness of the essay.
-
+      description: "MLA Citation and Quotation Mechanics"
+      preemerging: "Citations are absent, or quoted material is not marked as quoted."
+      beginning: "Citations are present but inconsistent in format, or page references are missing."
+      progressing: "MLA in-text citations and Works Cited are correct with minor slips; quotations are integrated grammatically."
+      proficient: "MLA format is correct throughout, quotations are integrated so the sentence reads naturally, and alterations and ellipses are marked honestly."
+    - weight: 20
+      description: "Revision (Substantive Change Between Drafts)"
+      preemerging: "The final draft is the first draft with typos corrected. No revision memo, or a memo describing edits rather than changes."
+      beginning: "Sentence-level changes only. The argument, evidence, and structure are unchanged, and Writing Fellow feedback is acknowledged but not acted on."
+      progressing: "The final draft changes something that matters and the memo explains what and why; at least one change responds to the Writing Fellow conference."
+      proficient: "The revision reconsiders the essay rather than repairing it - most often by strengthening the objection until it forced a change in the claim. The memo names the specific feedback and the specific change, and can say what the essay now argues that the draft could not."
   readings:
     - rlink: "https://www.ursinus.edu/offices/center-for-writing-and-speaking/resources-for-students-/"
       rtitle: "Writing Resources for Students"
