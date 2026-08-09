@@ -78,7 +78,7 @@ Choose **one** of the following options. Whichever option you choose, your essay
 
 ## Scaffolded Deliverables
 
-This essay is developed in two stages, and the stages together constitute the 100 points of this assignment. The complete first draft is worth 40 points; the revised final draft is worth 60 points. You will meet with our Writing Fellow between the first and final drafts, and your final draft should respond substantively to the feedback you receive; cosmetic edits do not constitute revision.
+This essay is developed in two stages, and the stages together constitute the 100 points of this assignment. The complete first draft is worth 40 points; the revised final draft is worth 60 points. **No Writing Fellow conference is required for this essay.** You are welcome to book one and it will help, but unlike Essays 1 and 2 it is not part of this essay's grade. Your final draft should still respond substantively to your own rereading and to the Forster discussion; cosmetic edits do not constitute revision.
 
 Unlike Essays 1 and 2, this essay has **no separate outline deliverable**. You go from the assignment sheet straight to a full draft, with nineteen days to write it, because by this point in the semester you have done the thesis-and-outline work twice and the harder problem here is synthesis across texts rather than getting started. The Thesis Workshop on the day the assignment is handed out and the Evidence Workshop the following week are where you do that thinking; neither is submitted as part of this essay's grade.
 

@@ -19,7 +19,7 @@ info:
     - To explore the question of what genuine education and unlearning require
 
   rubric:
-    - weight: 25
+    - weight: 20
       description: "Thesis: An Arguable Claim About the Text"
       preemerging: "No thesis, or a statement of topic ('This essay is about Plato's cave') rather than a claim. A reader cannot tell what you are arguing."
       beginning: "A thesis is present but it is something no one would dispute - a summary of what the text says, or an observation the text itself states outright. There is nothing at stake."
@@ -31,7 +31,7 @@ info:
       beginning: "Quotations appear but are chosen for topic rather than for language. They restate the point already made in your own words instead of giving the reader something to look at."
       progressing: "Quotations are well chosen and introduced, and most are followed by comment. Some passages are quoted at greater length than the point requires, or the comment paraphrases rather than analyzes."
       proficient: "Every quotation is an anchor passage in the sense we practiced in the close reading workshop: chosen because its particular words matter, quoted only as far as it needs to be, framed so the reader knows where they are in the text, and followed by commentary that does work the quotation cannot do alone. The essay reads as though the passages were selected in a second pass, not found in the first."
-    - weight: 20
+    - weight: 15
       description: "From Observation to Interpretation"
       preemerging: "The essay reports what happens in the text. Observations are listed without being connected to any claim."
       beginning: "Some interpretation appears, but the essay returns repeatedly to summary, and the reader is left to supply the connection between the evidence and the claim."
@@ -49,6 +49,12 @@ info:
       beginning: "Citations are present but inconsistent in format, or page and line references are missing."
       progressing: "MLA in-text citations and Works Cited are correct with minor slips; quotations are integrated grammatically into your sentences."
       proficient: "MLA format is correct throughout, quotations are integrated so the sentence reads naturally with the quoted words in it, and alterations and ellipses are marked honestly."
+    - weight: 10
+      description: "Writing Fellow Conference and Response (all or nothing)"
+      preemerging: "No conference took place. 0 of 10 points - this row carries no partial credit."
+      beginning: "No conference took place, or one was scheduled and missed. 0 of 10 points."
+      progressing: "The conference took place but the final draft does not respond to what was said in it. 0 of 10 points - attending is necessary but not sufficient."
+      proficient: "You met in person with our Writing Fellow between the first and final drafts, and the final draft visibly responds to that conversation - a change you can point to and name in your revision memo. Full 10 points."
     - weight: 15
       description: "Revision (Substantive Change Between Drafts)"
       preemerging: "The final draft is the first draft with typos corrected. No revision memo, or a memo that describes edits rather than changes."
@@ -78,7 +84,7 @@ Choose **one** of the following options. Whichever option you choose, your essay
 
 ## Scaffolded Deliverables
 
-This essay is developed in three stages, and the stages together constitute the 100 points of this assignment. The thesis statement, quote list, and rough outline are worth 10 points; the complete first draft is worth 30 points; and the revised final draft is worth 60 points. You will meet with our Writing Fellow between the first and final drafts, and your final draft should respond substantively to the feedback you receive; cosmetic edits do not constitute revision.
+This essay is developed in three stages, and the stages together constitute the 100 points of this assignment. The thesis statement, quote list, and rough outline are worth 10 points; the complete first draft is worth 30 points; and the revised final draft is worth 60 points. You must meet **in person** with our Writing Fellow between the first and final drafts, and your final draft must respond substantively to that conversation; cosmetic edits do not constitute revision. This is worth **10 of the 100 points, all or nothing**: meeting without revising earns zero on that row, and so does revising without meeting. Name the change the conference produced in your revision memo so the credit is easy to see. Book early - the whole section shares one Writing Fellow.
 
 1. **Thesis Statement, Quote List, and Rough Outline.** A one to two sentence working thesis, a list of four to six quotations (with page numbers) that you expect to use as evidence, and a paragraph-level outline.
 2. **First Draft.** A complete draft of the full 1200 to 1500 words, not a partial sketch. The more complete the draft, the more useful the Writing Fellow conference will be.

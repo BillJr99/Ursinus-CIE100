@@ -19,7 +19,7 @@ info:
     - To engage substantively with the drafting and revision process
 
   rubric:
-    - weight: 20
+    - weight: 15
       description: "Thesis: A Claim Someone Could Reject"
       preemerging: "No thesis, or a topic statement about Coates rather than an argument about him."
       beginning: "A thesis is present but is one Coates himself states, or one no reader of the book would contest. The essay has nothing to defend."
@@ -31,7 +31,7 @@ info:
       beginning: "A counterargument is mentioned and then dismissed, or built deliberately weak so it can be knocked down. The reader can see the opposing view has not been taken seriously."
       progressing: "A real counterargument is stated in terms its holder would accept, and answered rather than waved away. The essay may concede too little, or concede so much that its own claim weakens."
       proficient: "The essay steelmans the strongest objection - stating it well enough that someone who holds it would say yes, that is what I think - and then either answers it or concedes precisely what must be conceded and shows why the thesis survives anyway. The concession makes the argument stronger, not more apologetic."
-    - weight: 20
+    - weight: 15
       description: "Evidence That Survives the Objection"
       preemerging: "Little or no textual evidence, or quotations that do not bear on the claim they follow."
       beginning: "Evidence is present but selected only from passages that agree with you. Passages that complicate the claim are absent from the essay."
@@ -49,6 +49,12 @@ info:
       beginning: "Citations are present but inconsistent in format, or page references are missing."
       progressing: "MLA in-text citations and Works Cited are correct with minor slips; quotations are integrated grammatically."
       proficient: "MLA format is correct throughout, quotations are integrated so the sentence reads naturally, and alterations and ellipses are marked honestly."
+    - weight: 10
+      description: "Writing Fellow Conference and Response (all or nothing)"
+      preemerging: "No conference took place. 0 of 10 points - this row carries no partial credit."
+      beginning: "No conference took place, or one was scheduled and missed. 0 of 10 points."
+      progressing: "The conference took place but the final draft does not respond to what was said in it. 0 of 10 points - attending is necessary but not sufficient."
+      proficient: "You met in person with our Writing Fellow between the first and final drafts, and the final draft visibly responds to that conversation - a change you can point to and name in your revision memo. Full 10 points."
     - weight: 20
       description: "Revision (Substantive Change Between Drafts)"
       preemerging: "The final draft is the first draft with typos corrected. No revision memo, or a memo describing edits rather than changes."
@@ -78,7 +84,7 @@ Choose **one** of the following options. Whichever option you choose, your essay
 
 ## Scaffolded Deliverables
 
-This essay is developed in three stages, and the stages together constitute the 100 points of this assignment. The thesis statement, quote list, and rough outline are worth 10 points; the complete first draft is worth 30 points; and the revised final draft is worth 60 points. You will meet with our Writing Fellow between the first and final drafts, and your final draft should respond substantively to the feedback you receive; cosmetic edits do not constitute revision.
+This essay is developed in three stages, and the stages together constitute the 100 points of this assignment. The thesis statement, quote list, and rough outline are worth 10 points; the complete first draft is worth 30 points; and the revised final draft is worth 60 points. You must meet **in person** with our Writing Fellow between the first and final drafts, and your final draft must respond substantively to that conversation; cosmetic edits do not constitute revision. This is worth **10 of the 100 points, all or nothing**: meeting without revising earns zero on that row, and so does revising without meeting. Name the change the conference produced in your revision memo so the credit is easy to see. Book early - the whole section shares one Writing Fellow.
 
 1. **Thesis Statement, Quote List, and Rough Outline.** A one to two sentence working thesis, a list of four to six quotations (with page numbers) drawn from at least two texts, and a paragraph-level outline.
 2. **First Draft.** A complete draft of the full 1200 to 1500 words, not a partial sketch.

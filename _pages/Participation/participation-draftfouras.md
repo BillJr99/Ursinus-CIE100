@@ -22,7 +22,7 @@ tags:
 
 ## Purpose
 
-After each Writing Fellow conference, you will complete this short reflection before you begin revising. Its premise is simple: your first draft is now a text — one you can read the way this course reads everything else. The reflection applies the Four A's protocol (adapted from Gray, J., "Four 'A's Text Protocol," National School Reform Faculty (NSRF), [https://www.nsrfharmony.org/wp-content/uploads/2017/10/FourAsTextProtocol-N.pdf](https://www.nsrfharmony.org/wp-content/uploads/2017/10/FourAsTextProtocol-N.pdf)) to your own draft, so that the conference's momentum becomes a revision plan while it is still warm. This is a standalone reflective exercise: it prepares you for the revision you were already going to do, and it changes nothing about the essay assignment itself.
+After each Writing Fellow conference - so, after the Essay 1 and Essay 2 conferences, the two that are required - you will complete this short reflection before you begin revising. Its premise is simple: your first draft is now a text — one you can read the way this course reads everything else. The reflection applies the Four A's protocol (adapted from Gray, J., "Four 'A's Text Protocol," National School Reform Faculty (NSRF), [https://www.nsrfharmony.org/wp-content/uploads/2017/10/FourAsTextProtocol-N.pdf](https://www.nsrfharmony.org/wp-content/uploads/2017/10/FourAsTextProtocol-N.pdf)) to your own draft, so that the conference's momentum becomes a revision plan while it is still warm. This is a standalone reflective exercise: it prepares you for the revision you were already going to do, and it changes nothing about the essay assignment itself.
 
 ## Task
 

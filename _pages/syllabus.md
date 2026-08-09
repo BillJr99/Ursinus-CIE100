@@ -342,7 +342,7 @@ schedule:
         points: 10
         submission_types: "written"
     readings:
-      - rtitle: "Bring your Essay 1 draft and Writing Fellow feedback to class"
+      - rtitle: "Bring your Essay 1 draft and your Writing Fellow conference notes to class"
         rlink: false
       - rtitle: "Center for Writing and Speaking: Resources for Students"
         rlink: "https://www.ursinus.edu/offices/center-for-writing-and-speaking/resources-for-students-/"
@@ -365,11 +365,6 @@ schedule:
         dlink: "Participation/Coates"
         points: 10
         submission_types: "written"
-      - dtitle: "Writing: Essay 1 Final Draft Due"
-        dlink: "Assignments/Essay1"
-        points: 60
-        rubricpath: "_pages/Assignments/asmt-essay1.md"
-        submission_types: "written"
     readings:
       - rtitle: "Continue discussing Euthyphro"
         rlink: false
@@ -380,6 +375,11 @@ schedule:
       - dtitle: "Participation: Between the World and Me Writing Prompt Due"
         dlink: "Participation/Coates"
         points: 10
+        submission_types: "written"
+      - dtitle: "Writing: Essay 1 Final Draft Due"
+        dlink: "Assignments/Essay1"
+        points: 60
+        rubricpath: "_pages/Assignments/asmt-essay1.md"
         submission_types: "written"
     readings:
       - rtitle: "Coates, Between the World and Me, pp. 1-71 (Part I)"
@@ -500,33 +500,19 @@ schedule:
         dlink: "Participation/McPhee"
         points: 10
         submission_types: "written"
-      - dtitle: "Writing: Essay 2 Final Draft Due"
-        dlink: "Assignments/Essay2"
-        points: 60
-        rubricpath: "_pages/Assignments/asmt-essay2.md"
-        submission_types: "written"
     readings:
       - rtitle: "McPhee selections (CIE Reader)"
         rlink: false
   - week: "11"
     date: "1"
-    title: "McPhee, Continued, and Essay 3 Brainstorming Workshop"
+    title: "McPhee, Continued: Engineering Against the River"
     deliverables:
-      - dtitle: "Writing: Essay 3 Handed Out"
-        dlink: "Assignments/Essay3"
-        points: 100
-        submission_types: "written"
-        rubricpath: "_pages/Assignments/asmt-essay3.md"
       - dtitle: "Participation: Deloria Writing Prompt Handed Out"
         dlink: "Participation/Deloria"
         points: 10
         submission_types: "written"
-      - dtitle: "Participation: Thesis Workshop Due"
-        dlink: "Participation/ThesisWorkshop"
-        points: 10
-        submission_types: "written"
     readings:
-      - rtitle: "Continue discussing McPhee; Essay 3 assignment sheet and brainstorming workshop"
+      - rtitle: "Continue discussing McPhee"
         rlink: false
   - week: "12"
     date: "0"
@@ -535,6 +521,11 @@ schedule:
       - dtitle: "Participation: Deloria Writing Prompt Due"
         dlink: "Participation/Deloria"
         points: 10
+        submission_types: "written"
+      - dtitle: "Writing: Essay 2 Final Draft Due"
+        dlink: "Assignments/Essay2"
+        points: 60
+        rubricpath: "_pages/Assignments/asmt-essay2.md"
         submission_types: "written"
     readings:
       - rtitle: "Deloria selections (CIE Reader)"
@@ -545,18 +536,23 @@ schedule:
         rlink: false
   - week: "12"
     date: "1"
-    title: "Deloria, Continued: Land, Time, and Acknowledgment"
+    title: "Deloria, Continued, and Essay 3 Brainstorming Workshop"
     deliverables:
       - dtitle: "Participation: McLuhan Writing Prompt Handed Out"
         dlink: "Participation/McLuhan"
         points: 10
         submission_types: "written"
-      - dtitle: "Participation: Evidence Workshop Due"
-        dlink: "Participation/EvidenceWorkshop"
+      - dtitle: "Writing: Essay 3 Handed Out"
+        dlink: "Assignments/Essay3"
+        points: 100
+        submission_types: "written"
+        rubricpath: "_pages/Assignments/asmt-essay3.md"
+      - dtitle: "Participation: Thesis Workshop Due"
+        dlink: "Participation/ThesisWorkshop"
         points: 10
         submission_types: "written"
     readings:
-      - rtitle: "Continue discussing Deloria"
+      - rtitle: "Continue discussing Deloria; Essay 3 assignment sheet and in-class brainstorming workshop"
         rlink: false
       - rtitle: "Read ahead for the Essay 3 first draft: McLuhan selections (CIE Reader) and Forster, The Machine Stops (CIE Reader). We discuss McLuhan on 11/24 and 12/1 and Forster on 12/3 and 12/8, but every text named in the Essay 3 prompt must be read before your first draft is due on 12/1."
         rlink: false
@@ -566,6 +562,10 @@ schedule:
     deliverables:
       - dtitle: "Participation: McLuhan Writing Prompt Due"
         dlink: "Participation/McLuhan"
+        points: 10
+        submission_types: "written"
+      - dtitle: "Participation: Evidence Workshop Due"
+        dlink: "Participation/EvidenceWorkshop"
         points: 10
         submission_types: "written"
     readings:
@@ -599,10 +599,6 @@ schedule:
         submission_types: "written"
       - dtitle: "Participation: Writing Fellow Reflection Handed Out"
         dlink: "Participation/WritingFellowReflection"
-        points: 10
-        submission_types: "written"
-      - dtitle: "Participation: Draft Four A's Due"
-        dlink: "Participation/DraftFourAs"
         points: 10
         submission_types: "written"
     readings:
@@ -726,7 +722,7 @@ Our conversation this semester moves from the ancient world to the doorstep of o
 
 ### **Writing Fellow**
 
-Our section is fortunate to be paired with Writing Fellow Vienna Gurev ([vigurev@ursinus.edu](mailto:vigurev@ursinus.edu)), a trained peer writing tutor who will work with you across the drafting and revision process for each essay. You will meet with our Writing Fellow between the first and final drafts of each paper; these conversations are an integral part of the revision process that the course is designed around, and the end-of-semester Writing Fellow Reflection invites you to take stock of how your revision practice has grown.
+Our section is fortunate to be paired with Writing Fellow Vienna Gurev ([vigurev@ursinus.edu](mailto:vigurev@ursinus.edu)), a trained peer writing tutor who will work with you across the drafting and revision process. **For Essays 1 and 2 the conference is required and graded**: you must meet with her in person between the first and final drafts, and 10 of that essay's 100 points are awarded all-or-nothing for having met **and** for a final draft that visibly responds to the conversation. Attending without revising earns nothing on that row, and neither does revising without attending. Sign up early - Vienna sees the whole section in each window, and the windows are 19 days for Essay 1 and 21 days for Essay 2. **Essay 3 has no required conference**; you are welcome to book one, but it is not part of that essay's grade. The end-of-semester Writing Fellow Reflection invites you to take stock of how your revision practice has grown.
 
 ### **Attendance and Class Engagement**
 
@@ -738,7 +734,7 @@ Beyond four absences, each **unexcused** absence subtracts **10 of the 30 points
 
 #### Papers (60%)
 
-Three formal essays anchor the semester, each developed through a scaffolded process built around revision. Papers 1 and 2 run through three stages: a thesis statement, quote list, and rough outline; a complete first draft reviewed by our Writing Fellow; and a substantially revised final draft. Within each of those papers' 20% of the course grade, the scaffold deliverable counts 10%, the first draft 30%, and the final draft 60%. Paper 3 has no separate outline stage - you go from the assignment sheet straight to a full first draft, with twelve days to write it - so its 20% divides as 40% first draft and 60% final draft. In every case the revision carries the majority of the weight, because the revision is where the learning is. Papers 1 and 2 run 1200 to 1500 words, and Paper 3 runs 1500 to 1800 words. All assignments must be submitted through Canvas by 10:59 PM Eastern Time on the due date, subject to the flexible submission policy stated above.
+Three formal essays anchor the semester, each developed through a scaffolded process built around revision. Papers 1 and 2 run through three stages: a thesis statement, quote list, and rough outline; a complete first draft reviewed by our Writing Fellow; and a substantially revised final draft. Within each of those papers' 20% of the course grade, the scaffold deliverable counts 10%, the first draft 30%, and the final draft 60%. Paper 3 has no separate outline stage - you go from the assignment sheet straight to a full first draft, with twelve days to write it - so its 20% divides as 40% first draft and 60% final draft. Within the final-draft rubrics for Papers 1 and 2, 10 points are reserved for the required Writing Fellow conference and your response to it; Paper 3 has no such requirement and no such points. In every case the revision carries the majority of the weight, because the revision is where the learning is. Papers 1 and 2 run 1200 to 1500 words, and Paper 3 runs 1500 to 1800 words. All assignments must be submitted through Canvas by 10:59 PM Eastern Time on the due date, subject to the flexible submission policy stated above.
 
 #### Schedule of Essay Due Dates
 
@@ -749,13 +745,13 @@ The scaffolded deliverables and drafts for each essay fall on the dates below (a
 | Essay 1 assignment sheet handed out | Thursday, September 3 |
 | Essay 1 thesis statement, quote list, and rough outline | Thursday, September 10 |
 | Essay 1 first draft (for Writing Fellow review) | Thursday, September 17 |
-| Essay 1 final draft | Thursday, October 1 |
+| Essay 1 final draft | Tuesday, October 6 |
 | Essay 2 assignment sheet handed out | Thursday, October 15 |
 | Essay 2 thesis statement, quote list, and rough outline | Tuesday, October 20 |
 | Essay 2 first draft (for Writing Fellow review) | Tuesday, October 27 |
-| Essay 2 final draft | Tuesday, November 10 |
-| Essay 3 assignment sheet handed out | Thursday, November 12 |
-| Essay 3 first draft (for Writing Fellow review) | Tuesday, December 1 |
+| Essay 2 final draft | Tuesday, November 17 |
+| Essay 3 assignment sheet handed out | Thursday, November 19 |
+| Essay 3 first draft (no conference required) | Tuesday, December 1 |
 | Essay 3 final draft | Tuesday, December 8 (our last class meeting) |
 
 #### In-Class Participation (30%) {#participation}
