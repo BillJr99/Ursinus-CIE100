@@ -20,9 +20,9 @@ tags:
 
 In this writing prompt, you will consider the questions below and respond by writing a letter addressed to the author, equivalent in length to a 1-2 paragraph response. In the letter, respond to the reading in your own voice, quoting the text at least once in support of what you say, and raise one respectful counterargument, supported by a quote, that the author would have to answer. Submit your letter through Canvas before the start of class.
 
-UDL choice: this genre is the default for this reading, but you may swap in any of the five response genres (analytic, letter, dialogue, marginalia+aphorism, or the [Four A's](../Participation/participation-fouras.md)) as long as the quote and counterargument requirements are met.
+UDL choice: this genre is the default for this reading, but you may swap in any of the five response genres (analytic, letter, dialogue, marginalia+aphorism, or the [Four A's](https://www.billmongan.com/Ursinus-CIE100-Fall2026/Participation/FourAs)) as long as the quote and counterargument requirements are met.
 
-Struggling with the reading itself? See the guide: [How to Read Hard Texts in CIE](../Assignments/readingguide.md).
+Struggling with the reading itself? See the guide: [How to Read Hard Texts in CIE](https://www.billmongan.com/Ursinus-CIE100-Fall2026/Participation/ReadingHardTexts).
 
 ## Writing Prompt
 

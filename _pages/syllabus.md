@@ -168,11 +168,11 @@ schedule:
     date: "0"
     title: "Plato, Allegory of the Cave: Close Reading Workshop (Shadows, Screens, and the Ascent)"
     deliverables:
-      - dtitle: "Participation: Ice Breaker Reflection Due"
+      - dtitle: "Participation: Ice Breaker Reflection Handed Out"
         dlink: "Participation/IceBreaker"
         points: 10
         submission_types: "written"
-      - dtitle: "Participation: Allegory of the Cave Writing Prompt Due"
+      - dtitle: "Participation: Allegory of the Cave Writing Prompt Handed Out"
         dlink: "Participation/Allegory"
         points: 10
         submission_types: "written"
@@ -185,9 +185,9 @@ schedule:
         points: 10
         submission_types: "written"
     readings:
-      - rtitle: "First Class Meeting: all CIE sections meet Friday, August 21 (community building and course introduction; location and time to be announced); the Ice Breaker Reflection and the Allegory of the Cave writing prompt are handed out there (the Allegory prompt is also distributed with the pre-semester reading assignment)"
+      - rtitle: "All-CIE Opening Meeting: every CIE section gathers Friday, August 21, before the semester's regular class meetings begin (community building and course introduction; location and time to be announced); the Ice Breaker Reflection and the Allegory of the Cave writing prompt are handed out there (the Allegory prompt is also distributed with the pre-semester reading assignment)"
         rlink: false
-      - rtitle: "CIE Common Event on Friday, August 21, 11:30 AM-12:30 PM (opening day of classes, before our regular Tuesday/Thursday meetings begin): the Read-a-thon, a college-wide sustained reading practice; our section reads together on the Library 3rd floor"
+      - rtitle: "CIE Common Event on Friday, August 21, 11:30 AM-12:30 PM (all-CIE opening event, held the weekend before classes begin on Monday, August 24, and before our regular Tuesday/Thursday meetings start on August 25): the Read-a-thon, a college-wide sustained reading practice; our section reads together on the Library 3rd floor"
         rlink: false
       - rtitle: "Pre-semester reading: Plato, Allegory of the Cave (CIE Reader)"
         rlink: false
@@ -205,9 +205,19 @@ schedule:
         dlink: "Participation/Adichie"
         points: 10
         submission_types: "written"
+      - dtitle: "Participation: Ice Breaker Reflection Due"
+        dlink: "Participation/IceBreaker"
+        points: 10
+        submission_types: "written"
+      - dtitle: "Participation: Allegory of the Cave Writing Prompt Due"
+        dlink: "Participation/Allegory"
+        points: 10
+        submission_types: "written"
     readings:
       - rtitle: "Adichie, Dear Ijeawele, pp. 1-36 (first seven suggestions)"
         rlink: false
+      - rtitle: "Reading response genres: the Four A's (an alternative format you may use for any writing prompt this semester)"
+        rlink: "https://www.billmongan.com/Ursinus-CIE100-Fall2026/Participation/FourAs"
   - week: "1"
     date: "0"
     title: "Adichie, Dear Ijeawele: Suggestions Eight Through Fifteen"
@@ -216,9 +226,15 @@ schedule:
         dlink: "Participation/Adichie"
         points: 10
         submission_types: "written"
+      - dtitle: "Participation: Thesis Workshop Handed Out"
+        dlink: "Participation/ThesisWorkshop"
+        points: 10
+        submission_types: "written"
     readings:
       - rtitle: "Adichie, Dear Ijeawele, pp. 36-end (suggestions 8-15)"
         rlink: false
+      - rtitle: "Rotating Discussion Roles: the four seminar roles and how to prepare for each"
+        rlink: "https://www.billmongan.com/Ursinus-CIE100-Fall2026/Participation/DiscussionRoles"
   - week: "1"
     date: "1"
     title: "Essay 1 Workshop: Brainstorming, Sample Essays, and Thesis Construction"
@@ -228,6 +244,10 @@ schedule:
         points: 100
         submission_types: "written"
         rubricpath: "_pages/Assignments/asmt-essay1.md"
+      - dtitle: "Participation: Thesis Workshop Due"
+        dlink: "Participation/ThesisWorkshop"
+        points: 10
+        submission_types: "written"
     readings:
       - rtitle: "Essay 1 Assignment Sheet and Sample Student Essays"
         rlink: false
@@ -237,15 +257,6 @@ schedule:
     date: "0"
     title: "Katie Merz, Live the Questions (The Smokestack): Analyzing Visual Materials"
     deliverables:
-      - dtitle: "Writing: Essay 1 Thesis Statement, Quote List, and Rough Outline Due"
-        dlink: "Assignments/Essay1"
-        points: 100
-        submission_types: "written"
-        rubricpath: "_pages/Assignments/asmt-essay1.md"
-      - dtitle: "Participation: Thesis Workshop Due"
-        dlink: "Participation/ThesisWorkshop"
-        points: 10
-        submission_types: "written"
       - dtitle: "Participation: Sappho Writing Prompt Handed Out"
         dlink: "Participation/Sappho"
         points: 10
@@ -253,6 +264,8 @@ schedule:
     readings:
       - rtitle: "Katie Merz, Live the Questions (Smokestack); class visits the installation"
         rlink: "https://www.ursinus.edu/live/profiles/5345-katie-merz-live-the-questions/_ingredients/templates/berman-2018/exhibition"
+      - rtitle: "Before Sappho: How to Read Hard Texts in CIE - the three-pass strategy and what to do when a reading defeats you"
+        rlink: "https://www.billmongan.com/Ursinus-CIE100-Fall2026/Participation/ReadingHardTexts"
   - week: "2"
     date: "1"
     title: "Sappho: Fragments, Longing, and the Survival of Texts"
@@ -261,6 +274,15 @@ schedule:
         dlink: "Participation/Sappho"
         points: 10
         submission_types: "written"
+      - dtitle: "Participation: Evidence Workshop Handed Out"
+        dlink: "Participation/EvidenceWorkshop"
+        points: 10
+        submission_types: "written"
+      - dtitle: "Writing: Essay 1 Thesis Statement, Quote List, and Rough Outline Due"
+        dlink: "Assignments/Essay1"
+        points: 10
+        rubricpath: "_pages/Assignments/asmt-essay1.md"
+        submission_types: "written"
     readings:
       - rtitle: "Sappho, poems 1-2, 4-5, 8-9, 12-15, 17, 20-21, 37-84, 87-88, 97-100 (Barnard translation)"
         rlink: false
@@ -268,11 +290,6 @@ schedule:
     date: "0"
     title: "Sappho, Continued: Reconstruction and Interpretation"
     deliverables:
-      - dtitle: "Writing: Essay 1 First Draft Due"
-        dlink: "Assignments/Essay1"
-        points: 100
-        submission_types: "written"
-        rubricpath: "_pages/Assignments/asmt-essay1.md"
       - dtitle: "Participation: Evidence Workshop Due"
         dlink: "Participation/EvidenceWorkshop"
         points: 10
@@ -291,6 +308,15 @@ schedule:
       - dtitle: "Participation: Islamic Mystic Poetry Writing Prompt Due"
         dlink: "Participation/IslamicMysticPoetry"
         points: 10
+        submission_types: "written"
+      - dtitle: "Participation: Draft Four A's Handed Out"
+        dlink: "Participation/DraftFourAs"
+        points: 10
+        submission_types: "written"
+      - dtitle: "Writing: Essay 1 First Draft Due"
+        dlink: "Assignments/Essay1"
+        points: 30
+        rubricpath: "_pages/Assignments/asmt-essay1.md"
         submission_types: "written"
     readings:
       - rtitle: "Islamic Mystic Poetry (CIE Reader)"
@@ -316,7 +342,7 @@ schedule:
         points: 10
         submission_types: "written"
     readings:
-      - rtitle: "Bring your Essay 1 draft and Writing Fellow feedback to class"
+      - rtitle: "Bring your Essay 1 draft and your Writing Fellow conference notes to class"
         rlink: false
       - rtitle: "Center for Writing and Speaking: Resources for Students"
         rlink: "https://www.ursinus.edu/offices/center-for-writing-and-speaking/resources-for-students-/"
@@ -324,11 +350,6 @@ schedule:
     date: "0"
     title: "Plato, Euthyphro: What Is Piety?"
     deliverables:
-      - dtitle: "Writing: Essay 1 Final Draft Due"
-        dlink: "Assignments/Essay1"
-        points: 100
-        submission_types: "written"
-        rubricpath: "_pages/Assignments/asmt-essay1.md"
       - dtitle: "Participation: Euthyphro Writing Prompt Due"
         dlink: "Participation/Euthyphro"
         points: 10
@@ -351,14 +372,14 @@ schedule:
     date: "0"
     title: "Coates, Between the World and Me, Part I: The Body and the Dream"
     deliverables:
-      - dtitle: "Writing: Essay 2 Handed Out"
-        dlink: "Assignments/Essay2"
-        points: 100
-        submission_types: "written"
-        rubricpath: "_pages/Assignments/asmt-essay2.md"
       - dtitle: "Participation: Between the World and Me Writing Prompt Due"
         dlink: "Participation/Coates"
         points: 10
+        submission_types: "written"
+      - dtitle: "Writing: Essay 1 Final Draft Due"
+        dlink: "Assignments/Essay1"
+        points: 60
+        rubricpath: "_pages/Assignments/asmt-essay1.md"
         submission_types: "written"
     readings:
       - rtitle: "Coates, Between the World and Me, pp. 1-71 (Part I)"
@@ -371,11 +392,15 @@ schedule:
     date: "1"
     title: "Coates, Continued: Letters, Fear, and Love"
     deliverables:
-      - dtitle: "Writing: Essay 2 Thesis Statement, Quote List, and Rough Outline Due"
+      - dtitle: "Writing: Essay 2 Handed Out"
         dlink: "Assignments/Essay2"
         points: 100
-        submission_types: "written"
         rubricpath: "_pages/Assignments/asmt-essay2.md"
+        submission_types: "written"
+      - dtitle: "Participation: Thesis Workshop Due"
+        dlink: "Participation/ThesisWorkshop"
+        points: 10
+        submission_types: "written"
     readings:
       - rtitle: "Continue discussing Between the World and Me, Part I"
         rlink: false
@@ -384,6 +409,16 @@ schedule:
   - week: "8"
     date: "0"
     title: "Coates, Between the World and Me, Part II: The Mecca"
+    deliverables:
+      - dtitle: "Participation: Counterargument and Concession Workshop Handed Out"
+        dlink: "Participation/Counterargument"
+        points: 10
+        submission_types: "written"
+      - dtitle: "Writing: Essay 2 Thesis Statement, Quote List, and Rough Outline Due"
+        dlink: "Assignments/Essay2"
+        points: 10
+        rubricpath: "_pages/Assignments/asmt-essay2.md"
+        submission_types: "written"
     readings:
       - rtitle: "Coates, Between the World and Me, pp. 73-132 (Part II)"
         rlink: false
@@ -391,11 +426,6 @@ schedule:
     date: "1"
     title: "Coates, Between the World and Me, Part III: Legacy and Hope"
     deliverables:
-      - dtitle: "Writing: Essay 2 First Draft Due"
-        dlink: "Assignments/Essay2"
-        points: 100
-        submission_types: "written"
-        rubricpath: "_pages/Assignments/asmt-essay2.md"
       - dtitle: "Participation: Counterargument and Concession Workshop Due"
         dlink: "Participation/Counterargument"
         points: 10
@@ -415,6 +445,11 @@ schedule:
         dlink: "Participation/Genesis"
         points: 10
         submission_types: "written"
+      - dtitle: "Writing: Essay 2 First Draft Due"
+        dlink: "Assignments/Essay2"
+        points: 30
+        rubricpath: "_pages/Assignments/asmt-essay2.md"
+        submission_types: "written"
     readings:
       - rtitle: "Genesis, chapters 1-11 (Alter translation)"
         rlink: false
@@ -424,6 +459,10 @@ schedule:
     deliverables:
       - dtitle: "Participation: Darwin Writing Prompt Handed Out"
         dlink: "Participation/Darwin"
+        points: 10
+        submission_types: "written"
+      - dtitle: "Participation: Draft Four A's Due"
+        dlink: "Participation/DraftFourAs"
         points: 10
         submission_types: "written"
     readings:
@@ -446,11 +485,6 @@ schedule:
     date: "1"
     title: "Darwin, Continued: Evolution Beyond Biology"
     deliverables:
-      - dtitle: "Writing: Essay 2 Final Draft Due"
-        dlink: "Assignments/Essay2"
-        points: 100
-        submission_types: "written"
-        rubricpath: "_pages/Assignments/asmt-essay2.md"
       - dtitle: "Participation: McPhee Writing Prompt Handed Out"
         dlink: "Participation/McPhee"
         points: 10
@@ -471,19 +505,14 @@ schedule:
         rlink: false
   - week: "11"
     date: "1"
-    title: "McPhee, Continued, and Essay 3 Brainstorming Workshop"
+    title: "McPhee, Continued: Engineering Against the River"
     deliverables:
-      - dtitle: "Writing: Essay 3 Handed Out"
-        dlink: "Assignments/Essay3"
-        points: 100
-        submission_types: "written"
-        rubricpath: "_pages/Assignments/asmt-essay3.md"
       - dtitle: "Participation: Deloria Writing Prompt Handed Out"
         dlink: "Participation/Deloria"
         points: 10
         submission_types: "written"
     readings:
-      - rtitle: "Continue discussing McPhee; Essay 3 assignment sheet and brainstorming workshop"
+      - rtitle: "Continue discussing McPhee"
         rlink: false
   - week: "12"
     date: "0"
@@ -492,6 +521,11 @@ schedule:
       - dtitle: "Participation: Deloria Writing Prompt Due"
         dlink: "Participation/Deloria"
         points: 10
+        submission_types: "written"
+      - dtitle: "Writing: Essay 2 Final Draft Due"
+        dlink: "Assignments/Essay2"
+        points: 60
+        rubricpath: "_pages/Assignments/asmt-essay2.md"
         submission_types: "written"
     readings:
       - rtitle: "Deloria selections (CIE Reader)"
@@ -502,19 +536,25 @@ schedule:
         rlink: false
   - week: "12"
     date: "1"
-    title: "Deloria, Continued: Land, Time, and Acknowledgment"
+    title: "Deloria, Continued, and Essay 3 Brainstorming Workshop"
     deliverables:
-      - dtitle: "Writing: Essay 3 Thesis Statement, Quote List, and Rough Outline Due"
-        dlink: "Assignments/Essay3"
-        points: 100
-        submission_types: "written"
-        rubricpath: "_pages/Assignments/asmt-essay3.md"
       - dtitle: "Participation: McLuhan Writing Prompt Handed Out"
         dlink: "Participation/McLuhan"
         points: 10
         submission_types: "written"
+      - dtitle: "Writing: Essay 3 Handed Out"
+        dlink: "Assignments/Essay3"
+        points: 100
+        submission_types: "written"
+        rubricpath: "_pages/Assignments/asmt-essay3.md"
+      - dtitle: "Participation: Thesis Workshop Due"
+        dlink: "Participation/ThesisWorkshop"
+        points: 10
+        submission_types: "written"
     readings:
-      - rtitle: "Continue discussing Deloria"
+      - rtitle: "Continue discussing Deloria; Essay 3 assignment sheet and in-class brainstorming workshop"
+        rlink: false
+      - rtitle: "Read ahead for the Essay 3 first draft: McLuhan selections (CIE Reader) and Forster, The Machine Stops (CIE Reader). We discuss McLuhan on 11/24 and 12/1 and Forster on 12/3 and 12/8, but every text named in the Essay 3 prompt must be read before your first draft is due on 12/1."
         rlink: false
   - week: "13"
     date: "0"
@@ -522,6 +562,10 @@ schedule:
     deliverables:
       - dtitle: "Participation: McLuhan Writing Prompt Due"
         dlink: "Participation/McLuhan"
+        points: 10
+        submission_types: "written"
+      - dtitle: "Participation: Evidence Workshop Due"
+        dlink: "Participation/EvidenceWorkshop"
         points: 10
         submission_types: "written"
     readings:
@@ -533,14 +577,14 @@ schedule:
     date: "0"
     title: "McLuhan, Continued: Media as Environments"
     deliverables:
-      - dtitle: "Writing: Essay 3 First Draft Due"
-        dlink: "Assignments/Essay3"
-        points: 100
-        submission_types: "written"
-        rubricpath: "_pages/Assignments/asmt-essay3.md"
       - dtitle: "Participation: The Machine Stops Writing Prompt Handed Out"
         dlink: "Participation/Forster"
         points: 10
+        submission_types: "written"
+      - dtitle: "Writing: Essay 3 First Draft Due"
+        dlink: "Assignments/Essay3"
+        points: 40
+        rubricpath: "_pages/Assignments/asmt-essay3.md"
         submission_types: "written"
     readings:
       - rtitle: "Continue discussing McLuhan"
@@ -576,10 +620,15 @@ schedule:
         dlink: "Participation/MachineQuestion"
         points: 10
         submission_types: "written"
+      - dtitle: "Writing: Essay 3 Final Draft Due"
+        dlink: "Assignments/Essay3"
+        points: 60
+        rubricpath: "_pages/Assignments/asmt-essay3.md"
+        submission_types: "written"
     readings:
       - rtitle: "Continue discussing The Machine Stops; in class: revision workshop for Essay 3"
         rlink: false
-      - rtitle: "Essay 3 Final Draft due during final exam week (date TBA)"
+      - rtitle: "In class: final revision workshop for Essay 3; the final draft is due today, our last class meeting"
         rlink: false
 
 university:
@@ -637,7 +686,7 @@ The course fosters the essential skills of critical reading, careful interpretat
 
 In this course you should expect to encounter people of racial, ethnic, spiritual, economic, sexual, etc. backgrounds different from your own. Be prepared to voice your ideas and analysis in a respectful manner and support them with clear evidence. If you think that something is inappropriate, rude, or disrespectful, you have the right to say so. Some students may not feel comfortable addressing such problems head on. In that case, you should contact me to discuss the problem. Of course, students and even faculty with the best intentions may offend without meaning to, and it is important that we be constructive as we call attention to problems. We will work together as a class to resolve any disputes that may arise and restore a healthy learning environment.  
 
-CIE is a four-credit course that meets for three hours each week. The additional semester hour is accounted for by attendance at the required common events; the quantity of required reading, including reading prior to the start of the semester; and the focus on revision for each of the required papers.
+CIE is a four-credit course that meets for two and a half hours each week (Tuesday and Thursday, 75 minutes each). The additional semester hour is accounted for by attendance at the required common events; the quantity of required reading, including reading prior to the start of the semester; and the focus on revision for each of the required papers.
 
 ### **Demonstration of Learning Goals**
 
@@ -673,7 +722,7 @@ Our conversation this semester moves from the ancient world to the doorstep of o
 
 ### **Writing Fellow**
 
-Our section is fortunate to be paired with Writing Fellow Vienna Gurev ([vigurev@ursinus.edu](mailto:vigurev@ursinus.edu)), a trained peer writing tutor who will work with you across the drafting and revision process for each essay. You will meet with our Writing Fellow between the first and final drafts of each paper; these conversations are an integral part of the revision process that the course is designed around, and the end-of-semester Writing Fellow Reflection invites you to take stock of how your revision practice has grown.
+Our section is fortunate to be paired with Writing Fellow Vienna Gurev ([vigurev@ursinus.edu](mailto:vigurev@ursinus.edu)), a trained peer writing tutor who will work with you across the drafting and revision process. **For Essays 1 and 2 the conference is required and graded**: you must meet with her in person between the first and final drafts, and 10 of that essay's 100 points are awarded all-or-nothing for having met **and** for a final draft that visibly responds to the conversation. Attending without revising earns nothing on that row, and neither does revising without attending. Sign up early - Vienna sees the whole section in each window, and the windows are 19 days for Essay 1 and 21 days for Essay 2. **Essay 3 has no required conference**; you are welcome to book one, but it is not part of that essay's grade. The end-of-semester Writing Fellow Reflection invites you to take stock of how your revision practice has grown.
 
 ### **Attendance and Class Engagement**
 
@@ -685,7 +734,7 @@ Beyond four absences, each **unexcused** absence subtracts **10 of the 30 points
 
 #### Papers (60%)
 
-Three formal essays anchor the semester, each developed through a scaffolded process: a thesis statement, quote list, and rough outline; a complete first draft reviewed by our Writing Fellow; and a substantially revised final draft. Within each paper's 20% of the course grade, the scaffold deliverables count 10%, the first draft 30%, and the final draft 60%, so that the revision process itself carries real weight. Papers 1 and 2 run 1200 to 1500 words, and Paper 3 runs 1500 to 1800 words. All assignments must be submitted through Canvas by 10:59 PM Eastern Time on the due date, subject to the flexible submission policy stated above.
+Three formal essays anchor the semester, each developed through a scaffolded process built around revision. Papers 1 and 2 run through three stages: a thesis statement, quote list, and rough outline; a complete first draft reviewed by our Writing Fellow; and a substantially revised final draft. Within each of those papers' 20% of the course grade, the scaffold deliverable counts 10%, the first draft 30%, and the final draft 60%. Paper 3 has no separate outline stage - you go from the assignment sheet straight to a full first draft, with twelve days to write it - so its 20% divides as 40% first draft and 60% final draft. Within the final-draft rubrics for Papers 1 and 2, 10 points are reserved for the required Writing Fellow conference and your response to it; Paper 3 has no such requirement and no such points. In every case the revision carries the majority of the weight, because the revision is where the learning is. Papers 1 and 2 run 1200 to 1500 words, and Paper 3 runs 1500 to 1800 words. All assignments must be submitted through Canvas by 10:59 PM Eastern Time on the due date, subject to the flexible submission policy stated above.
 
 #### Schedule of Essay Due Dates
 
@@ -694,17 +743,16 @@ The scaffolded deliverables and drafts for each essay fall on the dates below (a
 | Assessment | Due Date |
 | --- | --- |
 | Essay 1 assignment sheet handed out | Thursday, September 3 |
-| Essay 1 thesis statement, quote list, and rough outline | Tuesday, September 8 |
-| Essay 1 first draft (for Writing Fellow review) | Tuesday, September 15 |
-| Essay 1 final draft | Tuesday, September 29 |
-| Essay 2 assignment sheet handed out | Tuesday, October 6 |
-| Essay 2 thesis statement, quote list, and rough outline | Thursday, October 15 |
-| Essay 2 first draft (for Writing Fellow review) | Thursday, October 22 |
-| Essay 2 final draft | Thursday, November 5 |
-| Essay 3 assignment sheet handed out | Thursday, November 12 |
-| Essay 3 thesis statement, quote list, and rough outline | Thursday, November 19 |
-| Essay 3 first draft (for Writing Fellow review) | Tuesday, December 1 |
-| Essay 3 final draft | During final exam week (date to be announced) |
+| Essay 1 thesis statement, quote list, and rough outline | Thursday, September 10 |
+| Essay 1 first draft (for Writing Fellow review) | Thursday, September 17 |
+| Essay 1 final draft | Tuesday, October 6 |
+| Essay 2 assignment sheet handed out | Thursday, October 15 |
+| Essay 2 thesis statement, quote list, and rough outline | Tuesday, October 20 |
+| Essay 2 first draft (for Writing Fellow review) | Tuesday, October 27 |
+| Essay 2 final draft | Tuesday, November 17 |
+| Essay 3 assignment sheet handed out | Thursday, November 19 |
+| Essay 3 first draft (no conference required) | Tuesday, December 1 |
+| Essay 3 final draft | Tuesday, December 8 (our last class meeting) |
 
 #### In-Class Participation (30%) {#participation}
 
@@ -729,7 +777,7 @@ A quiet day is not a penalty so much as an unearned half-point, and the goal is 
 | **Listening & building** | Talks past others or waits only to speak | Responds to the instructor but not to peers | Builds on classmates by name | Synthesizes across several voices and draws quieter classmates in |
 | **Intellectual risk** | Avoids taking positions | States safe or obvious positions | Takes a position and supports it | Ventures an unsettled idea, changes their mind in public, or argues a view they find hard |
 
-**Rotating discussion roles.** So that participation takes more than one form, we rotate four structured roles — **facilitator, evidence keeper, devil's advocate, and connector**. Each gives you a concrete job in the conversation and a different way to contribute; the [Discussion Roles](Participation/PreparingForDiscussion#rotating-discussion-roles) page explains what each one does and how to prepare for it.
+**Rotating discussion roles.** So that participation takes more than one form, we rotate four structured roles — **facilitator, evidence keeper, devil's advocate, and connector**. Each gives you a concrete job in the conversation and a different way to contribute; the [Discussion Roles](Participation/DiscussionRoles) page explains what each one does and how to prepare for it.
 
 #### Informal Writing (10%)
 

@@ -18,11 +18,13 @@ tags:
 
 ---
 
-In this writing prompt, you will consider the questions below and respond by writing a letter addressed to the author, equivalent in length to a 1-2 paragraph response. In the letter, respond to the reading in your own voice, quoting the text at least once in support of what you say, and raise one respectful counterargument, supported by a quote, that the author would have to answer. Submit your letter through Canvas before the start of class.
+In this writing prompt, you will consider the questions below and respond by writing a letter addressed to the author, equivalent in length to a 1-2 paragraph response. In the letter, respond to the reading in your own voice, quoting the text at least once in support of what you say. Choose the quote carefully: pick the passage whose particular words matter, not simply one that mentions your topic. Submit your letter through Canvas before the start of class.
 
-UDL choice: this genre is the default for this reading, but you may swap in any of the five response genres (analytic, letter, dialogue, marginalia+aphorism, or the [Four A's](../Participation/participation-fouras.md)) as long as the quote and counterargument requirements are met.
+For these first few weeks the prompt asks only for a claim supported by a quote. Beginning with our Islamic Mystic Poetry response, every prompt will also ask you to take up a counter-argument - we will practice that move in class first, in the Counterargument and Concession workshop.
 
-Struggling with the reading itself? See the guide: [How to Read Hard Texts in CIE](../Assignments/readingguide.md).
+UDL choice: this genre is the default for this reading, but you may swap in any of the five response genres (analytic, letter, dialogue, marginalia+aphorism, or the [Four A's](https://www.billmongan.com/Ursinus-CIE100-Fall2026/Participation/FourAs)) as long as the claim-and-quote requirement is met.
+
+Struggling with the reading itself? See the guide: [How to Read Hard Texts in CIE](https://www.billmongan.com/Ursinus-CIE100-Fall2026/Participation/ReadingHardTexts).
 
 ## Writing Prompt
 
