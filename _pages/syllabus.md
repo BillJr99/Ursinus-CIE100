@@ -514,6 +514,8 @@ schedule:
     readings:
       - rtitle: "Continue discussing McPhee"
         rlink: false
+      - rtitle: "Also today, we open Deloria: the \"Whose sun?\" return to Plato's Cave, a short framing of Deloria as an author, and the ground rule that we say \"Deloria argues\" rather than \"Native Americans believe.\" Read the Deloria selections (CIE Reader) before Thursday, November 19."
+        rlink: false
   - week: "12"
     date: "0"
     title: "CIE Common Event: Docent-Led Tour at the Berman Museum of Art (No Regular Class; We Meet at the Museum)"
@@ -550,7 +552,7 @@ schedule:
         points: 10
         submission_types: "written"
     readings:
-      - rtitle: "Deloria selections (CIE Reader). Our full Deloria discussion, opening from what we saw at the Berman on Tuesday and moving into God Is Red on sacred place; followed by the Essay 3 assignment sheet and the in-class brainstorming workshop"
+      - rtitle: "Deloria selections (CIE Reader). Our full Deloria discussion, opening from what we saw at the Berman on Tuesday and building the time-versus-space argument from quotation, then the Essay 3 assignment sheet and the in-class brainstorming workshop. Come having marked your Deloria passages in advance, since we build the quotation board from passages you have already chosen."
         rlink: false
       - rtitle: "Read ahead for the Essay 3 first draft: McLuhan selections (CIE Reader) and Forster, The Machine Stops (CIE Reader). We discuss McLuhan on 11/24 and 12/1 and Forster on 12/3 and 12/8, but every text named in the Essay 3 prompt must be read before your first draft is due on 12/1."
         rlink: false
@@ -568,6 +570,8 @@ schedule:
         submission_types: "written"
     readings:
       - rtitle: "McLuhan selections (CIE Reader)"
+        rlink: false
+      - rtitle: "We close Deloria first: a silent marginalia exchange on a dense passage, then the unit debrief on where description turns into accusation."
         rlink: false
       - rtitle: "Thanksgiving Break Wednesday 11/25 through Friday 11/27: no class meeting"
         rlink: false
