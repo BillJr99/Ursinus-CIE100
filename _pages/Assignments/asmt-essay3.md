@@ -54,7 +54,7 @@ info:
       preemerging: "The final draft is the first draft with typos corrected. No revision memo, or a memo describing edits rather than changes."
       beginning: "Sentence-level changes only. The synthesis is the one the first draft had, and Writing Fellow feedback is acknowledged but not acted on."
       progressing: "The final draft changes something that matters - a text used differently, a conflict acknowledged, the claim narrowed to what the evidence bears - and the memo explains what and why."
-      proficient: "The revision reconsiders the essay rather than repairing it. Because Forster is discussed during this essay's revision window, the strongest final drafts let that discussion change the argument: a text read more precisely, an objection absorbed, a claim sharpened. The memo names the specific feedback or discussion and the specific change it produced."
+      proficient: "The revision reconsiders the essay rather than repairing it. The strongest final drafts let continued reading and class discussion change the argument: a text read more precisely, an objection absorbed, a claim sharpened. The memo names the specific feedback or discussion and the specific change it produced."
   readings:
     - rlink: "https://www.ursinus.edu/offices/center-for-writing-and-speaking/resources-for-students-/"
       rtitle: "Writing Resources for Students"
@@ -80,12 +80,12 @@ Choose **one** of the following options. Whichever option you choose, your essay
 
 This essay is developed in two stages, and the stages together constitute the 100 points of this assignment. The complete first draft is worth 40 points; the revised final draft is worth 60 points. **No Writing Fellow conference is required for this essay.** You are welcome to book one and it will help, but unlike Essays 1 and 2 it is not part of this essay's grade. Your final draft should still respond substantively to your own rereading and to the Forster discussion; cosmetic edits do not constitute revision.
 
-Unlike Essays 1 and 2, this essay has **no separate outline deliverable**. You go from the assignment sheet straight to a full draft, because by this point in the semester you have done the thesis-and-outline work twice and the harder problem here is synthesis across texts rather than getting started. The Thesis Workshop and the Evidence Workshop, both placed on the schedule between the handout and the draft, are where you do that thinking; neither is submitted as part of this essay's grade.
+Unlike Essays 1 and 2, this essay has **no separate outline deliverable**. You go from the assignment sheet straight to a full draft, because by this point in the semester you have done the thesis-and-outline work twice and the harder problem here is synthesis across texts rather than getting started. The Thesis Workshop and the Evidence Workshop are where you do that thinking; neither is submitted as part of this essay's grade.
 
 1. **First Draft.** A complete draft of the full 1500 to 1800 words, not a partial sketch.
 2. **Final Draft.** The revised essay, accompanied by a brief (one paragraph) revision memo describing what you changed and why.
 
-**A note on reading ahead.** Prompt options 2 and 3 name McLuhan and Forster, and we do not finish discussing those texts until after your first draft is due. Both readings are therefore assigned early, as the schedule shows, so that every text named in your chosen prompt is read before you draft. The McLuhan discussions fall before the first draft and the Forster discussions fall inside your revision window, on purpose. Draft from the text, then let the discussion sharpen the argument - that is what the time between drafts is for, and it is why the revision carries 60 of this assignment's 100 points.
+**A note on reading ahead.** Prompt options 2 and 3 name McLuhan and Forster, and the course schedule assigns both readings early so that every text named in your chosen prompt is read before you draft. Consult the schedule for when each reading and discussion falls. Draft from the text rather than waiting on class discussion, then let discussion sharpen the argument when you revise. That is why the revision carries 60 of this assignment's 100 points.
 
 ## Submission Instructions
 
