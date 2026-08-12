@@ -89,6 +89,6 @@ Unlike Essays 1 and 2, this essay has **no separate outline deliverable**. You g
 
 ## Submission Instructions
 
-Submit each deliverable through Canvas before the start of class on its due date, as listed on the course schedule. Note that the final draft is due at our **last class meeting**, not during final exam week — nothing in this course is collected after the last class meeting. If you consulted a generative AI tool for a permitted purpose under the course policy, disclose that use in your Acknowledgements section; the writing itself must be entirely your own.
+Submit each deliverable through Canvas before the start of class on its due date, as listed on the course schedule. If you consulted a generative AI tool for a permitted purpose under the course policy, disclose that use in your Acknowledgements section; the writing itself must be entirely your own.
 
 If collaboration with a buddy was permitted, did you work with a buddy on this assignment? If so, who? If not, do you certify that this submission represents your own original work? Please identify any and all portions of your submission that were not originally written by you.
