@@ -11,7 +11,7 @@ info:
   tilt:
     task: "Write a 1500-1800 word MLA essay advancing an arguable thesis that engages at least two texts from the second half of the semester, built through the draft-and-revision process."
     criteria: "Assessed on your thesis, argument development, synthesis across texts, organization, and citations, with real weight on the revision itself; see the rubric below."
-  submission: "Submit a word processed or PDF document through Canvas; the first draft is due Tuesday, December 1 and the final draft at our last class meeting on Tuesday, December 8."
+  submission: "Submit a word processed or PDF document through Canvas before the start of class on each due date, as listed on the course schedule."
   goals:
     - To formulate a clear, arguable thesis statement about humanity's place in nature and technology's place in human life
     - To support a thesis with carefully chosen quotes from primary sources
@@ -80,15 +80,15 @@ Choose **one** of the following options. Whichever option you choose, your essay
 
 This essay is developed in two stages, and the stages together constitute the 100 points of this assignment. The complete first draft is worth 40 points; the revised final draft is worth 60 points. **No Writing Fellow conference is required for this essay.** You are welcome to book one and it will help, but unlike Essays 1 and 2 it is not part of this essay's grade. Your final draft should still respond substantively to your own rereading and to the Forster discussion; cosmetic edits do not constitute revision.
 
-Unlike Essays 1 and 2, this essay has **no separate outline deliverable**. You go from the assignment sheet straight to a full draft, with nineteen days to write it, because by this point in the semester you have done the thesis-and-outline work twice and the harder problem here is synthesis across texts rather than getting started. The Thesis Workshop on the day the assignment is handed out and the Evidence Workshop the following week are where you do that thinking; neither is submitted as part of this essay's grade.
+Unlike Essays 1 and 2, this essay has **no separate outline deliverable**. You go from the assignment sheet straight to a full draft, because by this point in the semester you have done the thesis-and-outline work twice and the harder problem here is synthesis across texts rather than getting started. The Thesis Workshop and the Evidence Workshop, both placed on the schedule between the handout and the draft, are where you do that thinking; neither is submitted as part of this essay's grade.
 
-1. **First Draft.** A complete draft of the full 1500 to 1800 words, not a partial sketch. Due Tuesday, December 1.
-2. **Final Draft.** The revised essay, due Tuesday, December 8 (our last class meeting), accompanied by a brief (one paragraph) revision memo describing what you changed and why.
+1. **First Draft.** A complete draft of the full 1500 to 1800 words, not a partial sketch.
+2. **Final Draft.** The revised essay, accompanied by a brief (one paragraph) revision memo describing what you changed and why.
 
-**A note on reading ahead.** Prompt options 2 and 3 name McLuhan and Forster, and we do not finish discussing those texts until after your first draft is due. Both readings are therefore assigned early, on November 19, so that every text named in your chosen prompt is read before you draft. We discuss McLuhan on November 24 and December 1, before the draft; Forster we discuss on December 3 and December 8, inside your revision window, on purpose. Draft from the text, then let the discussion sharpen the argument - that is what the week between drafts is for, and it is why the revision carries 60 of this assignment's 100 points.
+**A note on reading ahead.** Prompt options 2 and 3 name McLuhan and Forster, and we do not finish discussing those texts until after your first draft is due. Both readings are therefore assigned early, as the schedule shows, so that every text named in your chosen prompt is read before you draft. The McLuhan discussions fall before the first draft and the Forster discussions fall inside your revision window, on purpose. Draft from the text, then let the discussion sharpen the argument - that is what the time between drafts is for, and it is why the revision carries 60 of this assignment's 100 points.
 
 ## Submission Instructions
 
-Submit each deliverable through Canvas before the start of class on its due date, as listed on the course schedule. Note that the final draft is due at our **last class meeting on Tuesday, December 8**, not during final exam week — nothing in this course is collected after the last class meeting. If you consulted a generative AI tool for a permitted purpose under the course policy, disclose that use in your Acknowledgements section; the writing itself must be entirely your own.
+Submit each deliverable through Canvas before the start of class on its due date, as listed on the course schedule. Note that the final draft is due at our **last class meeting**, not during final exam week — nothing in this course is collected after the last class meeting. If you consulted a generative AI tool for a permitted purpose under the course policy, disclose that use in your Acknowledgements section; the writing itself must be entirely your own.
 
 If collaboration with a buddy was permitted, did you work with a buddy on this assignment? If so, who? If not, do you certify that this submission represents your own original work? Please identify any and all portions of your submission that were not originally written by you.
