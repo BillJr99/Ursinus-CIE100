@@ -516,7 +516,7 @@ schedule:
         rlink: false
   - week: "12"
     date: "0"
-    title: "CIE Common Event: Docent-Led Tour at the Berman Museum of Art (Class Meets at the Museum)"
+    title: "CIE Common Event: Docent-Led Tour at the Berman Museum of Art (No Regular Class; We Meet at the Museum)"
     deliverables:
       - dtitle: "Participation: Deloria Writing Prompt Due"
         dlink: "Participation/Deloria"
@@ -528,10 +528,8 @@ schedule:
         rubricpath: "_pages/Assignments/asmt-essay2.md"
         submission_types: "written"
     readings:
-      - rtitle: "Our class period is reserved for the CIE Common Event: a student docent-led tour of the exhibition on view at the Berman Museum of Art (Center for Humanities in Action). We meet at the museum rather than in Pfahler 208. The exhibition and the confirmed tour time will be announced closer to the date."
+      - rtitle: "The entire class period is given over to the CIE Common Event: a student docent-led tour of the exhibition on view at the Berman Museum of Art (Center for Humanities in Action). There is no regular class meeting and no assigned discussion today; we meet at the museum rather than in Pfahler 208. The exhibition and the confirmed tour time will be announced closer to the date."
         rlink: "https://www.ursinus.edu/berman/exhibitions/"
-      - rtitle: "Read Deloria selections (CIE Reader) before the tour; we take up the text together on Thursday, and the exhibition is our entry point into Deloria's account of sacred place in God Is Red."
-        rlink: false
       - rtitle: "Note: the last day to withdraw with a W grade is Tuesday, November 17, 2026"
         rlink: false
   - week: "12"
@@ -552,7 +550,7 @@ schedule:
         points: 10
         submission_types: "written"
     readings:
-      - rtitle: "Our full Deloria discussion, opening from what we saw at the Berman on Tuesday and moving into God Is Red on sacred place; followed by the Essay 3 assignment sheet and the in-class brainstorming workshop"
+      - rtitle: "Deloria selections (CIE Reader). Our full Deloria discussion, opening from what we saw at the Berman on Tuesday and moving into God Is Red on sacred place; followed by the Essay 3 assignment sheet and the in-class brainstorming workshop"
         rlink: false
       - rtitle: "Read ahead for the Essay 3 first draft: McLuhan selections (CIE Reader) and Forster, The Machine Stops (CIE Reader). We discuss McLuhan on 11/24 and 12/1 and Forster on 12/3 and 12/8, but every text named in the Essay 3 prompt must be read before your first draft is due on 12/1."
         rlink: false
