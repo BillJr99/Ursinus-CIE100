@@ -124,11 +124,11 @@ goals:
 - goal: "Students will become better writers."
 
 grade_breakdown:
-- category: "Paper 1 (1200-1500 words)"
+- category: "Essay 1 (1200-1500 words)"
   weight: "20%"
-- category: "Paper 2 (1200-1500 words)"
+- category: "Essay 2 (1200-1500 words)"
   weight: "20%"
-- category: "Paper 3 (1500-1800 words)"
+- category: "Essay 3 (1500-1800 words)"
   weight: "20%"
 - category: "In-Class Participation"
   weight: "30%"
@@ -168,11 +168,11 @@ schedule:
     date: "0"
     title: "Plato, Allegory of the Cave: Close Reading Workshop (Shadows, Screens, and the Ascent)"
     deliverables:
-      - dtitle: "Participation: Ice Breaker Reflection Handed Out"
+      - dtitle: "Informal Writing: Ice Breaker Reflection Handed Out"
         dlink: "Participation/IceBreaker"
         points: 10
         submission_types: "written"
-      - dtitle: "Participation: Allegory of the Cave Writing Prompt Handed Out"
+      - dtitle: "Informal Writing: Allegory of the Cave Writing Prompt Handed Out"
         dlink: "Participation/Allegory"
         points: 10
         submission_types: "written"
@@ -201,15 +201,15 @@ schedule:
     date: "1"
     title: "Adichie, Dear Ijeawele: The First Seven Suggestions"
     deliverables:
-      - dtitle: "Participation: Dear Ijeawele Writing Prompt Handed Out"
+      - dtitle: "Informal Writing: Dear Ijeawele Writing Prompt Handed Out"
         dlink: "Participation/Adichie"
         points: 10
         submission_types: "written"
-      - dtitle: "Participation: Ice Breaker Reflection Due"
+      - dtitle: "Informal Writing: Ice Breaker Reflection Due"
         dlink: "Participation/IceBreaker"
         points: 10
         submission_types: "written"
-      - dtitle: "Participation: Allegory of the Cave Writing Prompt Due"
+      - dtitle: "Informal Writing: Allegory of the Cave Writing Prompt Due"
         dlink: "Participation/Allegory"
         points: 10
         submission_types: "written"
@@ -222,7 +222,7 @@ schedule:
     date: "0"
     title: "Adichie, Dear Ijeawele: Suggestions Eight Through Fifteen"
     deliverables:
-      - dtitle: "Participation: Dear Ijeawele Writing Prompt Due"
+      - dtitle: "Informal Writing: Dear Ijeawele Writing Prompt Due"
         dlink: "Participation/Adichie"
         points: 10
         submission_types: "written"
@@ -239,7 +239,7 @@ schedule:
     date: "1"
     title: "Essay 1 Workshop: Brainstorming, Sample Essays, and Thesis Construction"
     deliverables:
-      - dtitle: "Writing: Essay 1 Handed Out"
+      - dtitle: "Essay 1 Handed Out"
         dlink: "Assignments/Essay1"
         points: 100
         submission_types: "written"
@@ -257,7 +257,7 @@ schedule:
     date: "0"
     title: "Katie Merz, Live the Questions (The Smokestack): Analyzing Visual Materials"
     deliverables:
-      - dtitle: "Participation: Sappho Writing Prompt Handed Out"
+      - dtitle: "Informal Writing: Sappho Writing Prompt Handed Out"
         dlink: "Participation/Sappho"
         points: 10
         submission_types: "written"
@@ -270,7 +270,7 @@ schedule:
     date: "1"
     title: "Sappho: Fragments, Longing, and the Survival of Texts"
     deliverables:
-      - dtitle: "Participation: Sappho Writing Prompt Due"
+      - dtitle: "Informal Writing: Sappho Writing Prompt Due"
         dlink: "Participation/Sappho"
         points: 10
         submission_types: "written"
@@ -278,7 +278,7 @@ schedule:
         dlink: "Participation/EvidenceWorkshop"
         points: 10
         submission_types: "written"
-      - dtitle: "Writing: Essay 1 Thesis Statement, Quote List, and Rough Outline Due"
+      - dtitle: "Essay 1: Thesis Statement, Quote List, and Rough Outline Due"
         dlink: "Assignments/Essay1"
         points: 10
         rubricpath: "_pages/Assignments/asmt-essay1.md"
@@ -294,7 +294,7 @@ schedule:
         dlink: "Participation/EvidenceWorkshop"
         points: 10
         submission_types: "written"
-      - dtitle: "Participation: Islamic Mystic Poetry Writing Prompt Handed Out"
+      - dtitle: "Informal Writing: Islamic Mystic Poetry Writing Prompt Handed Out"
         dlink: "Participation/IslamicMysticPoetry"
         points: 10
         submission_types: "written"
@@ -305,15 +305,15 @@ schedule:
     date: "1"
     title: "Islamic Mystic Poetry: Longing for the Divine"
     deliverables:
-      - dtitle: "Participation: Islamic Mystic Poetry Writing Prompt Due"
+      - dtitle: "Informal Writing: Islamic Mystic Poetry Writing Prompt Due"
         dlink: "Participation/IslamicMysticPoetry"
         points: 10
         submission_types: "written"
-      - dtitle: "Participation: Draft Four A's Handed Out"
+      - dtitle: "Informal Writing: Draft Four A's Handed Out"
         dlink: "Participation/DraftFourAs"
         points: 10
         submission_types: "written"
-      - dtitle: "Writing: Essay 1 First Draft Due"
+      - dtitle: "Essay 1: First Draft Due"
         dlink: "Assignments/Essay1"
         points: 30
         rubricpath: "_pages/Assignments/asmt-essay1.md"
@@ -333,11 +333,11 @@ schedule:
     date: "1"
     title: "Revision Workshop: From First Draft to Final Draft"
     deliverables:
-      - dtitle: "Participation: Draft Four A's Due"
+      - dtitle: "Informal Writing: Draft Four A's Due"
         dlink: "Participation/DraftFourAs"
         points: 10
         submission_types: "written"
-      - dtitle: "Participation: Euthyphro Writing Prompt Handed Out"
+      - dtitle: "Informal Writing: Euthyphro Writing Prompt Handed Out"
         dlink: "Participation/Euthyphro"
         points: 10
         submission_types: "written"
@@ -350,7 +350,7 @@ schedule:
     date: "0"
     title: "Plato, Euthyphro: What Is Piety?"
     deliverables:
-      - dtitle: "Participation: Euthyphro Writing Prompt Due"
+      - dtitle: "Informal Writing: Euthyphro Writing Prompt Due"
         dlink: "Participation/Euthyphro"
         points: 10
         submission_types: "written"
@@ -361,7 +361,7 @@ schedule:
     date: "1"
     title: "Euthyphro, Continued: The Dilemma and Its Descendants"
     deliverables:
-      - dtitle: "Participation: Between the World and Me Writing Prompt Handed Out"
+      - dtitle: "Informal Writing: Between the World and Me Writing Prompt Handed Out"
         dlink: "Participation/Coates"
         points: 10
         submission_types: "written"
@@ -372,11 +372,11 @@ schedule:
     date: "0"
     title: "Coates, Between the World and Me, Part I: The Body and the Dream"
     deliverables:
-      - dtitle: "Participation: Between the World and Me Writing Prompt Due"
+      - dtitle: "Informal Writing: Between the World and Me Writing Prompt Due"
         dlink: "Participation/Coates"
         points: 10
         submission_types: "written"
-      - dtitle: "Writing: Essay 1 Final Draft Due"
+      - dtitle: "Essay 1: Final Draft Due"
         dlink: "Assignments/Essay1"
         points: 60
         rubricpath: "_pages/Assignments/asmt-essay1.md"
@@ -392,7 +392,7 @@ schedule:
     date: "1"
     title: "Coates, Continued: Letters, Fear, and Love"
     deliverables:
-      - dtitle: "Writing: Essay 2 Handed Out"
+      - dtitle: "Essay 2 Handed Out"
         dlink: "Assignments/Essay2"
         points: 100
         rubricpath: "_pages/Assignments/asmt-essay2.md"
@@ -414,7 +414,7 @@ schedule:
         dlink: "Participation/Counterargument"
         points: 10
         submission_types: "written"
-      - dtitle: "Writing: Essay 2 Thesis Statement, Quote List, and Rough Outline Due"
+      - dtitle: "Essay 2: Thesis Statement, Quote List, and Rough Outline Due"
         dlink: "Assignments/Essay2"
         points: 10
         rubricpath: "_pages/Assignments/asmt-essay2.md"
@@ -430,7 +430,7 @@ schedule:
         dlink: "Participation/Counterargument"
         points: 10
         submission_types: "written"
-      - dtitle: "Participation: Genesis Writing Prompt Handed Out"
+      - dtitle: "Informal Writing: Genesis Writing Prompt Handed Out"
         dlink: "Participation/Genesis"
         points: 10
         submission_types: "written"
@@ -441,11 +441,11 @@ schedule:
     date: "0"
     title: "Genesis 1-11: Creation, Naming, and Babel"
     deliverables:
-      - dtitle: "Participation: Genesis Writing Prompt Due"
+      - dtitle: "Informal Writing: Genesis Writing Prompt Due"
         dlink: "Participation/Genesis"
         points: 10
         submission_types: "written"
-      - dtitle: "Writing: Essay 2 First Draft Due"
+      - dtitle: "Essay 2: First Draft Due"
         dlink: "Assignments/Essay2"
         points: 30
         rubricpath: "_pages/Assignments/asmt-essay2.md"
@@ -457,11 +457,11 @@ schedule:
     date: "1"
     title: "Genesis 12-22 and Revision Workshop"
     deliverables:
-      - dtitle: "Participation: Darwin Writing Prompt Handed Out"
+      - dtitle: "Informal Writing: Darwin Writing Prompt Handed Out"
         dlink: "Participation/Darwin"
         points: 10
         submission_types: "written"
-      - dtitle: "Participation: Draft Four A's Due"
+      - dtitle: "Informal Writing: Draft Four A's Due"
         dlink: "Participation/DraftFourAs"
         points: 10
         submission_types: "written"
@@ -474,7 +474,7 @@ schedule:
     date: "0"
     title: "Darwin: Descent with Modification"
     deliverables:
-      - dtitle: "Participation: Darwin Writing Prompt Due"
+      - dtitle: "Informal Writing: Darwin Writing Prompt Due"
         dlink: "Participation/Darwin"
         points: 10
         submission_types: "written"
@@ -485,7 +485,7 @@ schedule:
     date: "1"
     title: "Darwin, Continued: Evolution Beyond Biology"
     deliverables:
-      - dtitle: "Participation: McPhee Writing Prompt Handed Out"
+      - dtitle: "Informal Writing: McPhee Writing Prompt Handed Out"
         dlink: "Participation/McPhee"
         points: 10
         submission_types: "written"
@@ -496,7 +496,7 @@ schedule:
     date: "0"
     title: "McPhee: The Control of Nature"
     deliverables:
-      - dtitle: "Participation: McPhee Writing Prompt Due"
+      - dtitle: "Informal Writing: McPhee Writing Prompt Due"
         dlink: "Participation/McPhee"
         points: 10
         submission_types: "written"
@@ -507,7 +507,7 @@ schedule:
     date: "1"
     title: "McPhee, Continued: Engineering Against the River"
     deliverables:
-      - dtitle: "Participation: Deloria Writing Prompt Handed Out"
+      - dtitle: "Informal Writing: Deloria Writing Prompt Handed Out"
         dlink: "Participation/Deloria"
         points: 10
         submission_types: "written"
@@ -520,11 +520,11 @@ schedule:
     date: "0"
     title: "CIE Common Event: Docent-Led Tour at the Berman Museum of Art (No Regular Class; We Meet at the Museum)"
     deliverables:
-      - dtitle: "Participation: Deloria Writing Prompt Due"
+      - dtitle: "Informal Writing: Deloria Writing Prompt Due"
         dlink: "Participation/Deloria"
         points: 10
         submission_types: "written"
-      - dtitle: "Writing: Essay 2 Final Draft Due"
+      - dtitle: "Essay 2: Final Draft Due"
         dlink: "Assignments/Essay2"
         points: 60
         rubricpath: "_pages/Assignments/asmt-essay2.md"
@@ -538,11 +538,11 @@ schedule:
     date: "1"
     title: "Deloria: God Is Red, the Sacredness of Place, and Essay 3 Brainstorming Workshop"
     deliverables:
-      - dtitle: "Participation: McLuhan Writing Prompt Handed Out"
+      - dtitle: "Informal Writing: McLuhan Writing Prompt Handed Out"
         dlink: "Participation/McLuhan"
         points: 10
         submission_types: "written"
-      - dtitle: "Writing: Essay 3 Handed Out"
+      - dtitle: "Essay 3 Handed Out"
         dlink: "Assignments/Essay3"
         points: 100
         submission_types: "written"
@@ -560,7 +560,7 @@ schedule:
     date: "0"
     title: "McLuhan: The Medium Is the Message"
     deliverables:
-      - dtitle: "Participation: McLuhan Writing Prompt Due"
+      - dtitle: "Informal Writing: McLuhan Writing Prompt Due"
         dlink: "Participation/McLuhan"
         points: 10
         submission_types: "written"
@@ -579,11 +579,11 @@ schedule:
     date: "0"
     title: "McLuhan, Continued: Media as Environments"
     deliverables:
-      - dtitle: "Participation: The Machine Stops Writing Prompt Handed Out"
+      - dtitle: "Informal Writing: The Machine Stops Writing Prompt Handed Out"
         dlink: "Participation/Forster"
         points: 10
         submission_types: "written"
-      - dtitle: "Writing: Essay 3 First Draft Due"
+      - dtitle: "Essay 3: First Draft Due"
         dlink: "Assignments/Essay3"
         points: 40
         rubricpath: "_pages/Assignments/asmt-essay3.md"
@@ -595,11 +595,11 @@ schedule:
     date: "1"
     title: "Forster, The Machine Stops: Prophecy from 1909"
     deliverables:
-      - dtitle: "Participation: The Machine Stops Writing Prompt Due"
+      - dtitle: "Informal Writing: The Machine Stops Writing Prompt Due"
         dlink: "Participation/Forster"
         points: 10
         submission_types: "written"
-      - dtitle: "Participation: Writing Fellow Reflection Handed Out"
+      - dtitle: "Informal Writing: Writing Fellow Reflection Handed Out"
         dlink: "Participation/WritingFellowReflection"
         points: 10
         submission_types: "written"
@@ -610,7 +610,7 @@ schedule:
     date: "0"
     title: "Forster, Continued, and Final Revision Workshop (Tuesday 12/8 Follows a Thursday Schedule)"
     deliverables:
-      - dtitle: "Participation: Writing Fellow Reflection Due"
+      - dtitle: "Informal Writing: Writing Fellow Reflection Due"
         dlink: "Participation/WritingFellowReflection"
         points: 10
         submission_types: "written"
@@ -622,7 +622,7 @@ schedule:
         dlink: "Participation/MachineQuestion"
         points: 10
         submission_types: "written"
-      - dtitle: "Writing: Essay 3 Final Draft Due"
+      - dtitle: "Essay 3: Final Draft Due"
         dlink: "Assignments/Essay3"
         points: 60
         rubricpath: "_pages/Assignments/asmt-essay3.md"
