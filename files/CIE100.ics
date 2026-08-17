@@ -49,7 +49,7 @@ BEGIN:VEVENT
 UID:00000000-0000-0000-0000-00e8d4a51002
 DTSTAMP:20260825T000000Z
 DTSTART;VALUE=DATE:20260825
-SUMMARY:CIE100 Common Intellectual Experience: Participation: Ice Breaker Reflection Handed Out
+SUMMARY:CIE100 Common Intellectual Experience: Informal Writing: Ice Breaker Reflection Handed Out
 LOCATION:
 DESCRIPTION:
 PRIORITY:3
@@ -58,7 +58,7 @@ BEGIN:VEVENT
 UID:00000000-0000-0000-0000-00e8d4a51003
 DTSTAMP:20260825T000000Z
 DTSTART;VALUE=DATE:20260825
-SUMMARY:CIE100 Common Intellectual Experience: Participation: Allegory of the Cave Writing Prompt Handed Out
+SUMMARY:CIE100 Common Intellectual Experience: Informal Writing: Allegory of the Cave Writing Prompt Handed Out
 LOCATION:
 DESCRIPTION:
 PRIORITY:3
@@ -85,7 +85,7 @@ BEGIN:VEVENT
 UID:00000000-0000-0000-0000-00e8d4a51006
 DTSTAMP:20260827T000000Z
 DTSTART;VALUE=DATE:20260827
-SUMMARY:CIE100 Common Intellectual Experience: Participation: Dear Ijeawele Writing Prompt Handed Out
+SUMMARY:CIE100 Common Intellectual Experience: Informal Writing: Dear Ijeawele Writing Prompt Handed Out
 LOCATION:
 DESCRIPTION:
 PRIORITY:3
@@ -94,7 +94,7 @@ BEGIN:VEVENT
 UID:00000000-0000-0000-0000-00e8d4a51007
 DTSTAMP:20260827T000000Z
 DTSTART;VALUE=DATE:20260827
-SUMMARY:CIE100 Common Intellectual Experience: Participation: Ice Breaker Reflection Due
+SUMMARY:CIE100 Common Intellectual Experience: Informal Writing: Ice Breaker Reflection Due
 LOCATION:
 DESCRIPTION:
 PRIORITY:3
@@ -103,7 +103,7 @@ BEGIN:VEVENT
 UID:00000000-0000-0000-0000-00e8d4a51008
 DTSTAMP:20260827T000000Z
 DTSTART;VALUE=DATE:20260827
-SUMMARY:CIE100 Common Intellectual Experience: Participation: Allegory of the Cave Writing Prompt Due
+SUMMARY:CIE100 Common Intellectual Experience: Informal Writing: Allegory of the Cave Writing Prompt Due
 LOCATION:
 DESCRIPTION:
 PRIORITY:3
@@ -112,7 +112,7 @@ BEGIN:VEVENT
 UID:00000000-0000-0000-0000-00e8d4a51009
 DTSTAMP:20260901T000000Z
 DTSTART;VALUE=DATE:20260901
-SUMMARY:CIE100 Common Intellectual Experience: Participation: Dear Ijeawele Writing Prompt Due
+SUMMARY:CIE100 Common Intellectual Experience: Informal Writing: Dear Ijeawele Writing Prompt Due
 LOCATION:
 DESCRIPTION:
 PRIORITY:3
@@ -130,7 +130,7 @@ BEGIN:VEVENT
 UID:00000000-0000-0000-0000-00e8d4a5100b
 DTSTAMP:20260903T000000Z
 DTSTART;VALUE=DATE:20260903
-SUMMARY:CIE100 Common Intellectual Experience: Writing: Essay 1 Handed Out
+SUMMARY:CIE100 Common Intellectual Experience: Essay 1 Handed Out
 LOCATION:
 DESCRIPTION:
 PRIORITY:3
@@ -148,7 +148,7 @@ BEGIN:VEVENT
 UID:00000000-0000-0000-0000-00e8d4a5100d
 DTSTAMP:20260908T000000Z
 DTSTART;VALUE=DATE:20260908
-SUMMARY:CIE100 Common Intellectual Experience: Participation: Sappho Writing Prompt Handed Out
+SUMMARY:CIE100 Common Intellectual Experience: Informal Writing: Sappho Writing Prompt Handed Out
 LOCATION:
 DESCRIPTION:
 PRIORITY:3
@@ -157,7 +157,7 @@ BEGIN:VEVENT
 UID:00000000-0000-0000-0000-00e8d4a5100e
 DTSTAMP:20260910T000000Z
 DTSTART;VALUE=DATE:20260910
-SUMMARY:CIE100 Common Intellectual Experience: Participation: Sappho Writing Prompt Due
+SUMMARY:CIE100 Common Intellectual Experience: Informal Writing: Sappho Writing Prompt Due
 LOCATION:
 DESCRIPTION:
 PRIORITY:3
@@ -175,7 +175,7 @@ BEGIN:VEVENT
 UID:00000000-0000-0000-0000-00e8d4a51010
 DTSTAMP:20260910T000000Z
 DTSTART;VALUE=DATE:20260910
-SUMMARY:CIE100 Common Intellectual Experience: Writing: Essay 1 Thesis Statement, Quote List, and Rough Outline Due
+SUMMARY:CIE100 Common Intellectual Experience: Essay 1: Thesis Statement, Quote List, and Rough Outline Due
 LOCATION:
 DESCRIPTION:
 PRIORITY:3
@@ -193,7 +193,7 @@ BEGIN:VEVENT
 UID:00000000-0000-0000-0000-00e8d4a51012
 DTSTAMP:20260915T000000Z
 DTSTART;VALUE=DATE:20260915
-SUMMARY:CIE100 Common Intellectual Experience: Participation: Islamic Mystic Poetry Writing Prompt Handed Out
+SUMMARY:CIE100 Common Intellectual Experience: Informal Writing: Islamic Mystic Poetry Writing Prompt Handed Out
 LOCATION:
 DESCRIPTION:
 PRIORITY:3
@@ -202,7 +202,7 @@ BEGIN:VEVENT
 UID:00000000-0000-0000-0000-00e8d4a51013
 DTSTAMP:20260917T000000Z
 DTSTART;VALUE=DATE:20260917
-SUMMARY:CIE100 Common Intellectual Experience: Participation: Islamic Mystic Poetry Writing Prompt Due
+SUMMARY:CIE100 Common Intellectual Experience: Informal Writing: Islamic Mystic Poetry Writing Prompt Due
 LOCATION:
 DESCRIPTION:
 PRIORITY:3
@@ -211,7 +211,7 @@ BEGIN:VEVENT
 UID:00000000-0000-0000-0000-00e8d4a51014
 DTSTAMP:20260917T000000Z
 DTSTART;VALUE=DATE:20260917
-SUMMARY:CIE100 Common Intellectual Experience: Participation: Draft Four A's Handed Out
+SUMMARY:CIE100 Common Intellectual Experience: Informal Writing: Draft Four A's Handed Out
 LOCATION:
 DESCRIPTION:
 PRIORITY:3
@@ -220,7 +220,7 @@ BEGIN:VEVENT
 UID:00000000-0000-0000-0000-00e8d4a51015
 DTSTAMP:20260917T000000Z
 DTSTART;VALUE=DATE:20260917
-SUMMARY:CIE100 Common Intellectual Experience: Writing: Essay 1 First Draft Due
+SUMMARY:CIE100 Common Intellectual Experience: Essay 1: First Draft Due
 LOCATION:
 DESCRIPTION:
 PRIORITY:3
@@ -229,7 +229,7 @@ BEGIN:VEVENT
 UID:00000000-0000-0000-0000-00e8d4a51016
 DTSTAMP:20260924T000000Z
 DTSTART;VALUE=DATE:20260924
-SUMMARY:CIE100 Common Intellectual Experience: Participation: Draft Four A's Due
+SUMMARY:CIE100 Common Intellectual Experience: Informal Writing: Draft Four A's Due
 LOCATION:
 DESCRIPTION:
 PRIORITY:3
@@ -238,7 +238,7 @@ BEGIN:VEVENT
 UID:00000000-0000-0000-0000-00e8d4a51017
 DTSTAMP:20260924T000000Z
 DTSTART;VALUE=DATE:20260924
-SUMMARY:CIE100 Common Intellectual Experience: Participation: Euthyphro Writing Prompt Handed Out
+SUMMARY:CIE100 Common Intellectual Experience: Informal Writing: Euthyphro Writing Prompt Handed Out
 LOCATION:
 DESCRIPTION:
 PRIORITY:3
@@ -247,7 +247,7 @@ BEGIN:VEVENT
 UID:00000000-0000-0000-0000-00e8d4a51018
 DTSTAMP:20260929T000000Z
 DTSTART;VALUE=DATE:20260929
-SUMMARY:CIE100 Common Intellectual Experience: Participation: Euthyphro Writing Prompt Due
+SUMMARY:CIE100 Common Intellectual Experience: Informal Writing: Euthyphro Writing Prompt Due
 LOCATION:
 DESCRIPTION:
 PRIORITY:3
@@ -256,7 +256,7 @@ BEGIN:VEVENT
 UID:00000000-0000-0000-0000-00e8d4a51019
 DTSTAMP:20261001T000000Z
 DTSTART;VALUE=DATE:20261001
-SUMMARY:CIE100 Common Intellectual Experience: Participation: Between the World and Me Writing Prompt Handed Out
+SUMMARY:CIE100 Common Intellectual Experience: Informal Writing: Between the World and Me Writing Prompt Handed Out
 LOCATION:
 DESCRIPTION:
 PRIORITY:3
@@ -265,7 +265,7 @@ BEGIN:VEVENT
 UID:00000000-0000-0000-0000-00e8d4a5101a
 DTSTAMP:20261006T000000Z
 DTSTART;VALUE=DATE:20261006
-SUMMARY:CIE100 Common Intellectual Experience: Participation: Between the World and Me Writing Prompt Due
+SUMMARY:CIE100 Common Intellectual Experience: Informal Writing: Between the World and Me Writing Prompt Due
 LOCATION:
 DESCRIPTION:
 PRIORITY:3
@@ -274,7 +274,7 @@ BEGIN:VEVENT
 UID:00000000-0000-0000-0000-00e8d4a5101b
 DTSTAMP:20261006T000000Z
 DTSTART;VALUE=DATE:20261006
-SUMMARY:CIE100 Common Intellectual Experience: Writing: Essay 1 Final Draft Due
+SUMMARY:CIE100 Common Intellectual Experience: Essay 1: Final Draft Due
 LOCATION:
 DESCRIPTION:
 PRIORITY:3
@@ -283,7 +283,7 @@ BEGIN:VEVENT
 UID:00000000-0000-0000-0000-00e8d4a5101c
 DTSTAMP:20261015T000000Z
 DTSTART;VALUE=DATE:20261015
-SUMMARY:CIE100 Common Intellectual Experience: Writing: Essay 2 Handed Out
+SUMMARY:CIE100 Common Intellectual Experience: Essay 2 Handed Out
 LOCATION:
 DESCRIPTION:
 PRIORITY:3
@@ -310,7 +310,7 @@ BEGIN:VEVENT
 UID:00000000-0000-0000-0000-00e8d4a5101f
 DTSTAMP:20261020T000000Z
 DTSTART;VALUE=DATE:20261020
-SUMMARY:CIE100 Common Intellectual Experience: Writing: Essay 2 Thesis Statement, Quote List, and Rough Outline Due
+SUMMARY:CIE100 Common Intellectual Experience: Essay 2: Thesis Statement, Quote List, and Rough Outline Due
 LOCATION:
 DESCRIPTION:
 PRIORITY:3
@@ -328,7 +328,7 @@ BEGIN:VEVENT
 UID:00000000-0000-0000-0000-00e8d4a51021
 DTSTAMP:20261022T000000Z
 DTSTART;VALUE=DATE:20261022
-SUMMARY:CIE100 Common Intellectual Experience: Participation: Genesis Writing Prompt Handed Out
+SUMMARY:CIE100 Common Intellectual Experience: Informal Writing: Genesis Writing Prompt Handed Out
 LOCATION:
 DESCRIPTION:
 PRIORITY:3
@@ -337,7 +337,7 @@ BEGIN:VEVENT
 UID:00000000-0000-0000-0000-00e8d4a51022
 DTSTAMP:20261027T000000Z
 DTSTART;VALUE=DATE:20261027
-SUMMARY:CIE100 Common Intellectual Experience: Participation: Genesis Writing Prompt Due
+SUMMARY:CIE100 Common Intellectual Experience: Informal Writing: Genesis Writing Prompt Due
 LOCATION:
 DESCRIPTION:
 PRIORITY:3
@@ -346,7 +346,7 @@ BEGIN:VEVENT
 UID:00000000-0000-0000-0000-00e8d4a51023
 DTSTAMP:20261027T000000Z
 DTSTART;VALUE=DATE:20261027
-SUMMARY:CIE100 Common Intellectual Experience: Writing: Essay 2 First Draft Due
+SUMMARY:CIE100 Common Intellectual Experience: Essay 2: First Draft Due
 LOCATION:
 DESCRIPTION:
 PRIORITY:3
@@ -355,7 +355,7 @@ BEGIN:VEVENT
 UID:00000000-0000-0000-0000-00e8d4a51024
 DTSTAMP:20261029T000000Z
 DTSTART;VALUE=DATE:20261029
-SUMMARY:CIE100 Common Intellectual Experience: Participation: Darwin Writing Prompt Handed Out
+SUMMARY:CIE100 Common Intellectual Experience: Informal Writing: Darwin Writing Prompt Handed Out
 LOCATION:
 DESCRIPTION:
 PRIORITY:3
@@ -364,7 +364,7 @@ BEGIN:VEVENT
 UID:00000000-0000-0000-0000-00e8d4a51025
 DTSTAMP:20261029T000000Z
 DTSTART;VALUE=DATE:20261029
-SUMMARY:CIE100 Common Intellectual Experience: Participation: Draft Four A's Due
+SUMMARY:CIE100 Common Intellectual Experience: Informal Writing: Draft Four A's Due
 LOCATION:
 DESCRIPTION:
 PRIORITY:3
@@ -373,7 +373,7 @@ BEGIN:VEVENT
 UID:00000000-0000-0000-0000-00e8d4a51026
 DTSTAMP:20261103T000000Z
 DTSTART;VALUE=DATE:20261103
-SUMMARY:CIE100 Common Intellectual Experience: Participation: Darwin Writing Prompt Due
+SUMMARY:CIE100 Common Intellectual Experience: Informal Writing: Darwin Writing Prompt Due
 LOCATION:
 DESCRIPTION:
 PRIORITY:3
@@ -382,7 +382,7 @@ BEGIN:VEVENT
 UID:00000000-0000-0000-0000-00e8d4a51027
 DTSTAMP:20261105T000000Z
 DTSTART;VALUE=DATE:20261105
-SUMMARY:CIE100 Common Intellectual Experience: Participation: McPhee Writing Prompt Handed Out
+SUMMARY:CIE100 Common Intellectual Experience: Informal Writing: McPhee Writing Prompt Handed Out
 LOCATION:
 DESCRIPTION:
 PRIORITY:3
@@ -391,7 +391,7 @@ BEGIN:VEVENT
 UID:00000000-0000-0000-0000-00e8d4a51028
 DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261110
-SUMMARY:CIE100 Common Intellectual Experience: Participation: McPhee Writing Prompt Due
+SUMMARY:CIE100 Common Intellectual Experience: Informal Writing: McPhee Writing Prompt Due
 LOCATION:
 DESCRIPTION:
 PRIORITY:3
@@ -400,7 +400,7 @@ BEGIN:VEVENT
 UID:00000000-0000-0000-0000-00e8d4a51029
 DTSTAMP:20261112T000000Z
 DTSTART;VALUE=DATE:20261112
-SUMMARY:CIE100 Common Intellectual Experience: Participation: Deloria Writing Prompt Handed Out
+SUMMARY:CIE100 Common Intellectual Experience: Informal Writing: Deloria Writing Prompt Handed Out
 LOCATION:
 DESCRIPTION:
 PRIORITY:3
@@ -409,7 +409,7 @@ BEGIN:VEVENT
 UID:00000000-0000-0000-0000-00e8d4a5102a
 DTSTAMP:20261117T000000Z
 DTSTART;VALUE=DATE:20261117
-SUMMARY:CIE100 Common Intellectual Experience: Participation: Deloria Writing Prompt Due
+SUMMARY:CIE100 Common Intellectual Experience: Informal Writing: Deloria Writing Prompt Due
 LOCATION:
 DESCRIPTION:
 PRIORITY:3
@@ -418,7 +418,7 @@ BEGIN:VEVENT
 UID:00000000-0000-0000-0000-00e8d4a5102b
 DTSTAMP:20261117T000000Z
 DTSTART;VALUE=DATE:20261117
-SUMMARY:CIE100 Common Intellectual Experience: Writing: Essay 2 Final Draft Due
+SUMMARY:CIE100 Common Intellectual Experience: Essay 2: Final Draft Due
 LOCATION:
 DESCRIPTION:
 PRIORITY:3
@@ -427,7 +427,7 @@ BEGIN:VEVENT
 UID:00000000-0000-0000-0000-00e8d4a5102c
 DTSTAMP:20261119T000000Z
 DTSTART;VALUE=DATE:20261119
-SUMMARY:CIE100 Common Intellectual Experience: Participation: McLuhan Writing Prompt Handed Out
+SUMMARY:CIE100 Common Intellectual Experience: Informal Writing: McLuhan Writing Prompt Handed Out
 LOCATION:
 DESCRIPTION:
 PRIORITY:3
@@ -436,7 +436,7 @@ BEGIN:VEVENT
 UID:00000000-0000-0000-0000-00e8d4a5102d
 DTSTAMP:20261119T000000Z
 DTSTART;VALUE=DATE:20261119
-SUMMARY:CIE100 Common Intellectual Experience: Writing: Essay 3 Handed Out
+SUMMARY:CIE100 Common Intellectual Experience: Essay 3 Handed Out
 LOCATION:
 DESCRIPTION:
 PRIORITY:3
@@ -454,7 +454,7 @@ BEGIN:VEVENT
 UID:00000000-0000-0000-0000-00e8d4a5102f
 DTSTAMP:20261124T000000Z
 DTSTART;VALUE=DATE:20261124
-SUMMARY:CIE100 Common Intellectual Experience: Participation: McLuhan Writing Prompt Due
+SUMMARY:CIE100 Common Intellectual Experience: Informal Writing: McLuhan Writing Prompt Due
 LOCATION:
 DESCRIPTION:
 PRIORITY:3
@@ -472,7 +472,7 @@ BEGIN:VEVENT
 UID:00000000-0000-0000-0000-00e8d4a51031
 DTSTAMP:20261201T000000Z
 DTSTART;VALUE=DATE:20261201
-SUMMARY:CIE100 Common Intellectual Experience: Participation: The Machine Stops Writing Prompt Handed Out
+SUMMARY:CIE100 Common Intellectual Experience: Informal Writing: The Machine Stops Writing Prompt Handed Out
 LOCATION:
 DESCRIPTION:
 PRIORITY:3
@@ -481,7 +481,7 @@ BEGIN:VEVENT
 UID:00000000-0000-0000-0000-00e8d4a51032
 DTSTAMP:20261201T000000Z
 DTSTART;VALUE=DATE:20261201
-SUMMARY:CIE100 Common Intellectual Experience: Writing: Essay 3 First Draft Due
+SUMMARY:CIE100 Common Intellectual Experience: Essay 3: First Draft Due
 LOCATION:
 DESCRIPTION:
 PRIORITY:3
@@ -490,7 +490,7 @@ BEGIN:VEVENT
 UID:00000000-0000-0000-0000-00e8d4a51033
 DTSTAMP:20261203T000000Z
 DTSTART;VALUE=DATE:20261203
-SUMMARY:CIE100 Common Intellectual Experience: Participation: The Machine Stops Writing Prompt Due
+SUMMARY:CIE100 Common Intellectual Experience: Informal Writing: The Machine Stops Writing Prompt Due
 LOCATION:
 DESCRIPTION:
 PRIORITY:3
@@ -499,7 +499,7 @@ BEGIN:VEVENT
 UID:00000000-0000-0000-0000-00e8d4a51034
 DTSTAMP:20261203T000000Z
 DTSTART;VALUE=DATE:20261203
-SUMMARY:CIE100 Common Intellectual Experience: Participation: Writing Fellow Reflection Handed Out
+SUMMARY:CIE100 Common Intellectual Experience: Informal Writing: Writing Fellow Reflection Handed Out
 LOCATION:
 DESCRIPTION:
 PRIORITY:3
@@ -508,7 +508,7 @@ BEGIN:VEVENT
 UID:00000000-0000-0000-0000-00e8d4a51035
 DTSTAMP:20261208T000000Z
 DTSTART;VALUE=DATE:20261208
-SUMMARY:CIE100 Common Intellectual Experience: Participation: Writing Fellow Reflection Due
+SUMMARY:CIE100 Common Intellectual Experience: Informal Writing: Writing Fellow Reflection Due
 LOCATION:
 DESCRIPTION:
 PRIORITY:3
@@ -535,7 +535,7 @@ BEGIN:VEVENT
 UID:00000000-0000-0000-0000-00e8d4a51038
 DTSTAMP:20261208T000000Z
 DTSTART;VALUE=DATE:20261208
-SUMMARY:CIE100 Common Intellectual Experience: Writing: Essay 3 Final Draft Due
+SUMMARY:CIE100 Common Intellectual Experience: Essay 3: Final Draft Due
 LOCATION:
 DESCRIPTION:
 PRIORITY:3
