@@ -96,6 +96,7 @@ instructors:
 - name: Vienna Gurev
   title: Writing Fellow
   email: vigurev@ursinus.edu
+  officehours: []
   
 textbooks:
 - title: "CIE Reader (includes Plato's Allegory of the Cave and Euthyphro, Islamic Mystic Poetry, Darwin, McPhee, Deloria, McLuhan, and Forster selections)"
@@ -124,15 +125,15 @@ goals:
 - goal: "Students will become better writers."
 
 grade_breakdown:
-- category: "Essay 1 (1200-1500 words)"
+- category: "Essay 1"
   weight: "20%"
-- category: "Essay 2 (1200-1500 words)"
+- category: "Essay 2"
   weight: "20%"
-- category: "Essay 3 (1500-1800 words)"
+- category: "Essay 3"
   weight: "20%"
 - category: "In-Class Participation"
   weight: "30%"
-- category: "Informal Writing (pre-class/in-class)"
+- category: "Informal Writing"
   weight: "10%"
 
 letter_grades:
@@ -226,7 +227,7 @@ schedule:
         dlink: "Participation/Adichie"
         points: 10
         submission_types: "written"
-      - dtitle: "Participation: Thesis Workshop Handed Out"
+      - dtitle: "Participation: Thesis Workshop (Paper 1) Handed Out"
         dlink: "Participation/ThesisWorkshop"
         points: 10
         submission_types: "written"
@@ -244,7 +245,7 @@ schedule:
         points: 100
         submission_types: "written"
         rubricpath: "_pages/Assignments/asmt-essay1.md"
-      - dtitle: "Participation: Thesis Workshop Due"
+      - dtitle: "Participation: Thesis Workshop (Paper 1) Due"
         dlink: "Participation/ThesisWorkshop"
         points: 10
         submission_types: "written"
@@ -274,7 +275,7 @@ schedule:
         dlink: "Participation/Sappho"
         points: 10
         submission_types: "written"
-      - dtitle: "Participation: Evidence Workshop Handed Out"
+      - dtitle: "Participation: Evidence Workshop (Paper 1) Handed Out"
         dlink: "Participation/EvidenceWorkshop"
         points: 10
         submission_types: "written"
@@ -290,7 +291,7 @@ schedule:
     date: "0"
     title: "Sappho, Continued: Reconstruction and Interpretation"
     deliverables:
-      - dtitle: "Participation: Evidence Workshop Due"
+      - dtitle: "Participation: Evidence Workshop (Paper 1) Due"
         dlink: "Participation/EvidenceWorkshop"
         points: 10
         submission_types: "written"
@@ -309,7 +310,7 @@ schedule:
         dlink: "Participation/IslamicMysticPoetry"
         points: 10
         submission_types: "written"
-      - dtitle: "Informal Writing: Draft Four A's Handed Out"
+      - dtitle: "Informal Writing: Draft Four A's (Paper 1) Handed Out"
         dlink: "Participation/DraftFourAs"
         points: 10
         submission_types: "written"
@@ -333,7 +334,7 @@ schedule:
     date: "1"
     title: "Revision Workshop: From First Draft to Final Draft"
     deliverables:
-      - dtitle: "Informal Writing: Draft Four A's Due"
+      - dtitle: "Informal Writing: Draft Four A's (Paper 1) Due"
         dlink: "Participation/DraftFourAs"
         points: 10
         submission_types: "written"
@@ -397,7 +398,7 @@ schedule:
         points: 100
         rubricpath: "_pages/Assignments/asmt-essay2.md"
         submission_types: "written"
-      - dtitle: "Participation: Thesis Workshop Due"
+      - dtitle: "Participation: Thesis Workshop (Paper 2) Due"
         dlink: "Participation/ThesisWorkshop"
         points: 10
         submission_types: "written"
@@ -461,7 +462,7 @@ schedule:
         dlink: "Participation/Darwin"
         points: 10
         submission_types: "written"
-      - dtitle: "Informal Writing: Draft Four A's Due"
+      - dtitle: "Informal Writing: Draft Four A's (Paper 2) Due"
         dlink: "Participation/DraftFourAs"
         points: 10
         submission_types: "written"
@@ -547,7 +548,7 @@ schedule:
         points: 100
         submission_types: "written"
         rubricpath: "_pages/Assignments/asmt-essay3.md"
-      - dtitle: "Participation: Thesis Workshop Due"
+      - dtitle: "Participation: Thesis Workshop (Paper 3) Due"
         dlink: "Participation/ThesisWorkshop"
         points: 10
         submission_types: "written"
@@ -564,7 +565,7 @@ schedule:
         dlink: "Participation/McLuhan"
         points: 10
         submission_types: "written"
-      - dtitle: "Participation: Evidence Workshop Due"
+      - dtitle: "Participation: Evidence Workshop (Paper 3) Due"
         dlink: "Participation/EvidenceWorkshop"
         points: 10
         submission_types: "written"

@@ -121,7 +121,7 @@ BEGIN:VEVENT
 UID:00000000-0000-0000-0000-00e8d4a5100a
 DTSTAMP:20260901T000000Z
 DTSTART;VALUE=DATE:20260901
-SUMMARY:CIE100 Common Intellectual Experience: Participation: Thesis Workshop Handed Out
+SUMMARY:CIE100 Common Intellectual Experience: Participation: Thesis Workshop (Paper 1) Handed Out
 LOCATION:
 DESCRIPTION:
 PRIORITY:3
@@ -139,7 +139,7 @@ BEGIN:VEVENT
 UID:00000000-0000-0000-0000-00e8d4a5100c
 DTSTAMP:20260903T000000Z
 DTSTART;VALUE=DATE:20260903
-SUMMARY:CIE100 Common Intellectual Experience: Participation: Thesis Workshop Due
+SUMMARY:CIE100 Common Intellectual Experience: Participation: Thesis Workshop (Paper 1) Due
 LOCATION:
 DESCRIPTION:
 PRIORITY:3
@@ -166,7 +166,7 @@ BEGIN:VEVENT
 UID:00000000-0000-0000-0000-00e8d4a5100f
 DTSTAMP:20260910T000000Z
 DTSTART;VALUE=DATE:20260910
-SUMMARY:CIE100 Common Intellectual Experience: Participation: Evidence Workshop Handed Out
+SUMMARY:CIE100 Common Intellectual Experience: Participation: Evidence Workshop (Paper 1) Handed Out
 LOCATION:
 DESCRIPTION:
 PRIORITY:3
@@ -184,7 +184,7 @@ BEGIN:VEVENT
 UID:00000000-0000-0000-0000-00e8d4a51011
 DTSTAMP:20260915T000000Z
 DTSTART;VALUE=DATE:20260915
-SUMMARY:CIE100 Common Intellectual Experience: Participation: Evidence Workshop Due
+SUMMARY:CIE100 Common Intellectual Experience: Participation: Evidence Workshop (Paper 1) Due
 LOCATION:
 DESCRIPTION:
 PRIORITY:3
@@ -211,7 +211,7 @@ BEGIN:VEVENT
 UID:00000000-0000-0000-0000-00e8d4a51014
 DTSTAMP:20260917T000000Z
 DTSTART;VALUE=DATE:20260917
-SUMMARY:CIE100 Common Intellectual Experience: Informal Writing: Draft Four A's Handed Out
+SUMMARY:CIE100 Common Intellectual Experience: Informal Writing: Draft Four A's (Paper 1) Handed Out
 LOCATION:
 DESCRIPTION:
 PRIORITY:3
@@ -229,7 +229,7 @@ BEGIN:VEVENT
 UID:00000000-0000-0000-0000-00e8d4a51016
 DTSTAMP:20260924T000000Z
 DTSTART;VALUE=DATE:20260924
-SUMMARY:CIE100 Common Intellectual Experience: Informal Writing: Draft Four A's Due
+SUMMARY:CIE100 Common Intellectual Experience: Informal Writing: Draft Four A's (Paper 1) Due
 LOCATION:
 DESCRIPTION:
 PRIORITY:3
@@ -292,7 +292,7 @@ BEGIN:VEVENT
 UID:00000000-0000-0000-0000-00e8d4a5101d
 DTSTAMP:20261015T000000Z
 DTSTART;VALUE=DATE:20261015
-SUMMARY:CIE100 Common Intellectual Experience: Participation: Thesis Workshop Due
+SUMMARY:CIE100 Common Intellectual Experience: Participation: Thesis Workshop (Paper 2) Due
 LOCATION:
 DESCRIPTION:
 PRIORITY:3
@@ -364,7 +364,7 @@ BEGIN:VEVENT
 UID:00000000-0000-0000-0000-00e8d4a51025
 DTSTAMP:20261029T000000Z
 DTSTART;VALUE=DATE:20261029
-SUMMARY:CIE100 Common Intellectual Experience: Informal Writing: Draft Four A's Due
+SUMMARY:CIE100 Common Intellectual Experience: Informal Writing: Draft Four A's (Paper 2) Due
 LOCATION:
 DESCRIPTION:
 PRIORITY:3
@@ -445,7 +445,7 @@ BEGIN:VEVENT
 UID:00000000-0000-0000-0000-00e8d4a5102e
 DTSTAMP:20261119T000000Z
 DTSTART;VALUE=DATE:20261119
-SUMMARY:CIE100 Common Intellectual Experience: Participation: Thesis Workshop Due
+SUMMARY:CIE100 Common Intellectual Experience: Participation: Thesis Workshop (Paper 3) Due
 LOCATION:
 DESCRIPTION:
 PRIORITY:3
@@ -463,7 +463,7 @@ BEGIN:VEVENT
 UID:00000000-0000-0000-0000-00e8d4a51030
 DTSTAMP:20261124T000000Z
 DTSTART;VALUE=DATE:20261124
-SUMMARY:CIE100 Common Intellectual Experience: Participation: Evidence Workshop Due
+SUMMARY:CIE100 Common Intellectual Experience: Participation: Evidence Workshop (Paper 3) Due
 LOCATION:
 DESCRIPTION:
 PRIORITY:3
