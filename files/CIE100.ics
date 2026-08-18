@@ -660,9 +660,9 @@ BEGIN:VEVENT
 UID:00000000-0000-0000-0000-00e8d4a51044
 DTSTAMP:20260821T000000Z
 DTSTART;VALUE=DATE:20260821
-SUMMARY:CIE Common Event: Read-a-thon (Reading as Resistance) - 11:30 AM to 12:30 PM on the opening day of classes; our section reads on the Library 3rd floor
+SUMMARY:CIE Common Event: Read-a-thon (Reading as Resistance) - 11:45 AM to 12:30 PM on Friday, August 21, before classes begin; our section reads on the Library 3rd floor
 LOCATION:
-DESCRIPTION:CIE Common Event: Read-a-thon (Reading as Resistance) - 11:30 AM to 12:30 PM on the opening day of classes; our section reads on the Library 3rd floor
+DESCRIPTION:CIE Common Event: Read-a-thon (Reading as Resistance) - 11:45 AM to 12:30 PM on Friday, August 21, before classes begin; our section reads on the Library 3rd floor
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
