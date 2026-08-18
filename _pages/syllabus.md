@@ -188,8 +188,10 @@ schedule:
     readings:
       - rtitle: "All-CIE Opening Meeting: every CIE section gathers Friday, August 21, before the semester's regular class meetings begin (community building and course introduction; location and time to be announced); the Ice Breaker Reflection and the Allegory of the Cave writing prompt are handed out there (the Allegory prompt is also distributed with the pre-semester reading assignment)"
         rlink: false
-      - rtitle: "CIE Common Event on Friday, August 21, 11:30 AM-12:30 PM (all-CIE opening event, held the weekend before classes begin on Monday, August 24, and before our regular Tuesday/Thursday meetings start on August 25): the Read-a-thon, a college-wide sustained reading practice; our section reads together on the Library 3rd floor"
+      - rtitle: "CIE Common Event on Friday, August 21, 11:45 AM-12:30 PM (all-CIE opening event, held before classes begin on Monday, August 24, and before our regular Tuesday/Thursday meetings start on August 25): the Read-a-thon, \"Reading as Resistance\" - we discuss the practice of reading and then read together for 30 minutes; our section is assigned the Library 3rd floor"
         rlink: false
+      - rtitle: "Matt Renwick, \"Reading as an Act of Resistance\" - the post behind the Read-a-thon, on three reasons the practice of reading matters: it builds your capacity to pay attention to one thing, it improves your knowledge, language, and perspective, and it brings people together around a common cause"
+        rlink: "https://readbyexample.substack.com/p/reading-as-an-act-of-resistance"
       - rtitle: "Pre-semester reading: Plato, Allegory of the Cave (CIE Reader)"
         rlink: false
       - rtitle: "Plato, Allegory of the Cave (CIE Reader)"
@@ -656,7 +658,7 @@ university:
   - kname: "Finals Week Ends"
     kdate: "2026/12/16"
     kdisplay: false
-  - kname: "CIE Common Event: Read-a-thon (Reading as Resistance) - 11:30 AM to 12:30 PM on the opening day of classes; our section reads on the Library 3rd floor"
+  - kname: "CIE Common Event: Read-a-thon (Reading as Resistance) - 11:45 AM to 12:30 PM on Friday, August 21, before classes begin; our section reads on the Library 3rd floor"
     kdate: "2026/08/21"
     kdisplay: false
   - kname: "CIE Common Event: Sport and Humanity Hub - 1:30 to 2:30 PM (Wednesday common hours)"
@@ -812,11 +814,11 @@ As the instructor of this course, I strive to provide an inclusive learning envi
 
 ### **Common Events**
 
-CIE Common Events are mandatory for all CIE students and faculty, and attendance at them is part of the fourth credit hour of the course. Two of this fall's events are held during the extended Wednesday afternoon Common hours, so they do not conflict with our Tuesday/Thursday meetings, and the semester opens with an event on the first day of classes. The November event is different: it is a student docent-led tour that our section takes together during our own class period, so we meet at the Berman Museum on Tuesday, November 17 rather than in Pfahler 208. Specific details about each event will be sent to all CIE students and faculty beforehand, and I will confirm times and locations as they are finalized. The Fall 2026 events are:
+CIE Common Events are mandatory for all CIE students and faculty, and attendance at them is part of the fourth credit hour of the course. Two of this fall's events are held during the extended Wednesday afternoon Common hours, so they do not conflict with our Tuesday/Thursday meetings, and the semester opens with an event on Friday, August 21, before classes begin. The November event is different: it is a student docent-led tour that our section takes together during our own class period, so we meet at the Berman Museum on Tuesday, November 17 rather than in Pfahler 208. Specific details about each event will be sent to all CIE students and faculty beforehand, and I will confirm times and locations as they are finalized. The Fall 2026 events are:
 
 | Event | Date and Time | Location |
 | --- | --- | --- |
-| **Read-a-thon** — a college-wide sustained reading practice to open the semester. Our section reads together on the Library 3rd floor. | Friday, August 21, 11:30 AM–12:30 PM (opening day, before regular classes begin) | Library, 3rd floor (our section) |
+| **Read-a-thon: "Reading as Resistance"** — a college-wide sustained reading practice to open the semester, framed by Matt Renwick's [Reading as an Act of Resistance](https://readbyexample.substack.com/p/reading-as-an-act-of-resistance). We discuss the practice of reading, then read together for 30 minutes. | Friday, August 21, 11:45 AM–12:30 PM (before classes begin Monday, August 24) | Library, 3rd floor (our section) |
 | **Sport and Humanity Hub** | Wednesday, September 23, 1:30–2:30 PM | To be announced |
 | **Banned Books Panel** — a conversation on intellectual freedom and the fight against censorship, marking Banned Books Week. | Wednesday, October 14, 1:30–2:30 PM | Bomberger Auditorium |
 | **Student docent-led exhibition tour** (Center for Humanities in Action) — a [Berman Museum](https://www.ursinus.edu/berman/exhibitions/) tour we take as a class, connecting the exhibition to Deloria's *God Is Red*. The exhibition on view and the confirmed tour time will be announced closer to the date. | Tuesday, November 17, during our 1:30–2:45 PM class period (event week of November 16–20) | The Berman Museum of Art |
