@@ -186,9 +186,9 @@ schedule:
         points: 10
         submission_types: "written"
     readings:
-      - rtitle: "All-CIE Opening Meeting: every CIE section gathers Friday, August 21, before the semester's regular class meetings begin (community building and course introduction; location and time to be announced); the Ice Breaker Reflection and the Allegory of the Cave writing prompt are handed out there (the Allegory prompt is also distributed with the pre-semester reading assignment)"
+      - rtitle: "All-CIE Opening Meeting on Friday, August 21, 10:15-11:30 AM in Pfahler 208, our regular classroom (community building and course introduction, held before the semester's regular class meetings begin); the Ice Breaker Reflection and the Allegory of the Cave writing prompt are handed out there (the Allegory prompt is also distributed with the pre-semester reading assignment)"
         rlink: false
-      - rtitle: "CIE Common Event on Friday, August 21, 11:45 AM-12:30 PM (all-CIE opening event, held before classes begin on Monday, August 24, and before our regular Tuesday/Thursday meetings start on August 25): the Read-a-thon, \"Reading as Resistance\" - we discuss the practice of reading and then read together for 30 minutes; our section is assigned the Library 3rd floor"
+      - rtitle: "CIE Common Event on Friday, August 21, 11:45 AM-12:30 PM, immediately following our 10:15-11:30 AM meeting (all-CIE opening event, held before classes begin on Monday, August 24, and before our regular Tuesday/Thursday meetings start on August 25): the Read-a-thon, \"Reading as Resistance\" - we discuss the practice of reading in Pfahler 208, then walk over to our assigned space on the Library 3rd floor and read together for 30 minutes"
         rlink: false
       - rtitle: "Matt Renwick, \"Reading as an Act of Resistance\" - the post behind the Read-a-thon, on three reasons the practice of reading matters: it builds your capacity to pay attention to one thing, it improves your knowledge, language, and perspective, and it brings people together around a common cause"
         rlink: "https://readbyexample.substack.com/p/reading-as-an-act-of-resistance"
@@ -818,7 +818,7 @@ CIE Common Events are mandatory for all CIE students and faculty, and attendance
 
 | Event | Date and Time | Location |
 | --- | --- | --- |
-| **Read-a-thon: "Reading as Resistance"** — a college-wide sustained reading practice to open the semester, framed by Matt Renwick's [Reading as an Act of Resistance](https://readbyexample.substack.com/p/reading-as-an-act-of-resistance). We discuss the practice of reading, then read together for 30 minutes. | Friday, August 21, 11:45 AM–12:30 PM (before classes begin Monday, August 24) | Library, 3rd floor (our section) |
+| **Read-a-thon: "Reading as Resistance"** — a college-wide sustained reading practice to open the semester, framed by Matt Renwick's [Reading as an Act of Resistance](https://readbyexample.substack.com/p/reading-as-an-act-of-resistance). We discuss the practice of reading, then read together for 30 minutes. | Friday, August 21, 11:45 AM–12:30 PM, directly after our 10:15–11:30 AM meeting in Pfahler 208 (all before classes begin Monday, August 24) | Library, 3rd floor (our section) |
 | **Sport and Humanity Hub** | Wednesday, September 23, 1:30–2:30 PM | To be announced |
 | **Banned Books Panel** — a conversation on intellectual freedom and the fight against censorship, marking Banned Books Week. | Wednesday, October 14, 1:30–2:30 PM | Bomberger Auditorium |
 | **Student docent-led exhibition tour** (Center for Humanities in Action) — a [Berman Museum](https://www.ursinus.edu/berman/exhibitions/) tour we take as a class, connecting the exhibition to Deloria's *God Is Red*. The exhibition on view and the confirmed tour time will be announced closer to the date. | Tuesday, November 17, during our 1:30–2:45 PM class period (event week of November 16–20) | The Berman Museum of Art |
