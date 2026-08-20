@@ -107,6 +107,11 @@ textbooks:
   authors: "CIE Coordinators, editors"
   link: https://www.ursinus.edu/internal/cie/
   isrequired: true 
+- title: "Plato, Allegory of the Cave (selection from Republic, Book VII; also included in the CIE Reader)"
+  authors: "Plato"
+  link: "https://ursinuscollege365.sharepoint.com/sites/Internal/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FInternal%2FShared%20Documents%2FAllegory%2Dof%2Dthe%2DCave%2Epdf&parent=%2Fsites%2FInternal%2FShared%20Documents&p=true&ga=1"
+  freelyavailable: "https://ursinuscollege365.sharepoint.com/sites/Internal/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FInternal%2FShared%20Documents%2FAllegory%2Dof%2Dthe%2DCave%2Epdf&parent=%2Fsites%2FInternal%2FShared%20Documents&p=true&ga=1"
+  isrequired: true
 - title: "Dear Ijeawele, or a Feminist Manifesto in Fifteen Suggestions"
   authors: "Adichie, Chimamanda Ngozi (New York, Anchor Books, 2017; ISBN 9780525434801)"
   link: https://www.ursinus.edu/internal/cie/
