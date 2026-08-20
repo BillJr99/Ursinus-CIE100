@@ -174,24 +174,11 @@ letter_grades:
   range: "0-59.49" 
 
 schedule:
-  - week: "0"
-    date: "0"
-    title: "Plato, Allegory of the Cave: Close Reading Workshop (Shadows, Screens, and the Ascent)"
+  - cdate: "2026/08/21"
+    title: "Convocation and Common Event"
     deliverables:
       - dtitle: "Informal Writing: Ice Breaker Reflection Handed Out"
         dlink: "Participation/IceBreaker"
-        points: 10
-        submission_types: "written"
-      - dtitle: "Informal Writing: Allegory of the Cave Writing Prompt Handed Out"
-        dlink: "Participation/Allegory"
-        points: 10
-        submission_types: "written"
-      - dtitle: "Participation: Class Participation and Discussion Handed Out"
-        dlink: "Participation/PreparingForDiscussion"
-        points: 10
-        submission_types: "written"
-      - dtitle: "Participation: The Machine Question Handed Out"
-        dlink: "Participation/MachineQuestion"
         points: 10
         submission_types: "written"
     readings:
@@ -203,6 +190,25 @@ schedule:
         rlink: "https://readbyexample.substack.com/p/reading-as-an-act-of-resistance"
       - rtitle: "Pre-semester reading: Plato, Allegory of the Cave (CIE Reader)"
         rlink: false
+  - week: "0"
+    date: "0"
+    title: "Plato, Allegory of the Cave: Close Reading Workshop (Shadows, Screens, and the Ascent)"
+    deliverables:
+      - dtitle: "Informal Writing: Allegory of the Cave Writing Prompt Handed Out"
+        dlink: "Participation/Allegory"
+        points: 10
+        submission_types: "written"
+      - dtitle: "Participation: Class Participation and Discussion Handed Out"
+        dlink: "Participation/PreparingForDiscussion"
+        points: 10
+        submission_types: "written"
+        module: overarching
+      - dtitle: "Participation: The Machine Question Handed Out"
+        dlink: "Participation/MachineQuestion"
+        points: 10
+        submission_types: "written"
+        module: overarching
+    readings:
       - rtitle: "Plato, Allegory of the Cave (CIE Reader)"
         rlink: false
       - rtitle: "In class: close reading workshop — reading in passes, marking anchor passages, and annotating for discussion, using the Allegory of the Cave"
