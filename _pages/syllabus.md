@@ -833,10 +833,10 @@ CIE Common Events are mandatory for all CIE students and faculty, and attendance
 
 | Event | Date and Time | Location |
 | --- | --- | --- |
-| **Read-a-thon: "Reading as Resistance"** — a college-wide sustained reading practice to open the semester, framed by Matt Renwick's [Reading as an Act of Resistance](https://readbyexample.substack.com/p/reading-as-an-act-of-resistance). We discuss the practice of reading, then read together for 30 minutes. | Friday, August 21, 11:45 AM–12:30 PM, directly after our 10:15–11:30 AM meeting in Pfahler 208 (all before classes begin Monday, August 24) | Library, 3rd floor (our section) |
-| **Sport and Humanity Hub** | Wednesday, September 23, 1:30–2:30 PM | To be announced |
-| **Banned Books Panel** — a conversation on intellectual freedom and the fight against censorship, marking Banned Books Week. | Wednesday, October 14, 1:30–2:30 PM | Bomberger Auditorium |
-| **Student docent-led exhibition tour** (Center for Humanities in Action) — a [Berman Museum](https://www.ursinus.edu/berman/exhibitions/) tour we take as a class, connecting the exhibition to Deloria's *God Is Red*. The exhibition on view and the confirmed tour time will be announced closer to the date. | Tuesday, November 17, during our 1:30–2:45 PM class period (event week of November 16–20) | The Berman Museum of Art |
+| **Read-a-thon: "Reading as Resistance"** — a college-wide sustained reading practice to open the semester, framed by Matt Renwick's [Reading as an Act of Resistance](https://readbyexample.substack.com/p/reading-as-an-act-of-resistance). We discuss the practice of reading, then read together for 30 minutes. | Friday, August 21, 11:45 AM–12:30 PM, directly after our 10:15-11:30 AM meeting in Pfahler 208 (all before classes begin Monday, August 24) | Library, 3rd floor (our section) |
+| **Sport and Humanity Hub** | Wednesday, September 23, 1:30-2:30 PM | To be announced |
+| **Banned Books Panel** — a conversation on intellectual freedom and the fight against censorship, marking Banned Books Week. | Wednesday, October 14, 1:30-2:30 PM | Bomberger Auditorium |
+| **Student docent-led exhibition tour** (Center for Humanities in Action) — a [Berman Museum](https://www.ursinus.edu/berman/exhibitions/) tour we take as a class, connecting the exhibition to Deloria's *God Is Red*. The exhibition on view and the confirmed tour time will be announced closer to the date. | Tuesday, November 17, during our 1:30-2:45 PM class period (event week of November 16-20) | The Berman Museum of Art |
 
 ### **Resources**
 
