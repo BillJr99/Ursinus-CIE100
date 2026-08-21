@@ -29,7 +29,7 @@ Keep a dedicated **"Machine Question"** section in the commonplace book you are 
 
 ## Criteria
 
-This strand carries **10 points**, recorded at the end of the semester and assessed within the **Informal Writing (10%)** category as part of your commonplace book, at the midterm commonplace check and at the semester's end. There is no new grade category; what I am looking for is the habit itself — a strand of entries that shows you carrying the question from text to text.
+This strand carries **10 points**, recorded at the end of the semester and assessed within the **Informal Writing (10%)** category as part of your commonplace book, at the midterm commonplace check and at the semester's end. There is no new grade category; what I am looking for is the habit itself: a strand of entries that shows you carrying the question from text to text.
 
 ## The Semester Map
 
@@ -55,10 +55,10 @@ Each unit gives the Machine Question a different angle. Use this map to orient e
 For each unit, add one entry to the Machine Question section of your commonplace book containing three things:
 
 1. **One quotation from the text** (with a page or line reference), chosen because it speaks to that unit's angle in the map above.
-2. **One "sighting in the wild"**: something from your own week — a notification, a feed, a policy, a headline, an ad, an overheard remark about an app — that rhymes with the quotation.
+2. **One "sighting in the wild"**: something from your own week (a notification, a feed, a policy, a headline, an ad, an overheard remark about an app) that rhymes with the quotation.
 3. **One sentence of your own AI-critique** connecting them: a single sentence in which you say what the ancient text sees about the modern machine, or what the machine reveals about the text.
 
-If you prefer, an entry may take the form of a miniature [Four A's](https://www.billmongan.com/Ursinus-CIE100-Fall2026/Participation/FourAs): one sentence per "A" — assumption, agreement, argument, aspiration — about the machine-mediated "sighting," still anchored by the unit's quotation.
+If you prefer, an entry may take the form of a miniature [Four A's](https://www.billmongan.com/Ursinus-CIE100-Fall2026/Participation/FourAs): one sentence per "A" (assumption, agreement, argument, aspiration) about the machine-mediated "sighting," still anchored by the unit's quotation.
 
 Entries are reviewed at the **midterm commonplace check** and again at the **semester's end**, alongside the rest of your commonplace book.
 
@@ -68,10 +68,10 @@ After the Forster unit's design-fiction finale, write a one-page commonplace ent
 
 ## A Note on the AI Policy
 
-To restate the course policy explicitly: **this strand asks you to think *about* machines, never to have a machine think *for* you.** No generative AI tool may produce any part of your prose, in this strand or anywhere else in the course. The Machine Question is an exercise in critique — your one sentence of AI-critique per unit must be exactly that: yours.
+To restate the course policy explicitly: **this strand asks you to think *about* machines, never to have a machine think *for* you.** No generative AI tool may produce any part of your prose, in this strand or anywhere else in the course. The Machine Question is an exercise in critique, and your one sentence of AI-critique per unit must be exactly that: yours.
 
 ## Formats (UDL)
 
-You may render your entries as prose, as annotated sketches, or as clipped-and-annotated artifacts (a printed screenshot, a taped-in headline, a photographed poster — annotated in your own hand or your own words). Whatever the format, each entry still needs its three parts: the quotation, the sighting, and your one connecting sentence.
+You may render your entries as prose, as annotated sketches, or as clipped-and-annotated artifacts (a printed screenshot, a taped-in headline, a photographed poster, annotated in your own hand or your own words). Whatever the format, each entry still needs its three parts: the quotation, the sighting, and your one connecting sentence.
 
 See also: [How to Read Hard Texts in CIE](https://www.billmongan.com/Ursinus-CIE100-Fall2026/Participation/ReadingHardTexts) for the three-pass reading strategy and quote-harvesting habits that feed this strand.
