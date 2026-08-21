@@ -211,7 +211,7 @@ schedule:
     readings:
       - rtitle: "Plato, Allegory of the Cave (CIE Reader)"
         rlink: false
-      - rtitle: "In class: close reading workshop — reading in passes, marking anchor passages, and annotating for discussion, using the Allegory of the Cave"
+      - rtitle: "In class: close reading workshop, reading in passes, marking anchor passages, and annotating for discussion, using the Allegory of the Cave"
         rlink: false
       - rtitle: "Center for Writing and Speaking: Reading to Write"
         rlink: "https://www.ursinus.edu/live/files/4030-reading-to-write-ppt-001"
@@ -746,9 +746,9 @@ Our section is fortunate to be paired with Writing Fellow Vienna Gurev ([vigurev
 
 ### **Attendance and Class Engagement**
 
-You may miss **four class meetings for any reason** without any penalty beyond the participation you can only earn by being in the room (see [In-Class Participation](#participation) below). Please save these four for genuine illness and emergency. **Excused absences do not count against this allowance:** a documented illness or family emergency, a religious observance arranged with me in advance, and college-sanctioned obligations such as athletics or an approved conference are excused. Tell me as early as you can — in advance whenever the reason is foreseeable — so we can plan for what you will miss.
+You may miss **four class meetings for any reason** without any penalty beyond the participation you can only earn by being in the room (see [In-Class Participation](#participation) below). Please save these four for genuine illness and emergency. **Excused absences do not count against this allowance:** a documented illness or family emergency, a religious observance arranged with me in advance, and college-sanctioned obligations such as athletics or an approved conference are excused. Tell me as early as you can, in advance whenever the reason is foreseeable, so we can plan for what you will miss.
 
-Beyond four absences, each **unexcused** absence subtracts **10 of the 30 points** of your in-class participation grade — that is, ten percentage points of your final course grade — and these subtractions accumulate: a fifth unexcused absence costs 10 points, a sixth costs 20 points, and a seventh removes the entire 30-point participation grade. I would far rather help than deduct. At five absences I will issue an academic early alert so your advisor knows what is going on, and I ask you to reach out so we can make a plan for how you will continue to succeed in the class. At six I will issue another alert and ask you to meet with me, because more than six missed classes puts you at risk of failing the course; we will talk through the possibilities together. If the college cancels class for weather or another closure, that does not count as an absence; but if campus is open and class is held, you must make a good effort to be present. A lateness or an early departure counts as one-half of an absence for the purposes of this policy.
+Beyond four absences, each **unexcused** absence subtracts **10 of the 30 points** of your in-class participation grade (ten percentage points of your final course grade), and these subtractions accumulate: a fifth unexcused absence costs 10 points, a sixth costs 20 points, and a seventh removes the entire 30-point participation grade. I would far rather help than deduct. At five absences I will issue an academic early alert so your advisor knows what is going on, and I ask you to reach out so we can make a plan for how you will continue to succeed in the class. At six I will issue another alert and ask you to meet with me, because more than six missed classes puts you at risk of failing the course; we will talk through the possibilities together. If the college cancels class for weather or another closure, that does not count as an absence; but if campus is open and class is held, you must make a good effort to be present. A lateness or an early departure counts as one-half of an absence for the purposes of this policy.
 
 ### **Assessment**
 
@@ -776,28 +776,28 @@ The scaffolded deliverables and drafts for each essay fall on the dates below (a
 
 #### In-Class Participation (30%) {#participation}
 
-This is a discussion seminar: your voice is the course material as much as the texts are, and the section's thinking is something we build together, one meeting at a time. This component has two halves that answer two different questions — *were you here and contributing?* and *how well?* The [Preparing for Discussion](Participation/PreparingForDiscussion) guide is designed so that no one has to improvise their way into the conversation; read it before the first discussion and return to it whenever a text resists you.
+This is a discussion seminar: your voice is the course material as much as the texts are, and the section's thinking is something we build together, one meeting at a time. This component has two halves that answer two different questions: *were you here and contributing?* and *how well?* The [Preparing for Discussion](Participation/PreparingForDiscussion) guide is designed so that no one has to improvise their way into the conversation; read it before the first discussion and return to it whenever a text resists you.
 
-**Daily meaningful participation — about half of the 30 points.** You earn **half a point toward your final grade for each class meeting in which you contribute meaningfully**, which comes to roughly fourteen to fifteen points across the semester's discussions. "Meaningful" is deliberately broad, because good discussion needs more than one kind of voice, and because students arrive ready to contribute in different ways — this is the principle of Universal Design that the whole course is built on. Any of these earns the day's credit:
+**Daily meaningful participation: about half of the 30 points.** You earn **half a point toward your final grade for each class meeting in which you contribute meaningfully**, which comes to roughly fourteen to fifteen points across the semester's discussions. "Meaningful" is deliberately broad, because good discussion needs more than one kind of voice, and because students arrive ready to contribute in different ways. This is the principle of Universal Design that the whole course is built on. Any of these earns the day's credit:
 
 - offering an idea, a reading of a passage, or a genuine question about the text;
 - building on, extending, or respectfully complicating a classmate's point;
 - bringing your pre-class writing or a harvested quotation into the room when it fits;
 - taking a turn in one of the rotating discussion roles below;
-- contributing through whatever channel we are using that day — a shared document, a written thread, or an exit note — when speaking aloud is not where your best thinking lands.
+- contributing through whatever channel we are using that day (a shared document, a written thread, or an exit note) when speaking aloud is not where your best thinking lands.
 
 A quiet day is not a penalty so much as an unearned half-point, and the goal is a semester in which you rarely leave one on the table.
 
-**Quality of engagement — the other half.** The remaining points reflect the *depth* of your contributions across the term, assessed holistically against the rubric below at midterm and again at the end. I tell you where you stand at midterm, and you complete a short self-assessment at both points (in the [Preparing for Discussion](Participation/PreparingForDiscussion) guide), so that your own sense of your growth is part of the grade and there are no surprises.
+**Quality of engagement: the other half.** The remaining points reflect the *depth* of your contributions across the term, assessed holistically against the rubric below at midterm and again at the end. I tell you where you stand at midterm, and you complete a short self-assessment at both points (in the [Preparing for Discussion](Participation/PreparingForDiscussion) guide), so that your own sense of your growth is part of the grade and there are no surprises.
 
 | Dimension | Pre-Emerging | Beginning | Progressing | Proficient |
 | --- | --- | --- | --- | --- |
 | **Preparation** | Arrives without having read | Has read but comes with nothing to say about it | Has read and marked passages; arrives with a reaction | Arrives with anchor passages and at least one real question, ready to point to the text |
-| **Contribution** | Rarely speaks or contributes | Contributes when called on | Volunteers ideas and questions regularly | Advances the discussion — names a tension, tests a claim, or opens a line others take up |
+| **Contribution** | Rarely speaks or contributes | Contributes when called on | Volunteers ideas and questions regularly | Advances the discussion: names a tension, tests a claim, or opens a line others take up |
 | **Listening & building** | Talks past others or waits only to speak | Responds to the instructor but not to peers | Builds on classmates by name | Synthesizes across several voices and draws quieter classmates in |
 | **Intellectual risk** | Avoids taking positions | States safe or obvious positions | Takes a position and supports it | Ventures an unsettled idea, changes their mind in public, or argues a view they find hard |
 
-**Rotating discussion roles.** So that participation takes more than one form, we rotate four structured roles — **facilitator, evidence keeper, devil's advocate, and connector**. Each gives you a concrete job in the conversation and a different way to contribute; the [Discussion Roles](Participation/DiscussionRoles) page explains what each one does and how to prepare for it.
+**Rotating discussion roles.** So that participation takes more than one form, we rotate four structured roles: **facilitator, evidence keeper, devil's advocate, and connector**. Each gives you a concrete job in the conversation and a different way to contribute; the [Discussion Roles](Participation/DiscussionRoles) page explains what each one does and how to prepare for it.
 
 #### Informal Writing (10%)
 
@@ -833,10 +833,10 @@ CIE Common Events are mandatory for all CIE students and faculty, and attendance
 
 | Event | Date and Time | Location |
 | --- | --- | --- |
-| **Read-a-thon: "Reading as Resistance"** — a college-wide sustained reading practice to open the semester, framed by Matt Renwick's [Reading as an Act of Resistance](https://readbyexample.substack.com/p/reading-as-an-act-of-resistance). We discuss the practice of reading, then read together for 30 minutes. | Friday, August 21, 11:45 AM–12:30 PM, directly after our 10:15-11:30 AM meeting in Pfahler 208 (all before classes begin Monday, August 24) | Library, 3rd floor (our section) |
+| **Read-a-thon: "Reading as Resistance"**, a college-wide sustained reading practice to open the semester, framed by Matt Renwick's [Reading as an Act of Resistance](https://readbyexample.substack.com/p/reading-as-an-act-of-resistance). We discuss the practice of reading, then read together for 30 minutes. | Friday, August 21, 11:45 AM-12:30 PM, directly after our 10:15-11:30 AM meeting in Pfahler 208 (all before classes begin Monday, August 24) | Library, 3rd floor (our section) |
 | **Sport and Humanity Hub** | Wednesday, September 23, 1:30-2:30 PM | To be announced |
-| **Banned Books Panel** — a conversation on intellectual freedom and the fight against censorship, marking Banned Books Week. | Wednesday, October 14, 1:30-2:30 PM | Bomberger Auditorium |
-| **Student docent-led exhibition tour** (Center for Humanities in Action) — a [Berman Museum](https://www.ursinus.edu/berman/exhibitions/) tour we take as a class, connecting the exhibition to Deloria's *God Is Red*. The exhibition on view and the confirmed tour time will be announced closer to the date. | Tuesday, November 17, during our 1:30-2:45 PM class period (event week of November 16-20) | The Berman Museum of Art |
+| **Banned Books Panel**, a conversation on intellectual freedom and the fight against censorship, marking Banned Books Week. | Wednesday, October 14, 1:30-2:30 PM | Bomberger Auditorium |
+| **Student docent-led exhibition tour** (Center for Humanities in Action), a [Berman Museum](https://www.ursinus.edu/berman/exhibitions/) tour we take as a class, connecting the exhibition to Deloria's *God Is Red*. The exhibition on view and the confirmed tour time will be announced closer to the date. | Tuesday, November 17, during our 1:30-2:45 PM class period (event week of November 16-20) | The Berman Museum of Art |
 
 ### **Resources**
 
