@@ -20,9 +20,9 @@ tags:
 
 In this writing prompt, you will consider the questions below and respond in marginalia form, equivalent in length to a 1-2 paragraph response. Choose two short passages from the reading and write rich marginal annotations for each: an observation, a question, and a connection, quoting the passage you are annotating. Then distill your reading into one aphorism of your own, and add one counterargument note, supported by a quote, against your own aphorism. Submit your annotations and aphorism through Canvas before the start of class.
 
-UDL choice: this genre is the default for this reading, and it applies to Questions 1 and 3, where you may swap in any of the five response genres (analytic, letter, dialogue, marginalia+aphorism, or the [Four A's](https://www.billmongan.com/Ursinus-CIE100-Fall2026/Participation/FourAs)) as long as the quote and counterargument requirements are met. The remaining question asks for a specific artifact that we use in class, so submit that one in the form described.
+UDL choice: this genre is the default for this reading, and it applies to Questions 1 and 3, where you may swap in any of the five response genres (analytic, letter, dialogue, marginalia+aphorism, or the [Four A's]({{ site.baseurl }}/Participation/FourAs)) as long as the quote and counterargument requirements are met. The remaining question asks for a specific artifact that we use in class, so submit that one in the form described.
 
-Struggling with the reading itself? See the guide: [How to Read Hard Texts in CIE](https://www.billmongan.com/Ursinus-CIE100-Fall2026/Participation/ReadingHardTexts).
+Struggling with the reading itself? See the guide: [How to Read Hard Texts in CIE]({{ site.baseurl }}/Participation/ReadingHardTexts).
 
 ## Writing Prompt
 

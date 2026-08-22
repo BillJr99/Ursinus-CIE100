@@ -34,7 +34,7 @@ The roles exist for two reasons. First, they distribute the labor of a good disc
 
 ##### Facilitator
 
-**What you do:** open the discussion and keep it moving. You arrive with two or three real questions (see the [Preparing for Discussion](https://www.billmongan.com/Ursinus-CIE100-Fall2026/Participation/PreparingForDiscussion) guide on growing a question from a quotation), you invite specific people in, especially quieter voices, and you notice when the conversation has exhausted a thread and needs a new one.
+**What you do:** open the discussion and keep it moving. You arrive with two or three real questions (see the [Preparing for Discussion]({{ site.baseurl }}/Participation/PreparingForDiscussion) guide on growing a question from a quotation), you invite specific people in, especially quieter voices, and you notice when the conversation has exhausted a thread and needs a new one.
 
 **How to prepare:** write your questions in advance and sequence them from concrete ("what is actually happening in this passage?") to interpretive ("what does it mean?") to evaluative ("is it right? do we agree?"). Have one more question than you think you will need. Your job is not to have the answers; it is to make sure the room keeps asking.
 
@@ -48,7 +48,7 @@ The roles exist for two reasons. First, they distribute the labor of a good disc
 
 **What you do:** keep the discussion from agreeing too easily. When the room converges, you voice the strongest objection: the counter-position a thoughtful dissenter would actually hold. You steelman the view no one in the room is defending.
 
-**How to prepare:** use the *steelman the other side* exercise from the [Preparing for Discussion](https://www.billmongan.com/Ursinus-CIE100-Fall2026/Participation/PreparingForDiscussion) guide. Write the best version of the argument against wherever you expect the class to land, anchored in at least one line from the text. The rule of this role is that your objection must be one a careful reader could genuinely hold: sincerity, not contrarianism.
+**How to prepare:** use the *steelman the other side* exercise from the [Preparing for Discussion]({{ site.baseurl }}/Participation/PreparingForDiscussion) guide. Write the best version of the argument against wherever you expect the class to land, anchored in at least one line from the text. The rule of this role is that your objection must be one a careful reader could genuinely hold: sincerity, not contrarianism.
 
 ##### Connector
 
@@ -62,9 +62,9 @@ Roles rotate so that everyone holds each one several times across the semester; 
 
 #### How Role Performance Counts
 
-Serving in a role well is one of the clearest ways to earn both halves of your participation grade: it is a meaningful contribution on the day (the daily half-point) and it demonstrates the *quality* dimensions (preparation, contribution, listening and building, and intellectual risk) that the [participation rubric](https://www.billmongan.com/Ursinus-CIE100-Fall2026/Participation/PreparingForDiscussion) rewards. A facilitator who sequences good questions, an evidence keeper who grounds the room, a devil's advocate who steelmans in earnest, and a connector who ties the threads together are all, in different ways, doing exactly what the rubric describes at its proficient level.
+Serving in a role well is one of the clearest ways to earn both halves of your participation grade: it is a meaningful contribution on the day (the daily half-point) and it demonstrates the *quality* dimensions (preparation, contribution, listening and building, and intellectual risk) that the [participation rubric]({{ site.baseurl }}/Participation/PreparingForDiscussion) rewards. A facilitator who sequences good questions, an evidence keeper who grounds the room, a devil's advocate who steelmans in earnest, and a connector who ties the threads together are all, in different ways, doing exactly what the rubric describes at its proficient level.
 
 #### See also
 
-- [Preparing for Discussion and How Participation Works](https://www.billmongan.com/Ursinus-CIE100-Fall2026/Participation/PreparingForDiscussion): the routine, the exercises, and the rubric.
-- [How to Read Hard Texts in CIE](https://www.billmongan.com/Ursinus-CIE100-Fall2026/Participation/ReadingHardTexts): getting through the reading itself.
+- [Preparing for Discussion and How Participation Works]({{ site.baseurl }}/Participation/PreparingForDiscussion): the routine, the exercises, and the rubric.
+- [How to Read Hard Texts in CIE]({{ site.baseurl }}/Participation/ReadingHardTexts): getting through the reading itself.

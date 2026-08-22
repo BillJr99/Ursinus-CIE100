@@ -39,7 +39,7 @@ The design assumes that participation is a practice you improve at, not a fixed 
 
 ## A Repeatable Routine for Preparing
 
-Run this before each discussion. It takes the reading you were going to do anyway and turns it into things to say. It pairs with [How to Read Hard Texts in CIE](https://www.billmongan.com/Ursinus-CIE100-Fall2026/Participation/ReadingHardTexts), which is about getting *through* the text; this is about arriving *ready to talk about it*.
+Run this before each discussion. It takes the reading you were going to do anyway and turns it into things to say. It pairs with [How to Read Hard Texts in CIE]({{ site.baseurl }}/Participation/ReadingHardTexts), which is about getting *through* the text; this is about arriving *ready to talk about it*.
 
 1. **Read in passes, pencil in hand.** Do the three-pass reading from the reading guide. A page with no marks on it is a page you have not yet read.
 2. **Mark two or three anchor passages.** Find the two or three moments that most struck, convinced, confused, or annoyed you. These are your entry tickets: a student with three marked passages is never without something to point to.
@@ -67,7 +67,7 @@ Speaking first and often is one way to participate, and for some students it is 
 - **Speak:** offer an idea, a reading of a passage, or a question.
 - **Build:** respond to a classmate by name, extend their point, or press on it respectfully.
 - **Ask:** a real question of the text often does more for a discussion than an answer.
-- **Take a role:** the rotating [discussion roles](https://www.billmongan.com/Ursinus-CIE100-Fall2026/Participation/DiscussionRoles) give you a defined job and a different way to shine on a given day.
+- **Take a role:** the rotating [discussion roles]({{ site.baseurl }}/Participation/DiscussionRoles) give you a defined job and a different way to shine on a given day.
 - **Write into the room:** when we use a shared document, a written thread, or exit notes, thoughtful writing there counts as fully as speaking.
 - **Follow up:** if a day gets away from you, a short follow-up in office hours or in your commonplace book keeps the thread alive.
 
@@ -86,10 +86,10 @@ This is where your own account of your growth becomes part of the grade. It is a
 
 ## See also
 
-- [How to Read Hard Texts in CIE](https://www.billmongan.com/Ursinus-CIE100-Fall2026/Participation/ReadingHardTexts): getting through the reading.
-- [Discussion Roles](https://www.billmongan.com/Ursinus-CIE100-Fall2026/Participation/DiscussionRoles): the four rotating roles and how to prepare for each.
-- [The Four A's Reading Response](https://www.billmongan.com/Ursinus-CIE100-Fall2026/Participation/FourAs): a protocol for meeting a text you resist.
-- [The Machine Question](https://www.billmongan.com/Ursinus-CIE100-Fall2026/Participation/MachineQuestion): the semester-long commonplace-book strand.
+- [How to Read Hard Texts in CIE]({{ site.baseurl }}/Participation/ReadingHardTexts): getting through the reading.
+- [Discussion Roles]({{ site.baseurl }}/Participation/DiscussionRoles): the four rotating roles and how to prepare for each.
+- [The Four A's Reading Response]({{ site.baseurl }}/Participation/FourAs): a protocol for meeting a text you resist.
+- [The Machine Question]({{ site.baseurl }}/Participation/MachineQuestion): the semester-long commonplace-book strand.
 
 ---
 
@@ -97,6 +97,6 @@ This is where your own account of your growth becomes part of the grade. It is a
 
 This page covers how participation is earned and how to prepare. Two longer guides that used to live here now have pages of their own, so you can read each one when you actually need it rather than all at once in week one:
 
-- [How to Read Hard Texts in CIE](https://www.billmongan.com/Ursinus-CIE100-Fall2026/Participation/ReadingHardTexts) - the three-pass strategy and what to do when a reading defeats you. Read this before Sappho.
-- [Rotating Discussion Roles](https://www.billmongan.com/Ursinus-CIE100-Fall2026/Participation/DiscussionRoles) - the four roles and how to prepare for each.
+- [How to Read Hard Texts in CIE]({{ site.baseurl }}/Participation/ReadingHardTexts) - the three-pass strategy and what to do when a reading defeats you. Read this before Sappho.
+- [Rotating Discussion Roles]({{ site.baseurl }}/Participation/DiscussionRoles) - the four roles and how to prepare for each.
 

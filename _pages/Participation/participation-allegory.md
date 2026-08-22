@@ -22,9 +22,9 @@ In this writing prompt, you will consider the questions below and write a 1-2 pa
 
 For these first few weeks the prompt asks only for a claim supported by a quote. Beginning with our Islamic Mystic Poetry response, every prompt will also ask you to take up a counter-argument - we will practice that move in class first, in the Counterargument and Concession workshop.
 
-UDL choice: this genre is the default for this reading, but you may swap in any of the five response genres (analytic, letter, dialogue, marginalia+aphorism, or the [Four A's](https://www.billmongan.com/Ursinus-CIE100-Fall2026/Participation/FourAs)) as long as the claim-and-quote requirement is met.
+UDL choice: this genre is the default for this reading, but you may swap in any of the five response genres (analytic, letter, dialogue, marginalia+aphorism, or the [Four A's]({{ site.baseurl }}/Participation/FourAs)) as long as the claim-and-quote requirement is met.
 
-Struggling with the reading itself? See the guide: [How to Read Hard Texts in CIE](https://www.billmongan.com/Ursinus-CIE100-Fall2026/Participation/ReadingHardTexts).
+Struggling with the reading itself? See the guide: [How to Read Hard Texts in CIE]({{ site.baseurl }}/Participation/ReadingHardTexts).
 
 ## Writing Prompt
 

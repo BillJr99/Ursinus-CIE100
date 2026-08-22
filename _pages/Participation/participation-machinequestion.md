@@ -58,7 +58,7 @@ For each unit, add one entry to the Machine Question section of your commonplace
 2. **One "sighting in the wild"**: something from your own week (a notification, a feed, a policy, a headline, an ad, an overheard remark about an app) that rhymes with the quotation.
 3. **One sentence of your own AI-critique** connecting them: a single sentence in which you say what the ancient text sees about the modern machine, or what the machine reveals about the text.
 
-If you prefer, an entry may take the form of a miniature [Four A's](https://www.billmongan.com/Ursinus-CIE100-Fall2026/Participation/FourAs): one sentence per "A" (assumption, agreement, argument, aspiration) about the machine-mediated "sighting," still anchored by the unit's quotation.
+If you prefer, an entry may take the form of a miniature [Four A's]({{ site.baseurl }}/Participation/FourAs): one sentence per "A" (assumption, agreement, argument, aspiration) about the machine-mediated "sighting," still anchored by the unit's quotation.
 
 Entries are reviewed at the **midterm commonplace check** and again at the **semester's end**, alongside the rest of your commonplace book.
 
@@ -74,4 +74,4 @@ To restate the course policy explicitly: **this strand asks you to think *about*
 
 You may render your entries as prose, as annotated sketches, or as clipped-and-annotated artifacts (a printed screenshot, a taped-in headline, a photographed poster, annotated in your own hand or your own words). Whatever the format, each entry still needs its three parts: the quotation, the sighting, and your one connecting sentence.
 
-See also: [How to Read Hard Texts in CIE](https://www.billmongan.com/Ursinus-CIE100-Fall2026/Participation/ReadingHardTexts) for the three-pass reading strategy and quote-harvesting habits that feed this strand.
+See also: [How to Read Hard Texts in CIE]({{ site.baseurl }}/Participation/ReadingHardTexts) for the three-pass reading strategy and quote-harvesting habits that feed this strand.

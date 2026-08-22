@@ -35,7 +35,7 @@ Reread your first draft after the conference, then answer the four A's about it:
 
 Your response should include **one quoted line from your own draft** (treat yourself as citable: quote the actual sentence, not a paraphrase) and **one quotation from a course text** that you now want to bring into the essay or reweigh in light of the conference. The whole reflection should come to roughly a 1-2 paragraph equivalent.
 
-If it helps to see the pre-draft side of this scaffold, the three workshop minis ([Thesis Workshop](https://www.billmongan.com/Ursinus-CIE100-Fall2026/Participation/ThesisWorkshop), [Evidence Workshop](https://www.billmongan.com/Ursinus-CIE100-Fall2026/Participation/EvidenceWorkshop), and [Counterargument and Concession](https://www.billmongan.com/Ursinus-CIE100-Fall2026/Participation/Counterargument)) are this reflection's companions from before the draft existed, and rereading what you wrote for them is a fast way to see how far the draft has traveled.
+If it helps to see the pre-draft side of this scaffold, the three workshop minis ([Thesis Workshop]({{ site.baseurl }}/Participation/ThesisWorkshop), [Evidence Workshop]({{ site.baseurl }}/Participation/EvidenceWorkshop), and [Counterargument and Concession]({{ site.baseurl }}/Participation/Counterargument)) are this reflection's companions from before the draft existed, and rereading what you wrote for them is a fast way to see how far the draft has traveled.
 
 ## Criteria
 
@@ -53,4 +53,4 @@ Adapted from: Gray, J., "Four 'A's Text Protocol," National School Reform Facult
 
 You may render the reflection as prose, as four labeled bullet clusters, or as annotated quotations (your two required quotations, each followed by labeled commentary that carries the four A's), as long as all four A's and both quotations are present.
 
-See also: [Four A's Reading Response](https://www.billmongan.com/Ursinus-CIE100-Fall2026/Participation/FourAs) for the protocol in its reading-response form.
+See also: [Four A's Reading Response]({{ site.baseurl }}/Participation/FourAs) for the protocol in its reading-response form.

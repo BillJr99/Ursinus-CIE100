@@ -71,7 +71,7 @@ instructors:
   phone: "610-409-3268"
   office: "Pfahler Hall 101L"
   webpage_url: "http://www.billmongan.com"
-  picture: /images/profile.png
+  picture: images/profile.png
   officehours:
   - day: "T"
     starttime: "11:20 AM"
@@ -235,7 +235,7 @@ schedule:
       - rtitle: "Adichie, Dear Ijeawele, pp. 1-36 (first seven suggestions)"
         rlink: false
       - rtitle: "Reading response genres: the Four A's (an alternative format you may use for any writing prompt this semester)"
-        rlink: "https://www.billmongan.com/Ursinus-CIE100-Fall2026/Participation/FourAs"
+        rlink: "Participation/FourAs"
   - week: "1"
     date: "0"
     title: "Adichie, Dear Ijeawele: Suggestions Eight Through Fifteen"
@@ -252,7 +252,7 @@ schedule:
       - rtitle: "Adichie, Dear Ijeawele, pp. 36-end (suggestions 8-15)"
         rlink: false
       - rtitle: "Rotating Discussion Roles: the four seminar roles and how to prepare for each"
-        rlink: "https://www.billmongan.com/Ursinus-CIE100-Fall2026/Participation/DiscussionRoles"
+        rlink: "Participation/DiscussionRoles"
   - week: "1"
     date: "1"
     title: "Essay 1 Workshop: Brainstorming, Sample Essays, and Thesis Construction"
@@ -283,7 +283,7 @@ schedule:
       - rtitle: "Katie Merz, Live the Questions (Smokestack); class visits the installation"
         rlink: "https://www.ursinus.edu/live/profiles/5345-katie-merz-live-the-questions/_ingredients/templates/berman-2018/exhibition"
       - rtitle: "Before Sappho: How to Read Hard Texts in CIE - the three-pass strategy and what to do when a reading defeats you"
-        rlink: "https://www.billmongan.com/Ursinus-CIE100-Fall2026/Participation/ReadingHardTexts"
+        rlink: "Participation/ReadingHardTexts"
   - week: "2"
     date: "1"
     title: "Sappho: Fragments, Longing, and the Survival of Texts"
