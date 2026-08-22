@@ -26,7 +26,7 @@ This is a reusable reading response that I may assign for any week's reading, ei
 
 ## The Four A's
 
-As you read (this works best during pass two of the [three-pass strategy](https://www.billmongan.com/Ursinus-CIE100-Fall2026/Participation/ReadingHardTexts)), mark the text for four questions:
+As you read (this works best during pass two of the [three-pass strategy]({{ site.baseurl }}/Participation/ReadingHardTexts)), mark the text for four questions:
 
 - **Assumptions**: What assumptions does the author hold? Every author writes from beliefs they never argue for, and finding them is the first act of reading like a scholar rather than a fan or a critic.
 - **Agree**: What do you agree with in the text? Even a text you resist gets something right, and saying precisely what earns you the standing to disagree with the rest.
@@ -53,4 +53,4 @@ Adapted from: Gray, J., "Four 'A's Text Protocol," National School Reform Facult
 
 You may render your response as four short paragraphs of prose, as labeled bullet lists (2-3 rich bullets per "A"), or as annotated quotations (each quoted passage followed by your labeled commentary), as long as all four A's and their anchoring quotations are present.
 
-See also: [How to Read Hard Texts in CIE](https://www.billmongan.com/Ursinus-CIE100-Fall2026/Participation/ReadingHardTexts) for the three-pass strategy that makes marking for the four A's nearly free, and [The Machine Question](https://www.billmongan.com/Ursinus-CIE100-Fall2026/Participation/MachineQuestion), where a miniature Four A's can shape a commonplace entry.
+See also: [How to Read Hard Texts in CIE]({{ site.baseurl }}/Participation/ReadingHardTexts) for the three-pass strategy that makes marking for the four A's nearly free, and [The Machine Question]({{ site.baseurl }}/Participation/MachineQuestion), where a miniature Four A's can shape a commonplace entry.

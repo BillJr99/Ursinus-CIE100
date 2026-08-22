@@ -53,7 +53,7 @@ When a text resists you, or when you resist it, a fourth pass with four question
 3. **What do you want to argue with?** Naming a specific objection to a specific passage converts a vague dislike into a discussable position: the difference between "I didn't like it" and a seminar contribution.
 4. **What parts do you aspire to?** Even a text you fight usually contains a sentence you wish you had written, and finding it keeps the reading generous enough to stay accurate.
 
-This is the protocol behind the [Four A's Reading Response](https://www.billmongan.com/Ursinus-CIE100-Fall2026/Participation/FourAs), where it becomes a submittable written response. Source: Gray, J., "Four 'A's Text Protocol," National School Reform Faculty (NSRF), [https://www.nsrfharmony.org/wp-content/uploads/2017/10/FourAsTextProtocol-N.pdf](https://www.nsrfharmony.org/wp-content/uploads/2017/10/FourAsTextProtocol-N.pdf).
+This is the protocol behind the [Four A's Reading Response]({{ site.baseurl }}/Participation/FourAs), where it becomes a submittable written response. Source: Gray, J., "Four 'A's Text Protocol," National School Reform Faculty (NSRF), [https://www.nsrfharmony.org/wp-content/uploads/2017/10/FourAsTextProtocol-N.pdf](https://www.nsrfharmony.org/wp-content/uploads/2017/10/FourAsTextProtocol-N.pdf).
 
 #### Building the Argument: From Reading to Persuading
 
@@ -65,11 +65,11 @@ Reading well is half the course; the other half is turning what you read into ar
 - **Signpost, and summarize others fairly.** Tell the reader where the argument is and where it is going, and state views you disagree with in language their holders would recognize as accurate. Fair summary is both an ethical habit and a persuasive one.
 - **Know your registers of persuasion.** *Ethos* persuades through the credibility of the writer, earned here by accurate quotation and fair summary; *pathos* persuades through the reader's emotions, legitimate but never load-bearing in an academic essay; *logos* persuades through reasoning and evidence, and it is the primary register of CIE essays.
 
-Each move has a workshop mini-assignment where you practice it before drafting: the [Thesis Workshop](https://www.billmongan.com/Ursinus-CIE100-Fall2026/Participation/ThesisWorkshop), the [Evidence Workshop](https://www.billmongan.com/Ursinus-CIE100-Fall2026/Participation/EvidenceWorkshop), and [Counterargument and Concession](https://www.billmongan.com/Ursinus-CIE100-Fall2026/Participation/Counterargument). After the draft and your Writing Fellow conference, the [Draft Reflection: Four A's on Your Own Draft](https://www.billmongan.com/Ursinus-CIE100-Fall2026/Participation/DraftFourAs) is the post-conference companion that turns the conversation into a revision plan.
+Each move has a workshop mini-assignment where you practice it before drafting: the [Thesis Workshop]({{ site.baseurl }}/Participation/ThesisWorkshop), the [Evidence Workshop]({{ site.baseurl }}/Participation/EvidenceWorkshop), and [Counterargument and Concession]({{ site.baseurl }}/Participation/Counterargument). After the draft and your Writing Fellow conference, the [Draft Reflection: Four A's on Your Own Draft]({{ site.baseurl }}/Participation/DraftFourAs) is the post-conference companion that turns the conversation into a revision plan.
 
 #### Quote-Harvesting for the Commonplace Book
 
-During pass two, harvest as you go: when a sentence stops you, copy it into your commonplace book with its page number and one line about why it stopped you. Do this while reading, not afterward: quotes harvested in the moment come with your reaction attached, and those reactions become writing-prompt responses, essay evidence, and entries in [The Machine Question](https://www.billmongan.com/Ursinus-CIE100-Fall2026/Participation/MachineQuestion), the semester-long strand of your commonplace book, with almost no extra work. Aim for three to five harvested quotes per assignment; more is fine.
+During pass two, harvest as you go: when a sentence stops you, copy it into your commonplace book with its page number and one line about why it stopped you. Do this while reading, not afterward: quotes harvested in the moment come with your reaction attached, and those reactions become writing-prompt responses, essay evidence, and entries in [The Machine Question]({{ site.baseurl }}/Participation/MachineQuestion), the semester-long strand of your commonplace book, with almost no extra work. Aim for three to five harvested quotes per assignment; more is fine.
 
 #### Time Budgets
 

@@ -20,9 +20,9 @@ tags:
 
 In this writing prompt, you will consider the questions below and respond by writing a short dialogue between yourself and a figure from, or behind, the text, equivalent in substance to a 1-2 paragraph response (script formatting means this will usually run a bit longer on the page, and that is fine). Quote the text at least once within the exchange, and give the other voice a genuine counterargument, supported by a quote of its own, rather than an easy target. Submit your dialogue through Canvas before the start of class.
 
-UDL choice: this genre is the default for this reading, but you may swap in any of the five response genres (analytic, letter, dialogue, marginalia+aphorism, or the [Four A's](https://www.billmongan.com/Ursinus-CIE100-Fall2026/Participation/FourAs)) as long as the quote and counterargument requirements are met.
+UDL choice: this genre is the default for this reading, but you may swap in any of the five response genres (analytic, letter, dialogue, marginalia+aphorism, or the [Four A's]({{ site.baseurl }}/Participation/FourAs)) as long as the quote and counterargument requirements are met.
 
-Struggling with the reading itself? See the guide: [How to Read Hard Texts in CIE](https://www.billmongan.com/Ursinus-CIE100-Fall2026/Participation/ReadingHardTexts).
+Struggling with the reading itself? See the guide: [How to Read Hard Texts in CIE]({{ site.baseurl }}/Participation/ReadingHardTexts).
 
 ## Writing Prompt
 

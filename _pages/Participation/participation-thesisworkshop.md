@@ -48,4 +48,4 @@ A strong response has a thesis that survives (or is honestly revised by) all fou
 
 You may render your response as prose, as a labeled list (thesis, four one-sentence tests, weaker version plus diagnosis, "they say" sentence), or as a two-column table (criterion and self-assessment), as long as all parts are present.
 
-See also: [Evidence Workshop](https://www.billmongan.com/Ursinus-CIE100-Fall2026/Participation/EvidenceWorkshop) and [Counterargument and Concession](https://www.billmongan.com/Ursinus-CIE100-Fall2026/Participation/Counterargument), this workshop's pre-draft companions, and the argument-building section of [How to Read Hard Texts in CIE](https://www.billmongan.com/Ursinus-CIE100-Fall2026/Participation/ReadingHardTexts).
+See also: [Evidence Workshop]({{ site.baseurl }}/Participation/EvidenceWorkshop) and [Counterargument and Concession]({{ site.baseurl }}/Participation/Counterargument), this workshop's pre-draft companions, and the argument-building section of [How to Read Hard Texts in CIE]({{ site.baseurl }}/Participation/ReadingHardTexts).
