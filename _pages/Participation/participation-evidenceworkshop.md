@@ -7,7 +7,7 @@ title: "CIE100: Common Intellectual Experience - Evidence Workshop: Claim, Evide
 info:
   coursenum: CIE100
   points: 10
-  submission: "Submit a word processed or PDF document through Canvas before the start of class."
+  submission: "Please submit a word processed or PDF document through Canvas before the start of class."
   submission_types: written
   goals:
     - To select quotations that support arguments rather than decorate them
@@ -22,23 +22,23 @@ tags:
 
 ## Purpose
 
-Before drafting each essay, this workshop asks you to build the smallest complete unit of academic argument: the chain from **claim** to **evidence** to **warrant**. The warrant (your own reasoning showing *why* this quote supports *this* claim) is the step first-year writing most often skips, on the assumption that a good quote explains itself. It never does: the quote sits on the page and the reader waits to be told what it proves. The chain is adapted lightly from Toulmin's model of argument (Toulmin, S., *The Uses of Argument*, Cambridge University Press, 1958). This is a standalone mini-assignment: it prepares evidence for the upcoming essay without changing anything about the essay assignment itself.
+Before you draft each essay, this workshop asks you to build the smallest complete unit of academic argument, which is the chain from **claim** to **evidence** to **warrant**.  The warrant is your own reasoning showing *why* this quote supports *this* claim, and it's the step first-year writing skips most often, usually on the assumption that a good quote explains itself.  It won't.  The quote just sits there on the page while your reader waits to be told what it proves.  I have adapted the chain lightly from Toulmin's model of argument (Toulmin, S., *The Uses of Argument*, Cambridge University Press, 1958).  This is a standalone mini-assignment, so it gets your evidence ready for the upcoming essay without changing anything about the essay assignment itself.
 
 ## Task
 
-Select **two quotations** you actually intend to use in the upcoming essay. For each one, write the full chain:
+Select **two quotations** you actually intend to use in the upcoming essay.  For each one, write the full chain:
 
-1. **Claim**: one sentence of your own stating what you assert: a sub-claim of your working thesis, not the thesis itself.
-2. **Evidence**: the quotation, cited with page or line reference, trimmed to the words that do the work.
-3. **Warrant**: 2-3 sentences of your own reasoning showing why this quote supports this claim: what the quote's specific words establish, and what has to be true for the evidence to carry the claim's weight.
+1.  **Claim**: one sentence of your own stating what you assert.  This should be a sub-claim of your working thesis, and not the thesis itself.
+2.  **Evidence**: the quotation, cited with page or line reference, trimmed to the words that do the work.
+3.  **Warrant**: 2-3 sentences of your own reasoning showing why this quote supports this claim.  Tell me what the quote's specific words establish, and what has to be true for that evidence to carry the claim's weight.
 
-Then add one **"tempting but weak" quote**: a passage you considered using and rejected, with one sentence on why it fails: it is decorative (sounds good, proves nothing), out of context (means something else where it lives), or restates your claim rather than supporting it.
+Then add one **"tempting but weak" quote**, meaning a passage you considered using and rejected, with one sentence on why it fails.  Maybe it's decorative (sounds good, proves nothing), or out of context (means something else where it actually lives), or maybe it just restates your claim instead of supporting it.
 
-The whole response is roughly a 1-2 paragraph equivalent. Submit it through Canvas before the start of class.
+The whole response comes to roughly a 1-2 paragraph equivalent.  Please submit it through Canvas before the start of class.
 
 ## Criteria
 
-A strong response has warrants that would convince a skeptical reader who does not already agree with you, quotations trimmed to their load-bearing words, and a rejected quote whose failure you can name precisely. Two complete chains with real warrants beat four quotes with none.
+A strong response has warrants that would convince a skeptical reader who does not already agree with you, quotations trimmed down to the words doing the work, and a rejected quote whose failure you can name precisely.  I'd much rather see two complete chains with real warrants than four quotes with none.
 
 ## Formats (UDL)
 
