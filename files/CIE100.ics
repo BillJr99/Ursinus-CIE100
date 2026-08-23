@@ -700,9 +700,9 @@ BEGIN:VEVENT
 UID:00000000-0000-0000-0000-00e8d4a51048
 DTSTAMP:20261117T000000Z
 DTSTART;VALUE=DATE:20261117
-SUMMARY:CIE Common Event: student docent-led tour at the Berman Museum of Art - our section tours during our Tuesday, November 17 class period, connecting the exhibition to Deloria's God Is Red
+SUMMARY:CIE Common Event: student docent-led tour at the Berman Museum of Art (our section tours during our Tuesday, November 17 class period, connecting the exhibition to Deloria's God Is Red)
 LOCATION:
-DESCRIPTION:CIE Common Event: student docent-led tour at the Berman Museum of Art - our section tours during our Tuesday, November 17 class period, connecting the exhibition to Deloria's God Is Red
+DESCRIPTION:CIE Common Event: student docent-led tour at the Berman Museum of Art (our section tours during our Tuesday, November 17 class period, connecting the exhibition to Deloria's God Is Red)
 PRIORITY:3
 END:VEVENT
 END:VCALENDAR
