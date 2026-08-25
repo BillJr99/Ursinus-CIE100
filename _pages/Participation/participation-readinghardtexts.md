@@ -69,7 +69,7 @@ Each of these moves has a workshop mini-assignment where you practice it before 
 
 #### Quote-Harvesting for the Commonplace Book
 
-Harvest as you go during pass two.  When a sentence stops you, copy it into your commonplace book with its page number and one line about why it stopped you.  Please do this while you're reading and not afterward.  Quotes you harvest in the moment come with your reaction attached, and those reactions become writing-prompt responses, essay evidence, and entries in [The Machine Question]({{ site.baseurl }}/Participation/MachineQuestion), the semester-long strand of your commonplace book, with almost no extra work.  Aim for three to five harvested quotes per assignment, and more is fine.
+Harvest as you go during pass two.  When a sentence stops you, copy it into your commonplace book with its page number and one line about why it stopped you.  Please do this while you're reading and not afterward.  Quotes you harvest in the moment come with your reaction attached, and those reactions become writing-prompt responses and essay evidence with almost no extra work.  Aim for three to five harvested quotes per assignment, and more is fine.
 
 #### Time Budgets
 

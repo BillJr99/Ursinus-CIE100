@@ -89,7 +89,6 @@ Your own account of your growth is part of this grade.  It's also the surest way
 - [How to Read Hard Texts in CIE]({{ site.baseurl }}/Participation/ReadingHardTexts): getting through the reading.
 - [Discussion Roles]({{ site.baseurl }}/Participation/DiscussionRoles): the four rotating roles and how to prepare for each.
 - [The Four A's Reading Response]({{ site.baseurl }}/Participation/FourAs): a protocol for meeting a text you resist.
-- [The Machine Question]({{ site.baseurl }}/Participation/MachineQuestion): the semester-long commonplace-book strand.
 
 ---
 

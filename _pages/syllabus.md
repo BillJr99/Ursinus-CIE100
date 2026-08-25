@@ -203,11 +203,6 @@ schedule:
         points: 10
         submission_types: "written"
         module: overarching
-      - dtitle: "Participation: The Machine Question Handed Out"
-        dlink: "Participation/MachineQuestion"
-        points: 10
-        submission_types: "written"
-        module: overarching
     readings:
       - rtitle: "Plato, Allegory of the Cave (CIE Reader)"
         rlink: false
@@ -634,10 +629,6 @@ schedule:
         submission_types: "written"
       - dtitle: "Participation: Class Participation and Discussion Due"
         dlink: "Participation/PreparingForDiscussion"
-        points: 10
-        submission_types: "written"
-      - dtitle: "Participation: The Machine Question Due"
-        dlink: "Participation/MachineQuestion"
         points: 10
         submission_types: "written"
       - dtitle: "Essay 3: Final Draft Due"
