@@ -53,4 +53,4 @@ Adapted from: Gray, J., "Four 'A's Text Protocol," National School Reform Facult
 
 You may render your response as four short paragraphs of prose, as labeled bullet lists (2-3 rich bullets per "A"), or as annotated quotations, each quoted passage followed by your labeled commentary.  Any of those is fine as long as all four A's and their anchoring quotations are present.
 
-See also: [How to Read Hard Texts in CIE]({{ site.baseurl }}/Participation/ReadingHardTexts) for the three-pass strategy that makes marking for the four A's nearly free, and [The Machine Question]({{ site.baseurl }}/Participation/MachineQuestion), where a miniature Four A's can shape a commonplace entry.
+See also: [How to Read Hard Texts in CIE]({{ site.baseurl }}/Participation/ReadingHardTexts) for the three-pass strategy that makes marking for the four A's nearly free.  A miniature Four A's, one sentence per "A," also works well as a commonplace-book entry.
