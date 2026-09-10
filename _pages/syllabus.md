@@ -288,7 +288,6 @@ schedule:
       - dtitle: "Essay 1: Thesis Statement, Quote List, and Rough Outline Due"
         dlink: "Assignments/Essay1"
         points: 10
-        rubricpath: "_pages/Assignments/asmt-essay1.md"
         submission_types: "written"
     readings:
       - rtitle: "Sappho, poems 1-2, 4-5, 8-9, 12-15, 17, 20-21, 37-84, 87-88, 97-100 (Barnard translation)"
@@ -424,7 +423,6 @@ schedule:
       - dtitle: "Essay 2: Thesis Statement, Quote List, and Rough Outline Due"
         dlink: "Assignments/Essay2"
         points: 10
-        rubricpath: "_pages/Assignments/asmt-essay2.md"
         submission_types: "written"
     readings:
       - rtitle: "Coates, Between the World and Me, pp. 73-132 (Part II)"
