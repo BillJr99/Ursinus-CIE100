@@ -90,8 +90,8 @@ You will develop this essay in three stages, and together those stages make up t
 2.  **First Draft.**  A complete draft of the full 1200 to 1500 words, and not a partial sketch.  The more complete your draft is, the more useful your Writing Fellow conference will be.
 3.  **Final Draft.**  The revised essay, accompanied by a brief (one paragraph) revision memo describing what you changed and why.
 
-## Submission Instructions
+## Academic Honesty
 
-Please submit each deliverable through Canvas before the start of class on its due date, as listed on the course schedule.  If you consulted a generative AI tool for a purpose the course policy permits, such as refining a research question, please disclose that use in your Acknowledgements section.  The writing itself has to be entirely your own.
+The writing has to be entirely your own.
 
 If collaboration with a buddy was permitted, did you work with a buddy on this assignment?  If so, who?  If not, do you certify that this submission represents your own original work?  Please identify any and all portions of your submission that were not originally written by you.

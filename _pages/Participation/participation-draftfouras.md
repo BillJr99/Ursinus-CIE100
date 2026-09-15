@@ -41,10 +41,6 @@ The three workshop minis ([Thesis Workshop]({{ site.baseurl }}/Participation/The
 
 A strong reflection is honest in the "Argue" section, specific in the "Aspire" section, and quotes both required passages, one line of your own draft and one line of a course text.  If you skip the self-quotation, or treat "Agree" as a summary of the whole draft, I'll hand the reflection back to you for one revision.
 
-## A Note on the AI Policy
-
-To restate the course policy here: every sentence of this reflection, like every sentence of the draft it reflects on, has to be your own prose.  No generative AI tool may produce any part of it.
-
 ## Citation
 
 Adapted from: Gray, J., "Four 'A's Text Protocol," National School Reform Faculty (NSRF), [https://www.nsrfharmony.org/wp-content/uploads/2017/10/FourAsTextProtocol-N.pdf](https://www.nsrfharmony.org/wp-content/uploads/2017/10/FourAsTextProtocol-N.pdf).
