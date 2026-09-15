@@ -87,8 +87,8 @@ Unlike Essays 1 and 2, this essay has **no separate outline deliverable**.  You 
 
 **A note on reading ahead.**  Prompt options 2 and 3 name McLuhan and Forster, and I have assigned both readings early on the schedule so that every text named in your chosen prompt is read before you draft.  Please check the schedule for when each reading and discussion falls.  Draft from the text instead of waiting on class discussion, and then let the discussion sharpen your argument when you revise.  That is why the revision carries 60 of this assignment's 100 points.
 
-## Submission Instructions
+## Academic Honesty and AI Use
 
-Please submit each deliverable through Canvas before the start of class on its due date, as listed on the course schedule.  If you consulted a generative AI tool for a purpose the course policy permits, please disclose that use in your Acknowledgements section.  The writing itself has to be entirely your own.
+If you consulted a generative AI tool for a purpose the course policy permits, please disclose that use in your Acknowledgements section.  The writing itself has to be entirely your own.
 
 If collaboration with a buddy was permitted, did you work with a buddy on this assignment?  If so, who?  If not, do you certify that this submission represents your own original work?  Please identify any and all portions of your submission that were not originally written by you.
