@@ -786,10 +786,6 @@ A quiet day is not a penalty.  It is simply a half-point you did not earn, and I
 
 Informal writing includes the pre-class writing prompts posted on the schedule, in-class writing, and a semester-long commonplace book in which you collect quotations from our readings alongside your reactions, questions, and sightings of these texts "in the wild" (in memes, lyrics, advertisements, and the news).  The commonplace book may be kept in a notebook or digitally and will be reviewed informally at midterm and at the end of the semester.
 
-### **Generative AI Policy**
-
-The purpose of writing for this class is not for you to create a product; writing is used in this class as an aid to your thinking, to help you learn the material better and discover and understand what you know.  Therefore, in this class, you are not permitted to use generative AI to impersonate yourself as a writer or thinker; in other words, you cannot use it to generate essays, informal responses, ideas, paragraphs, sentences, or words for you, even if you edit the AI's words after they are generated.  However, if you have found these tools useful to you for other purposes, such as outlining your thoughts or refining research questions, those uses are permitted and should be disclosed in your Works Cited page or Acknowledgements section.  MLA has created a helpful guide to citing generative AI: [https://style.mla.org/citing-generative-ai/](https://style.mla.org/citing-generative-ai/).  Because these tools are part of the world our texts help us understand, we will also engage them critically.  In several units we will set an AI system's reading of a passage against our own close reading, and ask what the comparison teaches us about both.
-
 ### **Laptops in the Classroom**
 
 Laptop use is by permission only.
