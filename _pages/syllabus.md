@@ -270,7 +270,7 @@ schedule:
     readings:
       - rtitle: "Katie Merz, Live the Questions (Smokestack); class visits the installation"
         rlink: "https://www.ursinus.edu/live/profiles/5345-katie-merz-live-the-questions/_ingredients/templates/berman-2018/exhibition"
-      - rtitle: "Visual Response Worksheet (provided in class): the four-question looking protocol we use at the installation, in order, describing before interpreting"
+      - rtitle: "Visual Response Worksheet: the four-question looking protocol we use at the installation, in order, describing before interpreting"
         rlink: false
       - rtitle: "Before Sappho: How to Read Hard Texts in CIE - the three-pass strategy and what to do when a reading defeats you"
         rlink: "Participation/ReadingHardTexts"
@@ -328,7 +328,7 @@ schedule:
     readings:
       - rtitle: "Islamic Mystic Poetry (CIE Reader)"
         rlink: false
-      - rtitle: "Islamic Mystic Poetry Worksheet (provided in class): the Ecstasy and Service evidence log we build together, quoting and naming each poem before tagging it"
+      - rtitle: "Islamic Mystic Poetry Worksheet: the Ecstasy and Service evidence log we build together, quoting and naming each poem before tagging it"
         rlink: false
   - week: "4"
     date: "0"
