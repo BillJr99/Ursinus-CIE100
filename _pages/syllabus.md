@@ -328,6 +328,8 @@ schedule:
     readings:
       - rtitle: "Islamic Mystic Poetry (CIE Reader)"
         rlink: false
+      - rtitle: "Islamic Mystic Poetry Worksheet (provided in class): the Ecstasy and Service evidence log we build together, quoting and naming each poem before tagging it"
+        rlink: false
   - week: "4"
     date: "0"
     title: "Islamic Mystic Poetry, Continued: Translation, Tradition, and Context"
