@@ -342,10 +342,6 @@ schedule:
     date: "1"
     title: "Revision Workshop: From First Draft to Final Draft"
     deliverables:
-      - dtitle: "Informal Writing: Draft Four A's (Paper 1) Due"
-        dlink: "Participation/DraftFourAs"
-        points: 10
-        submission_types: "written"
       - dtitle: "Informal Writing: Euthyphro Writing Prompt Handed Out"
         dlink: "Participation/Euthyphro"
         points: 10
@@ -370,6 +366,10 @@ schedule:
     date: "1"
     title: "Euthyphro, Continued: The Dilemma and Its Descendants"
     deliverables:
+      - dtitle: "Informal Writing: Draft Four A's (Paper 1) Due"
+        dlink: "Participation/DraftFourAs"
+        points: 10
+        submission_types: "written"
       - dtitle: "Informal Writing: Between the World and Me Writing Prompt Handed Out"
         dlink: "Participation/Coates"
         points: 10
