@@ -333,6 +333,11 @@ schedule:
   - week: "4"
     date: "0"
     title: "Islamic Mystic Poetry, Continued: Translation, Tradition, and Context"
+    deliverables:
+      - dtitle: "Informal Writing: Euthyphro Writing Prompt Handed Out"
+        dlink: "Participation/Euthyphro"
+        points: 10
+        submission_types: "written"
     readings:
       - rtitle: "Continue discussing Islamic Mystic Poetry"
         rlink: false
@@ -340,19 +345,6 @@ schedule:
         rlink: false
   - week: "4"
     date: "1"
-    title: "Revision Workshop: From First Draft to Final Draft"
-    deliverables:
-      - dtitle: "Informal Writing: Euthyphro Writing Prompt Handed Out"
-        dlink: "Participation/Euthyphro"
-        points: 10
-        submission_types: "written"
-    readings:
-      - rtitle: "Bring your Essay 1 draft and your Writing Fellow conference notes to class"
-        rlink: false
-      - rtitle: "Center for Writing and Speaking: Resources for Students"
-        rlink: "https://www.ursinus.edu/offices/center-for-writing-and-speaking/resources-for-students-/"
-  - week: "5"
-    date: "0"
     title: "Plato, Euthyphro: What Is Piety?"
     deliverables:
       - dtitle: "Informal Writing: Euthyphro Writing Prompt Due"
@@ -362,6 +354,14 @@ schedule:
     readings:
       - rtitle: "Plato, Euthyphro (CIE Reader)"
         rlink: false
+  - week: "5"
+    date: "0"
+    title: "Revision Workshop: From First Draft to Final Draft"
+    readings:
+      - rtitle: "Bring your Essay 1 draft and your Writing Fellow conference notes to class"
+        rlink: false
+      - rtitle: "Center for Writing and Speaking: Resources for Students"
+        rlink: "https://www.ursinus.edu/offices/center-for-writing-and-speaking/resources-for-students-/"
   - week: "5"
     date: "1"
     title: "Euthyphro, Continued: The Dilemma and Its Descendants"
