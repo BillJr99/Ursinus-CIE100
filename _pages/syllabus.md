@@ -308,14 +308,12 @@ schedule:
     readings:
       - rtitle: "Continue discussing Sappho"
         rlink: false
+      - rtitle: "Islamic Mystic Poetry Worksheet handed out today, alongside the writing prompt: bring it to both Islamic Mystic Poetry meetings"
+        rlink: false
   - week: "3"
     date: "1"
     title: "Islamic Mystic Poetry: Longing for the Divine"
     deliverables:
-      - dtitle: "Informal Writing: Islamic Mystic Poetry Writing Prompt Due"
-        dlink: "Participation/IslamicMysticPoetry"
-        points: 10
-        submission_types: "written"
       - dtitle: "Informal Writing: Draft Four A's (Paper 1) Handed Out"
         dlink: "Participation/DraftFourAs"
         points: 10
@@ -333,6 +331,11 @@ schedule:
   - week: "4"
     date: "0"
     title: "Islamic Mystic Poetry, Continued: Translation, Tradition, and Context"
+    deliverables:
+      - dtitle: "Informal Writing: Islamic Mystic Poetry Writing Prompt Due"
+        dlink: "Participation/IslamicMysticPoetry"
+        points: 10
+        submission_types: "written"
     readings:
       - rtitle: "Continue discussing Islamic Mystic Poetry"
         rlink: false
