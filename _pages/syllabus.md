@@ -333,11 +333,6 @@ schedule:
   - week: "4"
     date: "0"
     title: "Islamic Mystic Poetry, Continued: Translation, Tradition, and Context"
-    deliverables:
-      - dtitle: "Informal Writing: Euthyphro Writing Prompt Handed Out"
-        dlink: "Participation/Euthyphro"
-        points: 10
-        submission_types: "written"
     readings:
       - rtitle: "Continue discussing Islamic Mystic Poetry"
         rlink: false
@@ -347,7 +342,7 @@ schedule:
     date: "1"
     title: "Plato, Euthyphro: What Is Piety?"
     deliverables:
-      - dtitle: "Informal Writing: Euthyphro Writing Prompt Due"
+      - dtitle: "Informal Writing: Euthyphro Writing Prompt Handed Out"
         dlink: "Participation/Euthyphro"
         points: 10
         submission_types: "written"
@@ -357,6 +352,11 @@ schedule:
   - week: "5"
     date: "0"
     title: "Revision Workshop: From First Draft to Final Draft"
+    deliverables:
+      - dtitle: "Informal Writing: Euthyphro Writing Prompt Due"
+        dlink: "Participation/Euthyphro"
+        points: 10
+        submission_types: "written"
     readings:
       - rtitle: "Bring your Essay 1 draft and your Writing Fellow conference notes to class"
         rlink: false
