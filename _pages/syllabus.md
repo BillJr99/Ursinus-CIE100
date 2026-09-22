@@ -396,7 +396,7 @@ schedule:
     readings:
       - rtitle: "Coates, Between the World and Me, pp. 1-71 (Part I)"
         rlink: false
-      - rtitle: "Essay 2 Assignment Sheet and Sample Student Essays; in-class brainstorming workshop"
+      - rtitle: "Preview of the Essay 2 Assignment Sheet and Sample Student Essays; in-class brainstorming workshop.  The assignment sheet is formally handed out Thursday, October 15, after Fall Break"
         rlink: false
       - rtitle: "Note: no class meeting Thursday 10/8 (APEX Day) or Tuesday 10/13 (Fall Break); class resumes Thursday 10/15"
         rlink: false
