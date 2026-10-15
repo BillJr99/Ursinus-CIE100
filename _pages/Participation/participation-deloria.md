@@ -20,7 +20,7 @@ tags:
 
 Please read the questions below and answer them in marginalia form, at about the length of a 1-2 paragraph response.  Pick two short passages, quote each one, and annotate it with an observation, a question, and a connection.  Then boil your reading down to one aphorism of your own, and add a counterargument note against it, supported by a quote.  Submit your annotations and aphorism through Canvas by the due date on the syllabus.
 
-Marginalia is the default here, and it applies to Questions 1 and 3, where you may swap in any of the other four genres (analytic, letter, dialogue, or the [Four A's]({{ site.baseurl }}/Participation/FourAs)) as long as you keep the quote and the counterargument.  The remaining question asks for a specific artifact we use in class, so please submit that one in the form described.
+Marginalia is the default for Questions 1 and 3, and for those you may swap in any of the other four genres (analytic, letter, dialogue, or the [Four A's]({{ site.baseurl }}/Participation/FourAs)) as long as you keep the quote and the counterargument.  The remaining question asks for a specific artifact we use in class, so please submit that one in the form described.
 
 If Deloria's argument is hard to follow, [How to Read Hard Texts in CIE]({{ site.baseurl }}/Participation/ReadingHardTexts) will help you track it.
 

@@ -39,11 +39,11 @@ For this individual written adaptation of the protocol, please write **one short
 
 ## Criteria
 
-A strong response meets all four A's honestly.  If your "Argue" section is empty, you haven't argued with yourself yet.  It quotes a specific passage for each A, and it shows the four readings actually differing: the passage you argue with should not be the same move as the passage you aspire to, unless you can say why it is both.
+A strong response meets all four A's honestly.  If your "Argue" section is empty, you haven't argued with yourself yet.  A strong response also quotes a specific passage for each A, and it shows the four readings actually differing: the passage you argue with should not be the same move as the passage you aspire to, unless you can say why it is both.
 
 ## The In-Class Version
 
-We'll sometimes run the Four A's as a live seminar protocol, so you should recognize it when it shows up.  In groups, everyone marks the text silently for the four A's, then shares in **rounds, one "A" per round**, with each person citing the specific passage behind their point before the group moves to the next A. The protocol closes with an open round on what the text means for our work and our lives, followed by a brief debrief on the process itself.  If you've written this response before class, you'll arrive with all four rounds already in hand.
+We'll sometimes run the Four A's as a live seminar protocol, so you should recognize it when it shows up.  In groups, everyone marks the text silently for the four A's, then shares in **rounds, one "A" per round**, with each person citing the specific passage behind their point before the group moves to the next A.  The protocol closes with an open round on what the text means for our work and our lives, followed by a brief debrief on the process itself.  If you've written this response before class, you'll arrive with all four rounds already in hand.
 
 ## Citation
 

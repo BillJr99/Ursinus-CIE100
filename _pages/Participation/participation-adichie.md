@@ -18,7 +18,7 @@ tags:
 
 ---
 
-Please read the questions below and answer them in a letter addressed to the author, about as long as a 1-2 paragraph response.  Adichie wrote a letter, so you're writing back.  Respond in your own voice and quote the text at least once in support of what you say, choosing the passage whose particular words matter rather than one that simply mentions your subject.  Submit your letter through Canvas by the due date on the syllabus.
+Please read the questions below and answer them in a letter addressed to the author, about as long as a 1-2 paragraph response.  Adichie wrote a letter, so you're writing back.  Respond in your own voice and quote the text at least once in support of what you say, choosing the passage whose particular words matter, not one that just mentions your subject.  Submit your letter through Canvas by the due date on the syllabus.
 
 This is one of the last prompts that asks only for a claim and a quote.  From the Islamic Mystic Poetry response onward you'll be taking on a counterargument each time, and we'll work through that move together in the Counterargument and Concession workshop before you have to do it on your own.
 

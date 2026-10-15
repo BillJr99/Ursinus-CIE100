@@ -30,4 +30,4 @@ Sappho is the first reading where students tend to get stuck, so please have a l
 
 1.  Reflect on the fragments and incomplete nature of Sappho's work.  How does this affect your interpretation of her poetry?  In what other ways do we interpret or interpolate our understanding in light of incomplete information?
 
-2.  Most of Sappho survives only as fragments quoted by others or recovered from torn papyrus, and yet her voice still reaches us.  Choose a fifteen second fragment of a song or video that went viral out of context, and compare its survival to Sappho's: what does the fragment preserve of the original, what does it destroy, and who controls what survives?
+2.  Most of Sappho survives only as fragments quoted by others or recovered from torn papyrus, and yet her voice still reaches us.  Choose a fifteen-second fragment of a song or video that went viral out of context, and compare its survival to Sappho's: what does the fragment preserve of the original, what does it destroy, and who controls what survives?

@@ -22,7 +22,7 @@ tags:
 
 ## Purpose
 
-Before you draft each essay, this workshop asks you to build the smallest complete unit of academic argument, which is the chain from **claim** to **evidence** to **warrant**.  The warrant is your own reasoning showing *why* this quote supports *this* claim, and it's the step first-year writing skips most often, usually on the assumption that a good quote explains itself.  It won't.  The quote just sits there on the page while your reader waits to be told what it proves.  I have adapted the chain lightly from Toulmin's model of argument (Toulmin, S., *The Uses of Argument*, Cambridge University Press, 1958).  This is a standalone mini-assignment, so it gets your evidence ready for the upcoming essay without changing anything about the essay assignment itself.
+Before you draft each essay, this workshop asks you to build the smallest complete unit of academic argument, which is the chain from **claim** to **evidence** to **warrant**.  The warrant is your own reasoning showing *why* this quote supports *this* claim, and it's the step first-year writing skips most often, usually on the assumption that a good quote explains itself.  It won't.  The quote just sits there on the page while your reader waits to be told what it proves.  I've adapted the chain lightly from Toulmin's model of argument (Toulmin, S., *The Uses of Argument*, Cambridge University Press, 1958).  This is a standalone mini-assignment, so it gets your evidence ready for the upcoming essay without changing anything about the essay assignment itself.
 
 ## Task
 

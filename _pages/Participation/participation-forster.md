@@ -20,7 +20,7 @@ tags:
 
 Please read the questions below and answer them in a letter addressed to the author, about as long as a 1-2 paragraph response.  Write back to Forster in your own voice, quote the story at least once in support of what you say, and raise one respectful counterargument, supported by a quote, that he would have to answer.  Submit your letter through Canvas by the due date on the syllabus.
 
-The letter is the default form here, and it applies to Question 1, where you may swap in any of the other four genres (analytic, dialogue, marginalia+aphorism, or the [Four A's]({{ site.baseurl }}/Participation/FourAs)) as long as your response still carries a quote and a counterargument.  The remaining question asks for a specific artifact we use in class, so please submit that one in the form described.
+The letter is the default form for Question 1, and for that one you may swap in any of the other four genres (analytic, dialogue, marginalia+aphorism, or the [Four A's]({{ site.baseurl }}/Participation/FourAs)) as long as your response still carries a quote and a counterargument.  The remaining question asks for a specific artifact we use in class, so please submit that one in the form described.
 
 If you want help with the reading itself, [How to Read Hard Texts in CIE]({{ site.baseurl }}/Participation/ReadingHardTexts) is the place to start.
 

@@ -30,7 +30,7 @@ info:
       preemerging: "No counterargument. The essay proceeds as though no reasonable person disagrees."
       beginning: "A counterargument is mentioned and then dismissed, or built weak on purpose so it can be knocked down.  Your reader can tell the opposing view has not been taken seriously."
       progressing: "A real counterargument is stated in terms its holder would accept, and then answered instead of waved away.  The essay may concede too little, or concede so much that its own claim weakens."
-      proficient: "The essay steelmans the strongest objection, stating it well enough that someone who holds it would say yes, that is what I think, and then either answers it or concedes precisely what has to be conceded and shows why the thesis survives anyway.  The concession leaves the argument stronger, not more apologetic."
+      proficient: "The essay steelmans the strongest objection, stating it well enough that someone who holds it would say yes, that is what I think, and then either answers it or concedes precisely what has to be conceded and shows why the thesis survives anyway.  The concession makes the argument stronger instead of more apologetic."
     - weight: 15
       description: "Evidence That Survives the Objection"
       preemerging: "Little or no textual evidence from Coates, or quotations that do not bear on the claim they follow."

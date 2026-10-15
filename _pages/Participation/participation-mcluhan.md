@@ -26,6 +26,6 @@ For help getting through the reading, see [How to Read Hard Texts in CIE]({{ sit
 
 ## Writing Prompt
 
-1.  McLuhan claims that the medium is the message: that the form of a medium shapes us more deeply than any content it carries, and that the content distracts us from noticing.  Restate this claim in your own words with a quotation, and discuss the strongest objection you can think of to it.
+1.  McLuhan claims that the medium is the message: that the form of a medium shapes us more deeply than any content it carries, and that the content distracts us from noticing.  Restate this claim in your own words with a quotation, and discuss the strongest objection to it that you can think of.
 
 2.  Pick one medium you use daily and audit its message apart from any content, in a four-column grid we use in class.  Label the columns attention, body, sense of time, and relationships, and in each one write what the medium trains that thing to do.  Beneath the grid, answer in prose: where would a conversational AI fit in McLuhan's framework, and what might its message be, independent of anything it says?
