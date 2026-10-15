@@ -18,9 +18,9 @@ tags:
 
 ---
 
-Please read the questions below and answer them in marginalia form, at about the length of a 1-2 paragraph response.  Choose two short passages from the reading and write rich marginal annotations for each one, giving me an observation, a question, and a connection, with the passage you are annotating quoted alongside.  Then distill your reading into a single aphorism of your own, and add one counterargument note, supported by a quote, against that aphorism.  Submit your annotations and aphorism through Canvas by the due date on the syllabus.
+Please read the questions below and answer them in marginalia form, at about the length of a 1-2 paragraph response.  Choose two short passages from the reading, quote each one, and write rich marginal annotations for each, giving me an observation, a question, and a connection.  Then distill your reading into a single aphorism of your own, and add one counterargument note, supported by a quote, against that aphorism.  Submit your annotations and aphorism through Canvas by the due date on the syllabus.
 
-Marginalia is the default genre for this reading, and it covers the prose portion of Question 1 as well as Question 2.  For either of those you may substitute any of the other four genres (analytic, letter, dialogue, marginalia+aphorism, or the [Four A's]({{ site.baseurl }}/Participation/FourAs)), as long as the quote and counterargument requirements are met.  The quotation list in Question 1 asks for a specific form, so please submit that part as described.
+Marginalia is the default genre for this reading, and it covers the prose portion of Question 1 as well as Question 2.  For either of those you may substitute any of the other four genres (analytic, letter, dialogue, or the [Four A's]({{ site.baseurl }}/Participation/FourAs)), as long as the quote and counterargument requirements are met.  The quotation list in Question 1 asks for a specific form, so please submit that part as described.
 
 If the poems themselves are what's in your way, [How to Read Hard Texts in CIE]({{ site.baseurl }}/Participation/ReadingHardTexts) has a section on reading lyric slowly.
 

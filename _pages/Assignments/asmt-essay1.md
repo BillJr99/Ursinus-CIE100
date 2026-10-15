@@ -70,7 +70,7 @@ tags:
 
 ---
 
-In this first essay of 1200 to 1500 words, please construct an argument grounded in close reading of the texts we have discussed so far, which are Plato's Allegory of the Cave, Adichie's *Dear Ijeawele*, and Katie Merz's *Live the Questions*.  The essay takes up the first core question of the course, what should matter to me, by asking what it takes to see the world, and ourselves, more clearly.
+In this first essay of 1200 to 1500 words, please construct an argument grounded in close reading of the texts we have discussed so far: Plato's Allegory of the Cave, Adichie's *Dear Ijeawele*, and Katie Merz's *Live the Questions*.  The essay takes up the first core question of the course, what should matter to me, by asking what it takes to see the world, and ourselves, more clearly.
 
 ## Prompt
 

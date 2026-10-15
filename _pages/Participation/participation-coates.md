@@ -28,4 +28,4 @@ Coates reads best aloud.  If the prose is fighting you, [How to Read Hard Texts 
 
 1.  Coates writes to his son about the vulnerability of the body, insisting that racism is not an abstraction but something visited upon bodies.  Choose a passage where the body itself carries the argument, and discuss how this embodiment changes the way we talk about justice compared to more abstract treatments.
 
-2.  Coates describes the Dream as a kind of sleep, comfortable and costly.  What dream, in your own life, community, or country, might Coates challenge you to wake from?  You may mark any portion of this response as private to the instructor if you prefer not to discuss it in class; the thinking matters more than the disclosure.
+2.  Coates describes the Dream as a kind of sleep, comfortable and costly.  What dream, in your own life, community, or country, might Coates challenge you to wake from?  You may mark any portion of this response as private to the instructor if you prefer not to discuss it in class; I care more about your thinking than about what you disclose.

@@ -24,4 +24,4 @@ In this end-of-semester reflection, please take stock of how you have grown as a
 
 1.  Looking across your three essays, describe one specific way your writing changed this semester, whether in how you build a thesis, choose evidence, structure an argument, or revise.  Please point to a concrete before-and-after example from your own drafts.
 
-2.  Reflect on your conferences with our Writing Fellow.  What kind of feedback proved most useful to you, what did you learn to ask for, and how will you carry this revision practice into CIE 200 and your other courses?  What advice would you give to next year's CIE students about working with a Writing Fellow?
+2.  Reflect on your conferences with our Writing Fellow.  What kind of feedback was most useful to you, what did you learn to ask for, and how will you carry this revision practice into CIE 200 and your other courses?  What advice would you give to next year's CIE students about working with a Writing Fellow?
