@@ -20,7 +20,7 @@ tags:
 
 Please read the questions below and answer them in a short dialogue between yourself and a figure from, or behind, the text.  Aim for about as much substance as a 1-2 paragraph response, and don't worry if the script formatting makes it run a little long on the page.  Quote the text at least once inside the exchange, and give the other voice a real counterargument with a quote of its own, not an easy target you can knock over.  Submit your dialogue through Canvas by the due date on the syllabus.
 
-Plato wrote a dialogue, so I'm asking you for one.  If another form serves your thinking better, you may use any of the other four genres (analytic, letter, dialogue, marginalia+aphorism, or the [Four A's]({{ site.baseurl }}/Participation/FourAs)), as long as your response still carries a quote and a counterargument.
+Plato wrote a dialogue, so I'm asking you for one.  If another form serves your thinking better, you may use any of the other four genres (analytic, letter, marginalia+aphorism, or the [Four A's]({{ site.baseurl }}/Participation/FourAs)), as long as your response still carries a quote and a counterargument.
 
 For help with the reading itself, see [How to Read Hard Texts in CIE]({{ site.baseurl }}/Participation/ReadingHardTexts).
 

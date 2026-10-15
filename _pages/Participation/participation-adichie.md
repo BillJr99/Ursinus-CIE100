@@ -22,7 +22,7 @@ Please read the questions below and answer them in a letter addressed to the aut
 
 This is one of the last prompts that asks only for a claim and a quote.  From the Islamic Mystic Poetry response onward you'll be taking on a counterargument each time, and we'll work through that move together in the Counterargument and Concession workshop before you have to do it on your own.
 
-Writing back to Adichie in her own form is the default, but you are welcome to use any of the other four genres instead (analytic, letter, dialogue, marginalia+aphorism, or the [Four A's]({{ site.baseurl }}/Participation/FourAs)), so long as you still give me a claim and a quote.
+Writing back to Adichie in her own form is the default, but you are welcome to use any of the other four genres instead (analytic, dialogue, marginalia+aphorism, or the [Four A's]({{ site.baseurl }}/Participation/FourAs)), so long as you still give me a claim and a quote.
 
 If you're having trouble with the reading, [How to Read Hard Texts in CIE]({{ site.baseurl }}/Participation/ReadingHardTexts) will help.
 
