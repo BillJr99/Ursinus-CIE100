@@ -10,7 +10,7 @@ info:
   submission: "Please submit a word processed or PDF document through Canvas by the due date on the syllabus."
   submission_types: written
   goals:
-    - To steelman the strongest objection to your own working thesis
+    - To state the strongest objection to your own working thesis as fully and fairly as someone who holds it would
     - To concede what an objection gets right before answering it
     - To rebut or reframe with textual evidence rather than assertion
     - To let a thesis be changed by the objections it survives
@@ -22,13 +22,13 @@ tags:
 
 ## Purpose
 
-Every weekly writing prompt in this course has asked you to consider a counterargument, and every essay will be stronger for having one.  A counterargument only earns its keep, though, when it's the *strongest* objection and you state it at full strength.  So this pre-draft workshop asks you to **steelman** the best case against your own working thesis, stating it as well as someone who holds it would, and then answer it honestly.  In the language of the [Four A's]({{ site.baseurl }}/Participation/FourAs), this is the "Argue" move turned around and aimed at yourself.  In Graff and Birkenstein's language, it is "planting a naysayer" in your text (Graff, G. and Birkenstein, C., *"They Say / I Say": The Moves That Matter in Academic Writing*, W. W. Norton).  This is a standalone mini-assignment, so it gets a counterargument ready for the upcoming essay without changing anything about the essay assignment itself.
+Every weekly writing prompt in this course has asked you to consider a counterargument, and every essay will be stronger for having one.  A counterargument only earns its keep, though, when it's the *strongest* objection and you state it at full strength.  So this pre-draft workshop asks you to state the best case against your own working thesis as fully and fairly as someone who holds it would, and then answer it honestly.  In the language of the [Four A's]({{ site.baseurl }}/Participation/FourAs), this is the "Argue" move turned around and aimed at yourself.  In Graff and Birkenstein's language, it is "planting a naysayer" in your text (Graff, G. and Birkenstein, C., *"They Say / I Say": The Moves That Matter in Academic Writing*, W. W. Norton).  This is a standalone mini-assignment, so it gets a counterargument ready for the upcoming essay without changing anything about the essay assignment itself.
 
 ## Task
 
 Write your response in three parts (roughly a 1-2 paragraph equivalent in total) and submit it through Canvas by the due date on the syllabus:
 
-1.  **The objection, steelmanned.**  State the strongest objection to your working thesis, drawn from a course text.  Find a passage that really does push back against your argument, and quote it with a page or line reference.  Please give the objector their best line.
+1.  **The objection, at full strength.**  State the strongest objection to your working thesis, drawn from a course text.  Find a passage that really does push back against your argument, and quote it with a page or line reference.  Please give the objector their best line.
 
 2.  **The naysayer paragraph, in three moves:**
    - **Acknowledge** the objection fairly, in language its author would recognize as accurate;

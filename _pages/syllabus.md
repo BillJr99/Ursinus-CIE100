@@ -254,6 +254,15 @@ schedule:
         dlink: "Participation/ThesisWorkshop"
         points: 10
         submission_types: "written"
+      - dtitle: "Essay 1: Thesis Statement, Quote List, and Rough Outline Handed Out"
+        dlink: "Assignments/Essay1"
+        points: 10
+        submission_types: "written"
+      - dtitle: "Essay 1: First Draft Handed Out"
+        dlink: "Assignments/Essay1"
+        points: 30
+        rubricpath: "_pages/Assignments/asmt-essay1.md"
+        submission_types: "written"
     readings:
       - rtitle: "Essay 1 Assignment Sheet and Sample Student Essays"
         rlink: false
@@ -336,6 +345,11 @@ schedule:
         dlink: "Participation/IslamicMysticPoetry"
         points: 10
         submission_types: "written"
+      - dtitle: "Essay 1: Final Draft Handed Out"
+        dlink: "Assignments/Essay1"
+        points: 60
+        rubricpath: "_pages/Assignments/asmt-essay1.md"
+        submission_types: "written"
     readings:
       - rtitle: "Continue discussing Islamic Mystic Poetry"
         rlink: false
@@ -409,9 +423,18 @@ schedule:
         points: 100
         rubricpath: "_pages/Assignments/asmt-essay2.md"
         submission_types: "written"
-      - dtitle: "Participation: Thesis Workshop (Paper 2) Due"
+      - dtitle: "Participation: Thesis Workshop (Paper 2) Handed Out"
         dlink: "Participation/ThesisWorkshop"
         points: 10
+        submission_types: "written"
+      - dtitle: "Essay 2: Thesis Statement, Quote List, and Rough Outline Handed Out"
+        dlink: "Assignments/Essay2"
+        points: 10
+        submission_types: "written"
+      - dtitle: "Essay 2: First Draft Handed Out"
+        dlink: "Assignments/Essay2"
+        points: 30
+        rubricpath: "_pages/Assignments/asmt-essay2.md"
         submission_types: "written"
     readings:
       - rtitle: "Continue discussing Between the World and Me, Part I"
@@ -426,8 +449,8 @@ schedule:
         dlink: "Participation/Counterargument"
         points: 10
         submission_types: "written"
-      - dtitle: "Essay 2: Thesis Statement, Quote List, and Rough Outline Due"
-        dlink: "Assignments/Essay2"
+      - dtitle: "Participation: Thesis Workshop (Paper 2) Due"
+        dlink: "Participation/ThesisWorkshop"
         points: 10
         submission_types: "written"
     readings:
@@ -443,6 +466,10 @@ schedule:
         submission_types: "written"
       - dtitle: "Informal Writing: Genesis Writing Prompt Handed Out"
         dlink: "Participation/Genesis"
+        points: 10
+        submission_types: "written"
+      - dtitle: "Essay 2: Thesis Statement, Quote List, and Rough Outline Due"
+        dlink: "Assignments/Essay2"
         points: 10
         submission_types: "written"
     readings:
@@ -461,6 +488,10 @@ schedule:
         points: 30
         rubricpath: "_pages/Assignments/asmt-essay2.md"
         submission_types: "written"
+      - dtitle: "Informal Writing: Draft Four A's (Paper 2) Handed Out"
+        dlink: "Participation/DraftFourAs"
+        points: 10
+        submission_types: "written"
     readings:
       - rtitle: "Genesis, chapters 1-11 (Alter translation)"
         rlink: false
@@ -475,6 +506,11 @@ schedule:
       - dtitle: "Informal Writing: Draft Four A's (Paper 2) Due"
         dlink: "Participation/DraftFourAs"
         points: 10
+        submission_types: "written"
+      - dtitle: "Essay 2: Final Draft Handed Out"
+        dlink: "Assignments/Essay2"
+        points: 60
+        rubricpath: "_pages/Assignments/asmt-essay2.md"
         submission_types: "written"
     readings:
       - rtitle: "Genesis, chapters 12-22 (Alter translation)"
@@ -540,6 +576,10 @@ schedule:
         points: 60
         rubricpath: "_pages/Assignments/asmt-essay2.md"
         submission_types: "written"
+      - dtitle: "Participation: Thesis Workshop (Paper 3) Handed Out"
+        dlink: "Participation/ThesisWorkshop"
+        points: 10
+        submission_types: "written"
     readings:
       - rtitle: "The entire class period is given over to the CIE Common Event: a student docent-led tour of the exhibition on view at the Berman Museum of Art (Center for Humanities in Action).  There is no regular class meeting and no assigned discussion today; we meet at the museum rather than in Pfahler 208.  The exhibition and the confirmed tour time will be announced closer to the date."
         rlink: "https://www.ursinus.edu/berman/exhibitions/"
@@ -560,6 +600,15 @@ schedule:
         rubricpath: "_pages/Assignments/asmt-essay3.md"
       - dtitle: "Participation: Thesis Workshop (Paper 3) Due"
         dlink: "Participation/ThesisWorkshop"
+        points: 10
+        submission_types: "written"
+      - dtitle: "Essay 3: First Draft Handed Out"
+        dlink: "Assignments/Essay3"
+        points: 40
+        rubricpath: "_pages/Assignments/asmt-essay3.md"
+        submission_types: "written"
+      - dtitle: "Participation: Evidence Workshop (Paper 3) Handed Out"
+        dlink: "Participation/EvidenceWorkshop"
         points: 10
         submission_types: "written"
     readings:
@@ -613,6 +662,11 @@ schedule:
       - dtitle: "Informal Writing: Writing Fellow Reflection Handed Out"
         dlink: "Participation/WritingFellowReflection"
         points: 10
+        submission_types: "written"
+      - dtitle: "Essay 3: Final Draft Handed Out"
+        dlink: "Assignments/Essay3"
+        points: 60
+        rubricpath: "_pages/Assignments/asmt-essay3.md"
         submission_types: "written"
     readings:
       - rtitle: "Forster, The Machine Stops (CIE Reader)"
@@ -756,7 +810,7 @@ The scaffolded deliverables and drafts for each essay fall on the dates below (a
 | Essay 1 first draft (for Writing Fellow review) | Thursday, September 17 |
 | Essay 1 final draft | Tuesday, October 6 |
 | Essay 2 assignment sheet handed out | Thursday, October 15 |
-| Essay 2 thesis statement, quote list, and rough outline | Tuesday, October 20 |
+| Essay 2 thesis statement, quote list, and rough outline | Thursday, October 22 |
 | Essay 2 first draft (for Writing Fellow review) | Tuesday, October 27 |
 | Essay 2 final draft | Tuesday, November 17 |
 | Essay 3 assignment sheet handed out | Thursday, November 19 |
