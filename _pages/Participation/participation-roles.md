@@ -46,9 +46,9 @@ The roles exist for two reasons.  First, they spread the labor of a good discuss
 
 ##### Devil's Advocate
 
-**What you do:** keep the discussion from agreeing too easily.  When the room converges, voice the strongest objection you can find, the counter-position a thoughtful dissenter would actually hold.  Steelman the view nobody in the room is defending.
+**What you do:** keep the discussion from agreeing too easily.  When the room converges, voice the strongest objection you can find, the counter-position a thoughtful dissenter would actually hold.  Make the strongest case for the view nobody in the room is defending.
 
-**How to prepare:** use the *steelman the other side* exercise from the [Preparing for Discussion]({{ site.baseurl }}/Participation/PreparingForDiscussion) guide.  Write the best version of the argument against wherever you expect the class to land, and anchor it in at least one line from the text.  The one rule for this role is sincerity.  Your objection has to be one a careful reader could actually hold.
+**How to prepare:** use the *argue the other side at full strength* exercise from the [Preparing for Discussion]({{ site.baseurl }}/Participation/PreparingForDiscussion) guide.  Write the best version of the argument against wherever you expect the class to land, and anchor it in at least one line from the text.  The one rule for this role is sincerity.  Your objection has to be one a careful reader could actually hold.
 
 ##### Connector
 
@@ -62,7 +62,7 @@ Roles rotate so that everyone holds each one several times across the semester. 
 
 #### How Role Performance Counts
 
-Serving in a role well is one of the clearest ways to earn both halves of your participation grade.  It is a meaningful contribution on the day, which is the daily half-point, and it demonstrates the quality dimensions (preparation, contribution, listening and building, and intellectual risk) that the [participation rubric]({{ site.baseurl }}/Participation/PreparingForDiscussion) rewards.  A facilitator who sequences good questions, an evidence keeper who grounds the room, a devil's advocate who steelmans in earnest, and a connector who ties the threads together are all doing what the rubric describes at its proficient level.
+Serving in a role well is one of the clearest ways to earn both halves of your participation grade.  It is a meaningful contribution on the day, which is the daily half-point, and it demonstrates the quality dimensions (preparation, contribution, listening and building, and intellectual risk) that the [participation rubric]({{ site.baseurl }}/Participation/PreparingForDiscussion) rewards.  A facilitator who sequences good questions, an evidence keeper who grounds the room, a devil's advocate who argues in earnest, and a connector who ties the threads together are all doing what the rubric describes at its proficient level.
 
 #### See also
 

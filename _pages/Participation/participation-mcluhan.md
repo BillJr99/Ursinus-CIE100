@@ -20,7 +20,7 @@ tags:
 
 Please read the questions below and answer them in marginalia form, at about the length of a 1-2 paragraph response.  Choose two short passages, quote each, and annotate each with an observation, a question, and a connection.  Then write one aphorism of your own that distills your reading, and add a counterargument note against it, with a quote behind the objection.  McLuhan wrote in aphorisms, so here's your chance to try his own method on him.  Submit your annotations and aphorism through Canvas by the due date on the syllabus.
 
-Marginalia is the default genre, and it applies to Question 1, where you may use any of the other four instead (analytic, letter, dialogue, or the [Four A's]({{ site.baseurl }}/Participation/FourAs)) as long as the quote and counterargument requirements are met.  The remaining question asks for a specific artifact we use in class, so please submit that one in the form described.
+Marginalia is the default for Question 1, and for that one you may use any of the other four instead (analytic, letter, dialogue, or the [Four A's]({{ site.baseurl }}/Participation/FourAs)) as long as the quote and counterargument are both present.  The remaining question asks for a specific artifact we use in class, so please submit that one in the form described.
 
 For help getting through the reading, see [How to Read Hard Texts in CIE]({{ site.baseurl }}/Participation/ReadingHardTexts).
 
