@@ -50,11 +50,11 @@ info:
       progressing: "MLA in-text citations and the Works Cited are correct apart from minor slips, and quotations fit grammatically into your own sentences."
       proficient: "MLA format is correct throughout, quotations are integrated so the sentence reads naturally with the quoted words in it, and alterations and ellipses are marked honestly."
     - weight: 10
-      description: "Writing Fellow Conference and Response (all or nothing)"
-      preemerging: "No conference took place.  0 of 10 points, because this row carries no partial credit."
-      beginning: "No conference took place, or one was scheduled and missed. 0 of 10 points."
-      progressing: "The conference took place, but the final draft does not respond to what was said in it.  0 of 10 points, since attending is necessary and not sufficient."
-      proficient: "You met in person with our Writing Fellow between the first and final drafts, and the final draft visibly responds to that conversation, with a change you can point to and name in your revision memo.  Full 10 points."
+      description: "Writing Fellow Conference and Response"
+      preemerging: "No conference took place."
+      beginning: "A conference was scheduled but missed, or it took place but nothing in the final draft or the revision memo shows what came of it."
+      progressing: "The conference took place and the revision memo describes what was discussed, but the final draft changes little in response to it."
+      proficient: "You met in person with our Writing Fellow between the first and final drafts, and the final draft visibly responds to that conversation, with a change you can point to and name in your revision memo."
     - weight: 15
       description: "Revision (Substantive Change Between Drafts)"
       preemerging: "The final draft is the first draft with the typos corrected.  There is no revision memo, or the memo describes edits where it should describe changes."
@@ -84,7 +84,7 @@ Choose **one** of the following options.  Whichever option you choose, your essa
 
 ## Scaffolded Deliverables
 
-You will develop this essay in three stages, and together those stages make up the 100 points of this assignment.  The thesis statement, quote list, and rough outline are worth 10 points, the complete first draft is worth 30 points, and the revised final draft is worth 60 points.  You must meet **in person** with our Writing Fellow between the first and final drafts, and your final draft has to respond substantively to that conversation.  Cosmetic edits don't count as revision.  That meeting is worth **10 of the 100 points, all or nothing**, so meeting without revising earns zero on that row, and so does revising without meeting.  Please name the change the conference produced in your revision memo, so the credit is easy for me to see.  Book early, since the whole section shares one Writing Fellow.
+You will develop this essay in three stages, and together those stages make up the 100 points of this assignment.  The thesis statement, quote list, and rough outline are worth 10 points, the complete first draft is worth 30 points, and the revised final draft is worth 60 points.  You must meet **in person** with our Writing Fellow between the first and final drafts, and your final draft has to respond substantively to that conversation.  Cosmetic edits don't count as revision.  That meeting is one row of the rubric, and the row rewards both parts together: meeting with her and a final draft that visibly responds to the conversation.  Doing only one of the two earns only partial credit on that row.  Please name the change the conference produced in your revision memo, so the credit is easy for me to see.  Book early, since the whole section shares one Writing Fellow.
 
 1.  **Thesis Statement, Quote List, and Rough Outline.**  A one to two sentence working thesis, a list of four to six quotations (with page numbers) that you expect to use as evidence, and a paragraph-level outline.
 2.  **First Draft.**  A complete draft of the full 1200 to 1500 words, and not a partial sketch.  The more complete your draft is, the more useful your Writing Fellow conference will be.
