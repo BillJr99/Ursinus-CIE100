@@ -199,7 +199,7 @@ schedule:
     readings:
       - rtitle: "Plato, Allegory of the Cave (CIE Reader)"
         rlink: false
-      - rtitle: "In class: close reading workshop, reading in passes, marking anchor passages, and annotating for discussion, using the Allegory of the Cave"
+      - rtitle: "Close reading workshop: reading in passes, marking anchor passages, and annotating for discussion, using the Allegory of the Cave"
         rlink: false
       - rtitle: "Center for Writing and Speaking: Reading to Write"
         rlink: "https://www.ursinus.edu/live/files/4030-reading-to-write-ppt-001"
@@ -317,7 +317,7 @@ schedule:
     readings:
       - rtitle: "Continue discussing Sappho"
         rlink: false
-      - rtitle: "Islamic Mystic Poetry Worksheet handed out today, alongside the writing prompt: bring it to both Islamic Mystic Poetry meetings"
+      - rtitle: "Islamic Mystic Poetry Worksheet, handed out with the writing prompt; have it ready at both Islamic Mystic Poetry meetings"
         rlink: false
   - week: "3"
     date: "1"
@@ -375,7 +375,7 @@ schedule:
         points: 10
         submission_types: "written"
     readings:
-      - rtitle: "Bring your Essay 1 draft and your Writing Fellow conference notes to class"
+      - rtitle: "Have your Essay 1 draft and your Writing Fellow conference notes ready"
         rlink: false
       - rtitle: "Center for Writing and Speaking: Resources for Students"
         rlink: "https://www.ursinus.edu/offices/center-for-writing-and-speaking/resources-for-students-/"
@@ -475,18 +475,6 @@ schedule:
     readings:
       - rtitle: "Coates, Between the World and Me, pp. 133-end (Part III)"
         rlink: false
-  - week: "9"
-    date: "0"
-    title: "No Class: Instructor Away"
-    readings:
-      - rtitle: "No class meeting today.  Use the time to read Genesis, chapters 1-11 (Alter translation), and to finish the Genesis writing prompt and your Essay 2 first draft, both due Tuesday, November 3."
-        rlink: false
-  - week: "9"
-    date: "1"
-    title: "No Class: Instructor Away"
-    readings:
-      - rtitle: "No class meeting today.  Read ahead in Genesis, chapters 12-22, for Thursday, November 5."
-        rlink: false
   - week: "10"
     date: "0"
     title: "Genesis 1-11: Creation, Naming, and Babel"
@@ -527,7 +515,7 @@ schedule:
     readings:
       - rtitle: "Genesis, chapters 12-22 (Alter translation)"
         rlink: false
-      - rtitle: "In class: revision workshop; have your Essay 2 draft and Writing Fellow feedback ready"
+      - rtitle: "Revision workshop for Essay 2; have your draft and Writing Fellow feedback ready"
         rlink: false
   - week: "11"
     date: "0"
@@ -687,9 +675,9 @@ schedule:
         rubricpath: "_pages/Assignments/asmt-essay3.md"
         submission_types: "written"
     readings:
-      - rtitle: "Continue discussing The Machine Stops; in class: revision workshop for Essay 3"
+      - rtitle: "Continue discussing The Machine Stops, followed by a revision workshop for Essay 3"
         rlink: false
-      - rtitle: "In class: final revision workshop for Essay 3; the final draft is due today, our last class meeting"
+      - rtitle: "Final revision workshop for Essay 3; the final draft is due today, our last class meeting"
         rlink: false
 
 university:
@@ -809,7 +797,7 @@ The scaffolded deliverables and drafts for each essay fall on the dates below (a
 | Essay 1 final draft | Tuesday, October 6 |
 | Essay 2 assignment sheet handed out | Thursday, October 15 |
 | Essay 2 thesis statement, quote list, and rough outline | Thursday, October 22 |
-| Essay 2 first draft (for Writing Fellow review) | Tuesday, October 27 |
+| Essay 2 first draft (for Writing Fellow review) | Tuesday, November 3 |
 | Essay 2 final draft | Tuesday, November 17 |
 | Essay 3 assignment sheet handed out | Thursday, November 19 |
 | Essay 3 first draft (no conference required) | Tuesday, December 1 |
