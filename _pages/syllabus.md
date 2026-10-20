@@ -199,7 +199,7 @@ schedule:
     readings:
       - rtitle: "Plato, Allegory of the Cave (CIE Reader)"
         rlink: false
-      - rtitle: "In class: close reading workshop, reading in passes, marking anchor passages, and annotating for discussion, using the Allegory of the Cave"
+      - rtitle: "Close reading workshop: reading in passes, marking anchor passages, and annotating for discussion, using the Allegory of the Cave"
         rlink: false
       - rtitle: "Center for Writing and Speaking: Reading to Write"
         rlink: "https://www.ursinus.edu/live/files/4030-reading-to-write-ppt-001"
@@ -317,7 +317,7 @@ schedule:
     readings:
       - rtitle: "Continue discussing Sappho"
         rlink: false
-      - rtitle: "Islamic Mystic Poetry Worksheet handed out today, alongside the writing prompt: bring it to both Islamic Mystic Poetry meetings"
+      - rtitle: "Islamic Mystic Poetry Worksheet, handed out with the writing prompt; have it ready at both Islamic Mystic Poetry meetings"
         rlink: false
   - week: "3"
     date: "1"
@@ -375,7 +375,7 @@ schedule:
         points: 10
         submission_types: "written"
     readings:
-      - rtitle: "Bring your Essay 1 draft and your Writing Fellow conference notes to class"
+      - rtitle: "Have your Essay 1 draft and your Writing Fellow conference notes ready"
         rlink: false
       - rtitle: "Center for Writing and Speaking: Resources for Students"
         rlink: "https://www.ursinus.edu/offices/center-for-writing-and-speaking/resources-for-students-/"
@@ -515,7 +515,7 @@ schedule:
     readings:
       - rtitle: "Genesis, chapters 12-22 (Alter translation)"
         rlink: false
-      - rtitle: "In class: revision workshop; have your Essay 2 draft and Writing Fellow feedback ready"
+      - rtitle: "Revision workshop for Essay 2; have your draft and Writing Fellow feedback ready"
         rlink: false
   - week: "11"
     date: "0"
@@ -675,9 +675,9 @@ schedule:
         rubricpath: "_pages/Assignments/asmt-essay3.md"
         submission_types: "written"
     readings:
-      - rtitle: "Continue discussing The Machine Stops; in class: revision workshop for Essay 3"
+      - rtitle: "Continue discussing The Machine Stops, followed by a revision workshop for Essay 3"
         rlink: false
-      - rtitle: "In class: final revision workshop for Essay 3; the final draft is due today, our last class meeting"
+      - rtitle: "Final revision workshop for Essay 3; the final draft is due today, our last class meeting"
         rlink: false
 
 university:
