@@ -22,7 +22,7 @@ tags:
 
 ## Purpose
 
-Before each essay, this short workshop asks you to draft a **working thesis**.  I call it a working thesis because its job is to get better, and you can't improve a thesis you wrote the night before the draft is due.  You can only obey it.  Write one now and you can still test it, argue with it, and throw it out.  This is a standalone mini-assignment, so it prepares you for the upcoming essay without changing anything about the essay assignment itself.
+Before each essay, this short workshop asks you to draft a **working thesis**.  I call it a working thesis because it is meant to improve, and a thesis you write the night before the draft is due has no time left to improve; you can only follow it.  If you write one now, you still have time to test it, argue with it, and throw it out.  This is a standalone mini-assignment, so it prepares you for the upcoming essay without changing anything about the essay assignment itself.
 
 ## Task
 
@@ -36,7 +36,7 @@ Write your response in three parts (roughly a 1-2 paragraph equivalent in total)
    - **Provable**: could you support it with quotable evidence from the texts, meaning actual passages you could put on the page?
    - **Consequential**: does it answer "so what?"  In other words, why would this argument matter to someone who is not being graded on it?
 
-3.  **The weaker version, on purpose.**  Rewrite your own thesis as a *worse* thesis, then diagnose in 2-3 sentences exactly why it is weaker.  Is it too broad?  Unfalsifiable, meaning no evidence could ever show it to be wrong?  Summary instead of argument?  Once you can see how a thesis fails in one you built yourself, you'll start catching it in your own drafts.
+3.  **A deliberately weaker version.**  Rewrite your own thesis as a *worse* thesis, then diagnose in 2-3 sentences exactly why it is weaker.  Is it too broad?  Unfalsifiable, meaning no evidence could ever show it to be wrong?  Summary instead of argument?  Once you can see how a thesis fails in one you built yourself, you'll start catching it in your own drafts.
 
 Close with the **"they say / I say" move**.  Write one sentence naming the conversation your thesis enters, meaning what "they say" (a reading, a common view, a claim from one of our texts) that your thesis answers (Graff, G. and Birkenstein, C., *"They Say / I Say": The Moves That Matter in Academic Writing*, W. W. Norton).
 

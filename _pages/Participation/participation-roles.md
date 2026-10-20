@@ -48,7 +48,7 @@ The roles exist for two reasons.  First, they spread the labor of a good discuss
 
 **What you do:** keep the discussion from agreeing too easily.  When the room converges, voice the strongest objection you can find, the counter-position a thoughtful dissenter would actually hold.  Make the strongest case for the view nobody in the room is defending.
 
-**How to prepare:** use the *argue the other side at full strength* exercise from the [Preparing for Discussion]({{ site.baseurl }}/Participation/PreparingForDiscussion) guide.  Write the best version of the argument against wherever you expect the class to land, and anchor it in at least one line from the text.  The one rule for this role is sincerity.  Your objection has to be one a careful reader could actually hold.
+**How to prepare:** use the *argue the other side* exercise from the [Preparing for Discussion]({{ site.baseurl }}/Participation/PreparingForDiscussion) guide.  Write the best version of the argument against wherever you expect the class to land, and anchor it in at least one line from the text.  The one rule for this role is sincerity.  Your objection has to be one a careful reader could actually hold.
 
 ##### Connector
 

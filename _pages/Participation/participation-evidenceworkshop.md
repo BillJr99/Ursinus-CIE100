@@ -22,7 +22,7 @@ tags:
 
 ## Purpose
 
-Before you draft each essay, this workshop asks you to build the smallest complete unit of academic argument, which is the chain from **claim** to **evidence** to **warrant**.  The warrant is your own reasoning showing *why* this quote supports *this* claim, and it's the step first-year writing skips most often, usually on the assumption that a good quote explains itself.  It won't.  The quote just sits there on the page while your reader waits to be told what it proves.  I've adapted the chain lightly from Toulmin's model of argument (Toulmin, S., *The Uses of Argument*, Cambridge University Press, 1958).  This is a standalone mini-assignment, so it gets your evidence ready for the upcoming essay without changing anything about the essay assignment itself.
+Before you draft each essay, this workshop asks you to build the smallest complete unit of academic argument, which is the chain from **claim** to **evidence** to **warrant**.  The warrant is your own reasoning showing *why* this quote supports *this* claim, and it's the step first-year writers skip most often, usually because they assume a good quote explains itself.  It doesn't, and without a warrant your reader is left waiting for you to say what the quote proves.  I've adapted the chain lightly from Toulmin's model of argument (Toulmin, S., *The Uses of Argument*, Cambridge University Press, 1958).  This is a standalone mini-assignment, so it gets your evidence ready for the upcoming essay without changing anything about the essay assignment itself.
 
 ## Task
 
@@ -32,7 +32,7 @@ Select **two quotations** you actually intend to use in the upcoming essay.  For
 2.  **Evidence**: the quotation, cited with page or line reference, trimmed to the words that do the work.
 3.  **Warrant**: 2-3 sentences of your own reasoning showing why this quote supports this claim.  Tell me what the quote's specific words establish, and what has to be true for that evidence to carry the claim's weight.
 
-Then add one **"tempting but weak" quote**, meaning a passage you considered using and rejected, with one sentence on why it fails.  Maybe it's decorative (sounds good, proves nothing), or out of context (means something else where it actually lives), or maybe it just restates your claim instead of supporting it.
+Then add one **"tempting but weak" quote**, meaning a passage you considered using and rejected, with one sentence on why it fails.  It might be decorative (it sounds good but proves nothing), taken out of context (it means something else in its original setting), or it might simply restate your claim instead of supporting it.
 
 The whole response comes to roughly a 1-2 paragraph equivalent.  Please submit it through Canvas by the due date on the syllabus.
 

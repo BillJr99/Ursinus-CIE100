@@ -30,7 +30,7 @@ info:
       preemerging: "No counterargument. The essay proceeds as though no reasonable person disagrees."
       beginning: "A counterargument is mentioned and then dismissed, or built weak on purpose so it can be knocked down.  Your reader can tell the opposing view has not been taken seriously."
       progressing: "A real counterargument is stated in terms its holder would accept, and then answered instead of waved away.  The essay may concede too little, or concede so much that its own claim weakens."
-      proficient: "The essay states the strongest objection as fully and fairly as someone who holds it would, well enough that someone who holds it would say yes, that is what I think, and then either answers it or concedes precisely what has to be conceded and shows why the thesis survives anyway.  The concession makes the argument stronger instead of more apologetic."
+      proficient: "The essay states the strongest objection fully and fairly enough that someone who holds it would say yes, that is what I think, and then either answers it or concedes precisely what has to be conceded and shows why the thesis survives anyway.  The concession makes the argument stronger instead of more apologetic."
     - weight: 15
       description: "Evidence That Survives the Objection"
       preemerging: "Little or no textual evidence from Coates, or quotations that do not bear on the claim they follow."
@@ -94,7 +94,7 @@ You will build this essay in three stages, and those stages together make up the
 
 This sheet starts the quote list above.  Choose three quotations: two that could support a claim, and one that pushes back on it.  At least one of the three should come from Coates.  For each one, write the page, the exact words you will analyze, one sentence of analysis (why *these* words and not others), and one sentence naming the point it could support.  In the terms of a MEAL paragraph (Main idea, Evidence, Analysis, Link), those last two sentences are the Analysis and the Main idea, so every row here is the start of a paragraph.
 
-Essay 2 rewards how you handle the passages that disagree with you, which is why the third quotation is not optional.  Then draft a provisional thesis.  It is supposed to be wrong; that is why it is provisional.  You may fill this in on paper, in a document, or by dictation.
+Essay 2 rewards how you handle the passages that disagree with you, which is why the third quotation is not optional.  Then draft a provisional thesis.  It will probably change, and that is why it is provisional.  You may fill this in on paper, in a document, or by dictation.
 
 ```text
 QUOTE-AND-POINT SHEET (Essay 2 brainstorm)
@@ -126,7 +126,7 @@ Essay 2 asks for Coates and at least one of Sappho, the Islamic mystic poets, an
 
 #### Two Questions to Ask of Every Row
 
-- *Not what the quote says: what it proves.*  If your analysis sentence restates the quotation, it is still summary.
+- *Does your analysis say what the quote proves, or only what it says?*  If your analysis sentence restates the quotation, it is still summary.
 - *Could you have written that sentence without reading the text?*  If so, find the word in the passage that only this author would have chosen, and start there.
 
 ## Academic Honesty

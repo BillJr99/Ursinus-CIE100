@@ -27,7 +27,7 @@ info:
       proficient: "The thesis makes a specific, arguable claim that this essay is the right size to defend, and it engages one of the course's core questions (what should matter to me, how should we live together, how can we understand the world, what will I do) instead of floating free of all four.  By the end of your first paragraph I know what you claim and why someone might disagree."
     - weight: 20
       description: "Quotation and the Work It Does"
-      preemerging: "Few or no quotations, or quotations dropped into the essay with no framing and no comment.  The passage is left to speak for itself, and it will not."
+      preemerging: "Few or no quotations, or quotations dropped into the essay with no framing and no comment.  The passages are left to speak for themselves, which they cannot do."
       beginning: "Quotations appear, but you chose them for what they are about rather than for how they are written.  They restate a point you already made in your own words instead of giving your reader something to look at."
       progressing: "Quotations are well chosen and introduced, and most are followed by comment.  Some passages run longer than the point requires, or the comment paraphrases where it should analyze."
       proficient: "Every quotation is an anchor passage in the sense we practiced in the close reading workshop.  You chose it because its particular words matter, quoted only as far as you needed to, framed it so your reader knows where they are in the text, and followed it with commentary that does work the quotation cannot do alone.  The essay reads as though you selected the passages on a second pass through the text."

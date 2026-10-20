@@ -31,11 +31,11 @@ As you read, and this works best during pass two of the [three-pass strategy]({{
 - **Assumptions**: What assumptions does the author hold?  Every author writes from beliefs they never argue for, and finding them is the first thing a scholar does.
 - **Agree**: What do you agree with in the text?  Even a text you resist gets something right, and saying precisely what earns you the standing to disagree with the rest of it.
 - **Argue**: What do you want to argue with?  This is where your marginal push-back becomes a position, a specific objection to a specific passage.
-- **Aspire**: What parts of the text do you aspire to?  Somewhere in every text on this syllabus there's a sentence you wish you'd written, or a way of seeing you want to carry with you.  Naming it is how the text becomes yours.
+- **Aspire**: What parts of the text do you aspire to?  Somewhere in every text on this syllabus there's a sentence you wish you'd written, or a way of seeing you want to carry with you.  Naming it helps you make the text your own.
 
 ## Task: The Written Response
 
-For this individual written adaptation of the protocol, please write **one short paragraph (or 2-3 rich bullets) for each of the four A's**, and anchor each one with **at least one quoted passage** from the text, with a page or line reference.  The whole response should come to roughly the equivalent of 1-2 paragraphs of the usual weekly response.  It's a compact form, and the discipline is all in choosing the passages.  Please submit your response through Canvas by the due date on the syllabus.
+For this individual written adaptation of the protocol, please write **one short paragraph (or 2-3 rich bullets) for each of the four A's**, and anchor each one with **at least one quoted passage** from the text, with a page or line reference.  The whole response should come to roughly the equivalent of 1-2 paragraphs of the usual weekly response.  Because the form is short, most of the work is in choosing the passages.  Please submit your response through Canvas by the due date on the syllabus.
 
 ## Criteria
 
@@ -53,4 +53,4 @@ Adapted from: Gray, J., "Four 'A's Text Protocol," National School Reform Facult
 
 You may render your response as four short paragraphs of prose, as labeled bullet lists (2-3 rich bullets per "A"), or as annotated quotations, each quoted passage followed by your labeled commentary.  Any of those is fine as long as all four A's and their anchoring quotations are present.
 
-See also: [How to Read Hard Texts in CIE]({{ site.baseurl }}/Participation/ReadingHardTexts) for the three-pass strategy that makes marking for the four A's nearly free.  A miniature Four A's, one sentence per "A," also works well as a commonplace-book entry.
+See also: [How to Read Hard Texts in CIE]({{ site.baseurl }}/Participation/ReadingHardTexts) for the three-pass strategy that makes marking for the four A's quick and easy.  A miniature Four A's, one sentence per "A," also works well as a commonplace-book entry.
