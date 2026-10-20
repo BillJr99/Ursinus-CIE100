@@ -31,7 +31,7 @@ Reread your first draft after the conference, then answer the four A's about it:
 1.  **Assumptions**: What assumptions does my draft make about the texts (what they say, what they can be made to say) and about the reader (what the reader already knows, already believes, or will grant without being shown)?
 2.  **Agree**: What do I still agree with in my draft after the conference?  What survived the conversation and deserves to anchor the revision?
 3.  **Argue**: What do I now want to argue with in my own draft?  Where does it overclaim, dodge, or say something I no longer quite believe?
-4.  **Aspire**: What does the revision aspire to?  I'm not asking about fixing the transitions.  I'm asking about the essay this draft was reaching for and hasn't become yet.
+4.  **Aspire**: What does the revision aspire to?  Think beyond fixing the transitions: what is the essay this draft was reaching for but hasn't become yet?
 
 Your response should include **one quoted line from your own draft**, and please treat yourself as citable here by quoting the actual sentence instead of paraphrasing it.  Include **one quotation from a course text** as well, one you now want to bring into the essay or reweigh in light of the conference.  The whole reflection should come to roughly a 1-2 paragraph equivalent.
 

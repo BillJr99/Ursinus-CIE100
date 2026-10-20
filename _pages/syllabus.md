@@ -427,10 +427,6 @@ schedule:
         dlink: "Participation/ThesisWorkshop"
         points: 10
         submission_types: "written"
-      - dtitle: "Essay 2: Thesis Statement, Quote List, and Rough Outline Handed Out"
-        dlink: "Assignments/Essay2"
-        points: 10
-        submission_types: "written"
       - dtitle: "Essay 2: First Draft Handed Out"
         dlink: "Assignments/Essay2"
         points: 30
@@ -451,6 +447,10 @@ schedule:
         submission_types: "written"
       - dtitle: "Participation: Thesis Workshop (Paper 2) Due"
         dlink: "Participation/ThesisWorkshop"
+        points: 10
+        submission_types: "written"
+      - dtitle: "Essay 2: Thesis Statement, Quote List, and Rough Outline Handed Out"
+        dlink: "Assignments/Essay2"
         points: 10
         submission_types: "written"
     readings:
@@ -477,6 +477,18 @@ schedule:
         rlink: false
   - week: "9"
     date: "0"
+    title: "No Class: Instructor Away"
+    readings:
+      - rtitle: "No class meeting today.  Use the time to read Genesis, chapters 1-11 (Alter translation), and to finish the Genesis writing prompt and your Essay 2 first draft, both due Tuesday, November 3."
+        rlink: false
+  - week: "9"
+    date: "1"
+    title: "No Class: Instructor Away"
+    readings:
+      - rtitle: "No class meeting today.  Read ahead in Genesis, chapters 12-22, for Thursday, November 5."
+        rlink: false
+  - week: "10"
+    date: "0"
     title: "Genesis 1-11: Creation, Naming, and Babel"
     deliverables:
       - dtitle: "Informal Writing: Genesis Writing Prompt Due"
@@ -495,7 +507,7 @@ schedule:
     readings:
       - rtitle: "Genesis, chapters 1-11 (Alter translation)"
         rlink: false
-  - week: "9"
+  - week: "10"
     date: "1"
     title: "Genesis 12-22 and Revision Workshop"
     deliverables:
@@ -515,53 +527,39 @@ schedule:
     readings:
       - rtitle: "Genesis, chapters 12-22 (Alter translation)"
         rlink: false
-      - rtitle: "In class: revision workshop; bring your Essay 2 draft and Writing Fellow feedback"
+      - rtitle: "In class: revision workshop; have your Essay 2 draft and Writing Fellow feedback ready"
         rlink: false
-  - week: "10"
+  - week: "11"
     date: "0"
-    title: "Darwin: Descent with Modification"
+    title: "Darwin: Descent with Modification and Evolution Beyond Biology"
     deliverables:
       - dtitle: "Informal Writing: Darwin Writing Prompt Due"
         dlink: "Participation/Darwin"
         points: 10
         submission_types: "written"
-    readings:
-      - rtitle: "Darwin selections (CIE Reader)"
-        rlink: false
-  - week: "10"
-    date: "1"
-    title: "Darwin, Continued: Evolution Beyond Biology"
-    deliverables:
       - dtitle: "Informal Writing: McPhee Writing Prompt Handed Out"
         dlink: "Participation/McPhee"
         points: 10
         submission_types: "written"
     readings:
-      - rtitle: "Continue discussing Darwin"
+      - rtitle: "Darwin selections (CIE Reader)"
         rlink: false
   - week: "11"
-    date: "0"
-    title: "McPhee: The Control of Nature"
+    date: "1"
+    title: "McPhee: The Control of Nature and Engineering Against the River"
     deliverables:
       - dtitle: "Informal Writing: McPhee Writing Prompt Due"
         dlink: "Participation/McPhee"
         points: 10
         submission_types: "written"
-    readings:
-      - rtitle: "McPhee selections (CIE Reader)"
-        rlink: false
-  - week: "11"
-    date: "1"
-    title: "McPhee, Continued: Engineering Against the River"
-    deliverables:
       - dtitle: "Informal Writing: Deloria Writing Prompt Handed Out"
         dlink: "Participation/Deloria"
         points: 10
         submission_types: "written"
     readings:
-      - rtitle: "Continue discussing McPhee"
+      - rtitle: "McPhee selections (CIE Reader)"
         rlink: false
-      - rtitle: "Also today, we open Deloria: the \"Whose sun?\" return to Plato's Cave, a short framing of Deloria as an author, and the ground rule that we say \"Deloria argues\" rather than \"Native Americans believe.\" Read the Deloria selections (CIE Reader) before Thursday, November 19."
+      - rtitle: "We close by opening Deloria: the \"Whose sun?\" return to Plato's Cave, a short framing of Deloria as an author, and the ground rule that we say \"Deloria argues\" rather than \"Native Americans believe.\" Read the Deloria selections (CIE Reader) before Thursday, November 19."
         rlink: false
   - week: "12"
     date: "0"
