@@ -475,18 +475,6 @@ schedule:
     readings:
       - rtitle: "Coates, Between the World and Me, pp. 133-end (Part III)"
         rlink: false
-  - week: "9"
-    date: "0"
-    title: "No Class: Instructor Away"
-    readings:
-      - rtitle: "No class meeting today.  Use the time to read Genesis, chapters 1-11 (Alter translation), and to finish the Genesis writing prompt and your Essay 2 first draft, both due Tuesday, November 3."
-        rlink: false
-  - week: "9"
-    date: "1"
-    title: "No Class: Instructor Away"
-    readings:
-      - rtitle: "No class meeting today.  Read ahead in Genesis, chapters 12-22, for Thursday, November 5."
-        rlink: false
   - week: "10"
     date: "0"
     title: "Genesis 1-11: Creation, Naming, and Babel"
@@ -809,7 +797,7 @@ The scaffolded deliverables and drafts for each essay fall on the dates below (a
 | Essay 1 final draft | Tuesday, October 6 |
 | Essay 2 assignment sheet handed out | Thursday, October 15 |
 | Essay 2 thesis statement, quote list, and rough outline | Thursday, October 22 |
-| Essay 2 first draft (for Writing Fellow review) | Tuesday, October 27 |
+| Essay 2 first draft (for Writing Fellow review) | Tuesday, November 3 |
 | Essay 2 final draft | Tuesday, November 17 |
 | Essay 3 assignment sheet handed out | Thursday, November 19 |
 | Essay 3 first draft (no conference required) | Tuesday, December 1 |
