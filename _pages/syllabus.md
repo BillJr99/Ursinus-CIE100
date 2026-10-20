@@ -427,10 +427,6 @@ schedule:
         dlink: "Participation/ThesisWorkshop"
         points: 10
         submission_types: "written"
-      - dtitle: "Essay 2: Thesis Statement, Quote List, and Rough Outline Handed Out"
-        dlink: "Assignments/Essay2"
-        points: 10
-        submission_types: "written"
       - dtitle: "Essay 2: First Draft Handed Out"
         dlink: "Assignments/Essay2"
         points: 30
@@ -451,6 +447,10 @@ schedule:
         submission_types: "written"
       - dtitle: "Participation: Thesis Workshop (Paper 2) Due"
         dlink: "Participation/ThesisWorkshop"
+        points: 10
+        submission_types: "written"
+      - dtitle: "Essay 2: Thesis Statement, Quote List, and Rough Outline Handed Out"
+        dlink: "Assignments/Essay2"
         points: 10
         submission_types: "written"
     readings:
