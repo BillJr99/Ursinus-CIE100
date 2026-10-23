@@ -547,11 +547,11 @@ schedule:
     readings:
       - rtitle: "McPhee selections (CIE Reader)"
         rlink: false
-      - rtitle: "We close by opening Deloria: the \"Whose sun?\" return to Plato's Cave, a short framing of Deloria as an author, and the ground rule that we say \"Deloria argues\" rather than \"Native Americans believe.\" Read the Deloria selections (CIE Reader) before Thursday, November 19."
+      - rtitle: "We close by opening Deloria: the \"Whose sun?\" return to Plato's Cave, a short framing of Deloria as an author, and the ground rule that we say \"Deloria argues\" rather than \"Native Americans believe.\" Read the Deloria selections (CIE Reader) before Tuesday, November 17."
         rlink: false
   - week: "12"
     date: "0"
-    title: "CIE Common Event: Docent-Led Tour at the Berman Museum of Art (No Regular Class; We Meet at the Museum)"
+    title: "Deloria: God Is Red, the Sacredness of Place, and Essay 3 Brainstorming Workshop"
     deliverables:
       - dtitle: "Informal Writing: Deloria Writing Prompt Due"
         dlink: "Participation/Deloria"
@@ -567,13 +567,15 @@ schedule:
         points: 10
         submission_types: "written"
     readings:
-      - rtitle: "The entire class period is given over to the CIE Common Event: a student docent-led tour of the exhibition on view at the Berman Museum of Art (Center for Humanities in Action).  There is no regular class meeting and no assigned discussion today; we meet at the museum rather than in Pfahler 208.  The exhibition and the confirmed tour time will be announced closer to the date."
-        rlink: "https://www.ursinus.edu/berman/exhibitions/"
+      - rtitle: "Deloria selections (CIE Reader).  Our full Deloria discussion, building the time-versus-space argument from quotation, then the Essay 3 assignment sheet and the in-class brainstorming workshop.  Come having marked your Deloria passages in advance, since we build the quotation board from passages you have already chosen."
+        rlink: false
+      - rtitle: "Read ahead for the Essay 3 first draft: McLuhan selections (CIE Reader) and Forster, The Machine Stops (CIE Reader).  We discuss McLuhan on 11/24 and 12/1 and Forster on 12/3 and 12/8, but every text named in the Essay 3 prompt must be read before your first draft is due on 12/1."
+        rlink: false
       - rtitle: "Note: the last day to withdraw with a W grade is Tuesday, November 17, 2026"
         rlink: false
   - week: "12"
     date: "1"
-    title: "Deloria: God Is Red, the Sacredness of Place, and Essay 3 Brainstorming Workshop"
+    title: "CIE Common Event: Docent-Led Tour at the Berman Museum of Art (No Regular Class; We Meet at the Museum)"
     deliverables:
       - dtitle: "Informal Writing: McLuhan Writing Prompt Handed Out"
         dlink: "Participation/McLuhan"
@@ -598,10 +600,8 @@ schedule:
         points: 10
         submission_types: "written"
     readings:
-      - rtitle: "Deloria selections (CIE Reader).  Our full Deloria discussion, opening from what we saw at the Berman on Tuesday and building the time-versus-space argument from quotation, then the Essay 3 assignment sheet and the in-class brainstorming workshop.  Come having marked your Deloria passages in advance, since we build the quotation board from passages you have already chosen."
-        rlink: false
-      - rtitle: "Read ahead for the Essay 3 first draft: McLuhan selections (CIE Reader) and Forster, The Machine Stops (CIE Reader).  We discuss McLuhan on 11/24 and 12/1 and Forster on 12/3 and 12/8, but every text named in the Essay 3 prompt must be read before your first draft is due on 12/1."
-        rlink: false
+      - rtitle: "The entire class period is given over to the CIE Common Event: a student docent-led tour of the exhibition on view at the Berman Museum of Art (Center for Humanities in Action).  There is no regular class meeting and no assigned discussion today; we meet at the museum rather than in Pfahler 208."
+        rlink: "https://www.ursinus.edu/berman/exhibitions/"
   - week: "13"
     date: "0"
     title: "McLuhan: The Medium Is the Message"
@@ -711,8 +711,8 @@ university:
   - kname: "CIE Common Event: Banned Books Panel - 1:30 to 2:30 PM in Bomberger Auditorium (Wednesday common hours)"
     kdate: "2026/10/14"
     kdisplay: false
-  - kname: "CIE Common Event: student docent-led tour at the Berman Museum of Art (our section tours during our Tuesday, November 17 class period, connecting the exhibition to Deloria's God Is Red)"
-    kdate: "2026/11/17"
+  - kname: "CIE Common Event: student docent-led tour at the Berman Museum of Art (our section tours during our Thursday, November 19 class period, connecting the exhibition to Deloria's God Is Red)"
+    kdate: "2026/11/19"
     kdisplay: true
   spring: []
   fallholidays:
@@ -854,14 +854,14 @@ As the instructor of this course, I strive to provide an inclusive learning envi
 
 ### **Common Events**
 
-CIE Common Events are mandatory for all CIE students and faculty, and attendance at them is part of the fourth credit hour of the course.  Two of this fall's events are held during the extended Wednesday afternoon Common hours, so they do not conflict with our Tuesday/Thursday meetings, and the semester opens with an event on Friday, August 21, before classes begin.  The November event is different: it is a student docent-led tour that our section takes together during our own class period, so we meet at the Berman Museum on Tuesday, November 17 rather than in Pfahler 208.  Specific details about each event will be sent to all CIE students and faculty beforehand, and I will confirm times and locations as they are finalized.  The Fall 2026 events are:
+CIE Common Events are mandatory for all CIE students and faculty, and attendance at them is part of the fourth credit hour of the course.  Two of this fall's events are held during the extended Wednesday afternoon Common hours, so they do not conflict with our Tuesday/Thursday meetings, and the semester opens with an event on Friday, August 21, before classes begin.  The November event is different: it is a student docent-led tour that our section takes together during our own class period, so we meet at the Berman Museum on Thursday, November 19 rather than in Pfahler 208.  Specific details about each event will be sent to all CIE students and faculty beforehand, and I will confirm times and locations as they are finalized.  The Fall 2026 events are:
 
 | Event | Date and Time | Location |
 | --- | --- | --- |
 | **Read-a-thon: "Reading as Resistance"**, a college-wide sustained reading practice to open the semester, framed by Matt Renwick's [Reading as an Act of Resistance](https://readbyexample.substack.com/p/reading-as-an-act-of-resistance). We discuss the practice of reading, then read together for 30 minutes. | Friday, August 21, 11:45 AM-12:30 PM, directly after our 10:15-11:30 AM meeting in Pfahler 208 (all before classes begin Monday, August 24) | Library, 3rd floor (our section) |
 | **Sport and Humanity Hub** | Wednesday, September 23, 1:30-2:30 PM | To be announced |
 | **Banned Books Panel**, a conversation on intellectual freedom and the fight against censorship, marking Banned Books Week. | Wednesday, October 14, 1:30-2:30 PM | Bomberger Auditorium |
-| **Student docent-led exhibition tour** (Center for Humanities in Action), a [Berman Museum](https://www.ursinus.edu/berman/exhibitions/) tour we take as a class, connecting the exhibition to Deloria's *God Is Red*. The exhibition on view and the confirmed tour time will be announced closer to the date. | Tuesday, November 17, during our 1:30-2:45 PM class period (event week of November 16-20) | The Berman Museum of Art |
+| **Student docent-led exhibition tour** (Center for Humanities in Action), a [Berman Museum](https://www.ursinus.edu/berman/exhibitions/) tour we take as a class, connecting the exhibition to Deloria's *God Is Red*. | Thursday, November 19, during our 1:30-2:45 PM class period (event week of November 16-20) | The Berman Museum of Art |
 
 ### **Resources**
 
