@@ -26,6 +26,6 @@ If the reading is what's slowing you down, please see [How to Read Hard Texts in
 
 ## Writing Prompt
 
-1.  What does McPhee suggest about the wisdom, and the hubris, of attempting to control nature?  Choose a passage where the engineers' confidence and nature's indifference collide, and discuss whether McPhee is finally an admirer or a critic of these efforts, or something more complicated.
+1.  McPhee asks you to imagine spans of time that no one can feel.  Choose a passage where he makes deep time something you can touch, such as the unconformity at Carlin Canyon, and discuss what his comparison helps you understand and what it hides.  Does he finally leave you feeling that you have grasped deep time, or that you cannot?
 
-2.  The control of nature is not an abstraction here: the Perkiomen Creek flooding from Hurricane Ida in 2021 touched this region directly.  Where in your own community has the control of nature succeeded, failed, or merely been postponed?  What would McPhee notice about that place that its residents might not?
+2.  The Perkiomen Creek flooded during Hurricane Ida in 2021, and people here still remember it.  Set an event like that beside the time scale McPhee describes.  Where in your own community can you read a long history in the land, in a road cut, a creek bed, or the stone of a building?  What would McPhee notice about that place that its residents might not?

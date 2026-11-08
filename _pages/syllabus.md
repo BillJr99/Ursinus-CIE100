@@ -534,7 +534,7 @@ schedule:
         rlink: false
   - week: "11"
     date: "1"
-    title: "McPhee: The Control of Nature and Engineering Against the River"
+    title: "McPhee: Basin and Range and Deep Time"
     deliverables:
       - dtitle: "Informal Writing: McPhee Writing Prompt Due"
         dlink: "Participation/McPhee"

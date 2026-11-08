@@ -72,7 +72,7 @@ Choose **one** of the following options.  Whichever option you choose, your essa
 
 1.  Genesis, Darwin, and Deloria give us three very different accounts of humanity's place in nature.  We are created stewards of a garden, we are one branching lineage among many, and we are inhabitants of sacred places to which we owe obligations.  Construct an argument about how we ought to understand our place in the natural world, and take at least two of these accounts seriously instead of dismissing either one.
 
-2.  McPhee documents our engineering contests with rivers and mountains, and Forster imagines a civilization that has surrendered entirely to its own Machine.  Construct an argument about the limits we should accept on technological mastery.  Where does the control of nature, or the handing over of life to machines, cross from prudence into hubris, and how would we know?
+2.  McPhee sets human ambition against the deep time in which mountains rise and wear away, and Forster imagines a civilization that has surrendered entirely to its own Machine.  Construct an argument about the limits we should accept on technological mastery.  Where does the effort to master nature, or the handing over of life to machines, cross from prudence into hubris, and how would we know?
 
 3.  McLuhan claims that media reshape us regardless of their content, and Forster dramatized exactly that reshaping nearly a century before the technologies arrived.  Construct an argument about what your generation should do about its Machine, grounded in both texts and in at least one earlier text from the semester (for example, Plato's cave or Coates' Dream) that gives your argument historical depth.
 
