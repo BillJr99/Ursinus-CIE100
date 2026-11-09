@@ -503,10 +503,6 @@ schedule:
         dlink: "Participation/Darwin"
         points: 10
         submission_types: "written"
-      - dtitle: "Informal Writing: Draft Four A's (Paper 2) Due"
-        dlink: "Participation/DraftFourAs"
-        points: 10
-        submission_types: "written"
       - dtitle: "Essay 2: Final Draft Handed Out"
         dlink: "Assignments/Essay2"
         points: 60
@@ -538,6 +534,10 @@ schedule:
     deliverables:
       - dtitle: "Informal Writing: McPhee Writing Prompt Due"
         dlink: "Participation/McPhee"
+        points: 10
+        submission_types: "written"
+      - dtitle: "Informal Writing: Draft Four A's (Paper 2) Due"
+        dlink: "Participation/DraftFourAs"
         points: 10
         submission_types: "written"
       - dtitle: "Informal Writing: Deloria Writing Prompt Handed Out"
