@@ -109,6 +109,7 @@ Please budget these hours in your week before the week begins.  Two shorter sess
 ##### Darwin, *On the Origin of Species* (selections)
 
 - Expect Victorian sentences: long, qualified, courteous, and built like arguments in miniature.  Read them at sentence speed, not paragraph speed, and reread freely.
+- The selection walks Darwin's argument in three steps, one chapter each.  Chapter I (Variation under Domestication) shows breeders changing animals a great deal by adding up differences too small to see.  Chapter III (Struggle for Existence) argues that far more living things are born than can survive, so there is always a struggle.  Chapter IV (Natural Selection) puts the two together: nature selects the way a breeder does, with no one choosing and with far more time.  If you lose the thread, ask which of the three steps the page in front of you is supporting.
 - Readers commonly stall in the piles of examples (pigeons, barnacles, seeds).  Track the argument instead.  Each pile exists to support one claim, so name the claim in the margin and move on.
 - Darwin anticipates objections constantly, and when he raises one, mark it.  His handling of counterarguments is a model for your own essays.
 - Watch his tone.  The caution is strategic, and noticing where he hedges tells you where he knows the stakes are highest.
