@@ -637,6 +637,8 @@ schedule:
     readings:
       - rtitle: "Continue discussing McLuhan"
         rlink: false
+      - rtitle: "Bring your week-one Allegory of the Cave writing prompt response (open from Canvas, or printed).  We revise one sentence of it in class."
+        rlink: false
   - week: "14"
     date: "1"
     title: "Forster, The Machine Stops: Prophecy from 1909"
@@ -656,6 +658,8 @@ schedule:
         submission_types: "written"
     readings:
       - rtitle: "Forster, The Machine Stops (CIE Reader)"
+        rlink: false
+      - rtitle: "Bring your Personal Machine Map from the writing prompt and your 12/1 Return to the Cave sentence."
         rlink: false
   - week: "15"
     date: "0"
@@ -678,6 +682,8 @@ schedule:
       - rtitle: "Continue discussing The Machine Stops, followed by a revision workshop for Essay 3"
         rlink: false
       - rtitle: "Final revision workshop for Essay 3; the final draft is due today, our last class meeting"
+        rlink: false
+      - rtitle: "Bring your Essay 3 first draft (printed or open), any feedback on it, and your Return to the Cave sentence with its 12/3 margin note."
         rlink: false
 
 university:
