@@ -575,7 +575,7 @@ schedule:
         rlink: false
   - week: "12"
     date: "1"
-    title: "CIE Common Event: Docent-Led Tour at the Berman Museum of Art (No Regular Class; We Meet at the Museum)"
+    title: "CIE Common Event: Docent-Led Tour at the Berman Museum of Art (No Regular Class: The Common Event Replaces It; We Meet at the Museum)"
     deliverables:
       - dtitle: "Informal Writing: McLuhan Writing Prompt Handed Out"
         dlink: "Participation/McLuhan"
@@ -600,7 +600,7 @@ schedule:
         points: 10
         submission_types: "written"
     readings:
-      - rtitle: "The entire class period is given over to the CIE Common Event: a student docent-led tour of the exhibition on view at the Berman Museum of Art (Center for Humanities in Action).  There is no regular class meeting and no assigned discussion today; we meet at the museum rather than in Pfahler 208."
+      - rtitle: "The entire class period is given over to the CIE Common Event: a student docent-led tour of the exhibition on view at the Berman Museum of Art (Center for Humanities in Action).  There is no regular class today: the Common Event replaces our class meeting, with no assigned discussion.  We meet at the museum rather than in Pfahler 208."
         rlink: "https://www.ursinus.edu/berman/exhibitions/"
   - week: "13"
     date: "0"
