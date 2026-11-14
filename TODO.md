@@ -14,3 +14,7 @@
   - Consider an autoresearch loop: an agent that audits each notes page, tutorial, and LiaScript deck against WCAG (checked with WAVE) and the UDL principles, applies fixes, re-evaluates, and iterates until the pages pass. (added 2026-10-29)
 
 - [ ] Consider proficiency-based grading standards (for example, standards- or specifications-based grading) that reward on-time submissions and consistent, sustained effort across the term. (added 2026-10-29)
+
+- [ ] Add an ungraded interview with each student (a short one-on-one conversation about their work and progress).
+
+- [ ] Add a grading component tied to on-time submissions.
