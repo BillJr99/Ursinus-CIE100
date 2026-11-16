@@ -29,7 +29,7 @@ Before you draft each essay, this workshop asks you to build the smallest comple
 Select **two quotations** you actually intend to use in the upcoming essay.  For each one, write the full chain:
 
 1.  **Claim**: one sentence of your own stating what you assert.  This should be a sub-claim of your working thesis, and not the thesis itself.
-2.  **Evidence**: the quotation, cited with page or line reference, trimmed to the words that do the work.
+2.  **Evidence**: the quotation, cited with page or line reference, trimmed to the words that support your claim.
 3.  **Warrant**: 2-3 sentences of your own reasoning showing why this quote supports this claim.  Tell me what the quote's specific words establish, and what has to be true for that evidence to carry the claim's weight.
 
 Then add one **"tempting but weak" quote**, meaning a passage you considered using and rejected, with one sentence on why it fails.  It might be decorative (it sounds good but proves nothing), taken out of context (it means something else in its original setting), or it might simply restate your claim instead of supporting it.
@@ -38,7 +38,7 @@ The whole response comes to roughly a 1-2 paragraph equivalent.  Please submit i
 
 ## Criteria
 
-A strong response has warrants that would convince a skeptical reader who does not already agree with you, quotations trimmed down to the words doing the work, and a rejected quote whose failure you can name precisely.  I'd much rather see two complete chains with real warrants than four quotes with none.
+A strong response has warrants that would convince a skeptical reader who does not already agree with you, quotations trimmed down to the words that support the claim, and a rejected quote whose failure you can name precisely.  I'd much rather see two complete chains with real warrants than four quotes with none.
 
 ## Formats (UDL)
 
