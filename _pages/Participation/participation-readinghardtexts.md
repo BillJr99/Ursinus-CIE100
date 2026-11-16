@@ -42,7 +42,7 @@ You don't read a hard text once.  You read it in passes, and each pass has a dif
 
 1.  **Pass one: survey (10-15 minutes).**  Before you read a word closely, flip through the whole assignment.  Read the first and last paragraphs, the section breaks, any headings or footnotes, and the first sentence of a handful of paragraphs.  You are building a map here, not comprehension: what kind of text is this, how long is it really, and where does it seem to turn?
 2.  **Pass two: close read with pencil (the main event).**  Read the whole assignment with a pencil, or its digital equivalent, in hand.  Mark the passages that strike you, confuse you, or repeat.  Write questions in the margins and argue back.  This is also where quote-harvesting happens (see below).
-3.  **Pass three: return to the hardest paragraph (10-15 minutes).**  After you finish, go back to the single paragraph that resisted you most and read it again slowly, aloud if that helps.  It'll often unlock now that you know where the text was going.  If it still resists, please bring it to class, because the hardest paragraph is usually where the best discussion lives.  You almost certainly aren't the only one stuck there.
+3.  **Pass three: return to the hardest paragraph (10-15 minutes).**  After you finish, go back to the single paragraph that resisted you most and read it again slowly, aloud if that helps.  It'll often become clear now that you know where the text was going.  If it still resists, please bring it to class, because the hardest paragraph is usually where the best discussion lives.  You almost certainly aren't the only one stuck there.
 
 #### Reading with the Four A's
 

@@ -821,7 +821,7 @@ This is a discussion seminar, so your voice is course material as much as the te
 - taking a turn in one of the rotating discussion roles below;
 - contributing through whatever channel we are using that day (a shared document, a written thread, or an exit note) when speaking aloud is not where your best thinking lands.
 
-A quiet day is not a penalty.  It is simply a half-point you did not earn, and I would like you to finish the semester having left very few of them on the table.
+A quiet day is not a penalty.  It is a half-point you did not earn, and I would like you to finish the semester having left very few of them on the table.
 
 **Quality of engagement: the other half.**  The remaining points reflect the *depth* of your contributions across the term, and I assess them holistically against the rubric below at midterm and again at the end.  I will tell you where you stand at midterm, and you will complete a short self-assessment at both points (see the [Preparing for Discussion](Participation/PreparingForDiscussion) guide), so your own sense of your growth is part of the grade and nothing at the end comes as a surprise.
 
