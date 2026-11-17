@@ -557,15 +557,11 @@ schedule:
         dlink: "Participation/Deloria"
         points: 10
         submission_types: "written"
-      - dtitle: "Essay 2: Final Draft Due"
-        dlink: "Assignments/Essay2"
-        points: 60
-        rubricpath: "_pages/Assignments/asmt-essay2.md"
+      - dtitle: "Essay 3 Handed Out"
+        dlink: "Assignments/Essay3"
+        points: 100
         submission_types: "written"
-      - dtitle: "Participation: Thesis Workshop (Paper 3) Handed Out"
-        dlink: "Participation/ThesisWorkshop"
-        points: 10
-        submission_types: "written"
+        rubricpath: "_pages/Assignments/asmt-essay3.md"
     readings:
       - rtitle: "Deloria selections (CIE Reader).  Our full Deloria discussion, building the time-versus-space argument from quotation, then the Essay 3 assignment sheet and the in-class brainstorming workshop.  Come having marked your Deloria passages in advance, since we build the quotation board from passages you have already chosen."
         rlink: false
@@ -581,22 +577,18 @@ schedule:
         dlink: "Participation/McLuhan"
         points: 10
         submission_types: "written"
-      - dtitle: "Essay 3 Handed Out"
-        dlink: "Assignments/Essay3"
-        points: 100
-        submission_types: "written"
-        rubricpath: "_pages/Assignments/asmt-essay3.md"
-      - dtitle: "Participation: Thesis Workshop (Paper 3) Due"
-        dlink: "Participation/ThesisWorkshop"
-        points: 10
-        submission_types: "written"
       - dtitle: "Essay 3: First Draft Handed Out"
         dlink: "Assignments/Essay3"
         points: 40
         rubricpath: "_pages/Assignments/asmt-essay3.md"
         submission_types: "written"
-      - dtitle: "Participation: Evidence Workshop (Paper 3) Handed Out"
-        dlink: "Participation/EvidenceWorkshop"
+      - dtitle: "Essay 2: Final Draft Due"
+        dlink: "Assignments/Essay2"
+        points: 60
+        rubricpath: "_pages/Assignments/asmt-essay2.md"
+        submission_types: "written"
+      - dtitle: "Participation: Thesis Workshop (Paper 3) Handed Out"
+        dlink: "Participation/ThesisWorkshop"
         points: 10
         submission_types: "written"
     readings:
@@ -610,7 +602,11 @@ schedule:
         dlink: "Participation/McLuhan"
         points: 10
         submission_types: "written"
-      - dtitle: "Participation: Evidence Workshop (Paper 3) Due"
+      - dtitle: "Participation: Thesis Workshop (Paper 3) Due"
+        dlink: "Participation/ThesisWorkshop"
+        points: 10
+        submission_types: "written"
+      - dtitle: "Participation: Evidence Workshop (Paper 3) Handed Out"
         dlink: "Participation/EvidenceWorkshop"
         points: 10
         submission_types: "written"
@@ -629,10 +625,9 @@ schedule:
         dlink: "Participation/Forster"
         points: 10
         submission_types: "written"
-      - dtitle: "Essay 3: First Draft Due"
-        dlink: "Assignments/Essay3"
-        points: 40
-        rubricpath: "_pages/Assignments/asmt-essay3.md"
+      - dtitle: "Participation: Evidence Workshop (Paper 3) Due"
+        dlink: "Participation/EvidenceWorkshop"
+        points: 10
         submission_types: "written"
     readings:
       - rtitle: "Continue discussing McLuhan"
@@ -654,6 +649,11 @@ schedule:
       - dtitle: "Essay 3: Final Draft Handed Out"
         dlink: "Assignments/Essay3"
         points: 60
+        rubricpath: "_pages/Assignments/asmt-essay3.md"
+        submission_types: "written"
+      - dtitle: "Essay 3: First Draft Due"
+        dlink: "Assignments/Essay3"
+        points: 40
         rubricpath: "_pages/Assignments/asmt-essay3.md"
         submission_types: "written"
     readings:
