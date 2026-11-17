@@ -18,3 +18,6 @@
 - [ ] Add an ungraded interview with each student (a short one-on-one conversation about their work and progress).
 
 - [ ] Add a grading component tied to on-time submissions.
+
+- [ ] Have students submit any warmup survey in Canvas.
+- [ ] Include an updated syllabus quiz based on the current syllabus.
