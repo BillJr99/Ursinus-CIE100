@@ -64,17 +64,17 @@ tags:
 
 ---
 
-In this final essay of 1500 to 1800 words, please construct an argument that synthesizes texts from the second half of our semester.  You have Genesis, Darwin, McPhee, Deloria, McLuhan, and Forster to work with.  The essay takes up the third and fourth core questions of the course, how can we understand the world and what will I do, by asking how we should understand humanity's place in nature and technology's place in human life.
+In this final essay of 1500 to 1800 words, please construct an argument that synthesizes texts from the second half of our semester.  You have Genesis, chapters 1-22 (Alter translation), the assigned CIE Reader selections by Darwin, McPhee (*Basin and Range*), Deloria (*God Is Red*), and McLuhan, and Forster's *The Machine Stops* to work with.  Use the assigned texts and excerpts listed on the syllabus.  The essay takes up the third and fourth core questions of the course, how can we understand the world and what will I do, by asking how we should understand humanity's place in nature and technology's place in human life.
 
 ## Prompt
 
 Choose **one** of the following options.  Whichever option you choose, your essay must engage at least two texts from this unit, advance a specific, arguable thesis, and support it with carefully selected quotations cited in MLA format.
 
-1.  Genesis, Darwin, and Deloria give us three very different accounts of humanity's place in nature.  We are created stewards of a garden, we are one branching lineage among many, and we are inhabitants of sacred places to which we owe obligations.  Construct an argument about how we ought to understand our place in the natural world, and take at least two of these accounts seriously instead of dismissing either one.
+1.  Genesis, Darwin, and Deloria give us three very different ways of understanding the natural world.  Genesis describes creation and humanity's relation to it, Darwin explains natural selection, and Deloria argues for the sacredness of place.  Construct an argument about how we ought to understand our place in the natural world, and take at least two of these accounts seriously instead of dismissing either one.
 
 2.  McPhee sets human ambition against the deep time in which mountains rise and wear away, and Forster imagines a civilization that has surrendered entirely to its own Machine.  Construct an argument about the limits we should accept on technological mastery.  Where does the effort to master nature, or the handing over of life to machines, cross from prudence into hubris, and how would we know?
 
-3.  McLuhan claims that media reshape us regardless of their content, and Forster dramatized exactly that reshaping nearly a century before the technologies arrived.  Construct an argument about what your generation should do about its Machine, grounded in both texts and in at least one earlier text from the semester (for example, Plato's cave or Coates' Dream) that gives your argument historical depth.
+3.  McLuhan claims that media reshape us regardless of their content, and Forster imagines a civilization whose lives are mediated by its Machine.  Construct an argument about what your generation should do about its Machine, grounded in both texts and in at least one earlier text from the semester (for example, Plato's Allegory of the Cave or Coates' *Between the World and Me*) that gives your argument historical depth.
 
 ## Scaffolded Deliverables
 
@@ -85,7 +85,7 @@ Unlike Essays 1 and 2, this essay has **no separate outline deliverable**.  You 
 1.  **First Draft.**  A complete draft of the full 1500 to 1800 words, and not a partial sketch.
 2.  **Final Draft.**  The revised essay, accompanied by a brief (one paragraph) revision memo describing what you changed and why.
 
-**A note on reading ahead.**  Prompt options 2 and 3 name McLuhan and Forster, and I have assigned both readings early on the schedule so that every text named in your chosen prompt is read before you draft.  Please check the schedule for when each reading and discussion falls.  Draft from the text instead of waiting on class discussion, and then let the discussion sharpen your argument when you revise.  That is why the revision carries 60 of this assignment's 100 points.
+**A note on reading ahead.**  Option 2 pairs McPhee with Forster; option 3 pairs McLuhan with Forster and also requires at least one earlier text.  The schedule assigns McLuhan and Forster as read-ahead texts so that every text named in your chosen prompt can be read before you draft.  Please check the schedule for when each reading and discussion falls.  Draft from the text instead of waiting on class discussion, and then let the discussion sharpen your argument when you revise.  That is why the revision carries 60 of this assignment's 100 points.
 
 ## Academic Honesty
 

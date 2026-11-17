@@ -565,7 +565,7 @@ schedule:
     readings:
       - rtitle: "Deloria selections (CIE Reader).  Our full Deloria discussion, building the time-versus-space argument from quotation, then the Essay 3 assignment sheet and the in-class brainstorming workshop.  Come having marked your Deloria passages in advance, since we build the quotation board from passages you have already chosen."
         rlink: false
-      - rtitle: "Read ahead for the Essay 3 first draft: McLuhan selections (CIE Reader) and Forster, The Machine Stops (CIE Reader).  We discuss McLuhan on 11/24 and 12/1 and Forster on 12/3 and 12/8, but every text named in the Essay 3 prompt must be read before your first draft is due on 12/1."
+      - rtitle: "Read ahead for the Essay 3 first draft: McLuhan selections (CIE Reader) and Forster, The Machine Stops (CIE Reader).  We discuss McLuhan on 11/24 and 12/1 and Forster on 12/3 and 12/8, but every text named in the Essay 3 prompt must be read before your first draft is due on 12/3."
         rlink: false
       - rtitle: "Note: the last day to withdraw with a W grade is Tuesday, November 17, 2026"
         rlink: false
