@@ -642,10 +642,6 @@ schedule:
         dlink: "Participation/Forster"
         points: 10
         submission_types: "written"
-      - dtitle: "Informal Writing: Writing Fellow Reflection Handed Out"
-        dlink: "Participation/WritingFellowReflection"
-        points: 10
-        submission_types: "written"
       - dtitle: "Essay 3: Final Draft Handed Out"
         dlink: "Assignments/Essay3"
         points: 60
@@ -665,10 +661,6 @@ schedule:
     date: "0"
     title: "Forster, Continued, and Final Revision Workshop (Tuesday 12/8 Follows a Thursday Schedule)"
     deliverables:
-      - dtitle: "Informal Writing: Writing Fellow Reflection Due"
-        dlink: "Participation/WritingFellowReflection"
-        points: 10
-        submission_types: "written"
       - dtitle: "Participation: Class Participation and Discussion Due"
         dlink: "Participation/PreparingForDiscussion"
         points: 10
@@ -777,7 +769,7 @@ Our conversation this semester moves from the ancient world to the doorstep of o
 
 ### **Writing Fellow**
 
-Our section is fortunate to be paired with Writing Fellow Vienna Gurev ([vigurev@ursinus.edu](mailto:vigurev@ursinus.edu)), a trained peer writing tutor who will work with you across the drafting and revision process.  **For Essays 1 and 2 the conference is required and graded.**  You must meet with her in person between the first and final drafts, and one row of that essay's rubric rewards having met **and** a final draft that visibly responds to the conversation.  Attending without revising earns only partial credit on that row, and so does revising without attending.  Please sign up early, because Vienna sees the whole section within each window, and those windows are 19 days for Essay 1 and 21 days for Essay 2.  **Essay 3 has no required conference**; you are welcome to book one, but it is not part of that essay's grade.  The end-of-semester Writing Fellow Reflection invites you to take stock of how your revision practice has grown.
+Our section is fortunate to be paired with Writing Fellow Vienna Gurev ([vigurev@ursinus.edu](mailto:vigurev@ursinus.edu)), a trained peer writing tutor who will work with you across the drafting and revision process.  **For Essays 1 and 2 the conference is required and graded.**  You must meet with her in person between the first and final drafts, and one row of that essay's rubric rewards having met **and** a final draft that visibly responds to the conversation.  Attending without revising earns only partial credit on that row, and so does revising without attending.  Please sign up early, because Vienna sees the whole section within each window, and those windows are 19 days for Essay 1 and 21 days for Essay 2.  **Essay 3 has no required conference**; you are welcome to book one, but it is not part of that essay's grade.
 
 ### **Attendance and Class Engagement**
 
