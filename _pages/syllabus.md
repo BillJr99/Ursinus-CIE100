@@ -796,9 +796,9 @@ The scaffolded deliverables and drafts for each essay fall on the dates below (a
 | Essay 2 assignment sheet handed out | Thursday, October 15 |
 | Essay 2 thesis statement, quote list, and rough outline | Thursday, October 22 |
 | Essay 2 first draft (for Writing Fellow review) | Tuesday, November 3 |
-| Essay 2 final draft | Tuesday, November 17 |
-| Essay 3 assignment sheet handed out | Thursday, November 19 |
-| Essay 3 first draft (no conference required) | Tuesday, December 1 |
+| Essay 2 final draft | Thursday, November 19 |
+| Essay 3 assignment sheet handed out | Tuesday, November 17 |
+| Essay 3 first draft (no conference required) | Thursday, December 3 |
 | Essay 3 final draft | Tuesday, December 8 (our last class meeting) |
 
 #### In-Class Participation (30%) {#participation}
